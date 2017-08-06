@@ -1,0 +1,14 @@
+Version: '1.14'
+Config:
+  Default: default
+  UUID-Mode: false
+  KeyWord: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890
+  DisplayString: 无
+  DataBase:
+    Type: sqlite
+    MySQL:
+      addr: 127.0.0.1
+      port: 3306
+      base: VipSystem
+      user: VipSystem
+      pwd: EFSyYHe2bx

@@ -1,0 +1,44 @@
+lastlocation:
+  world: world
+  x: -28.69999998807907
+  y: 63.0
+  z: 197.30000001192093
+  yaw: 211.1148
+  pitch: 84.299904
+lastAccountName: HuangXianS
+timestamps:
+  login: 1502020315721
+  logout: 1502023365425
+  lastteleport: 1502023352678
+ipAddress: 36.149.41.117
+money: '90.0'
+logoutlocation:
+  world: world
+  x: -2084.5
+  y: 64.0
+  z: -603.5
+  yaw: 179.19116
+  pitch: 16.949854
+homes:
+  home:
+    world: world
+    x: -2084.2653003522014
+    y: 64.0
+    z: -603.7942692460085
+    yaw: 179.19116
+    pitch: 16.949854
+  b:
+    world: world_nether
+    x: -401.5140296790878
+    y: 60.0
+    z: 170.87724518790336
+    yaw: 185.4685
+    pitch: 15.599853
+  c:
+    world: world_the_end
+    x: -1191.0919270190377
+    y: 76.0
+    z: 375.45352990439875
+    yaw: -34.467773
+    pitch: 10.6501255
+afk: false

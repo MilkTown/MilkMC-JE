@@ -1,0 +1,126 @@
+Aug 1, 2017 1:13:19 AM[Yum 命令监控] 玩家 CONSOLE 执行 TitleManager 插件 tm reload 命令时发生异常!
+Aug 1, 2017 1:13:19 AM异常名称: java.lang.IllegalAccessError
+Aug 1, 2017 1:13:19 AM异常说明: tried to access class io.puharesource.mc.titlemanager.web.UpdateChecker$start$1 from class io.puharesource.mc.titlemanager.web.UpdateChecker
+Aug 1, 2017 1:13:19 AM简易错误信息如下:
+Aug 1, 2017 1:13:19 AM    位于 io.puharesource.mc.titlemanager.web.UpdateChecker.start(UpdateChecker.kt:23)
+Aug 1, 2017 1:13:19 AM    位于 io.puharesource.mc.titlemanager.TitleManagerPlugin.reloadPlugin(TitleManagerPlugin.kt:120)
+Aug 1, 2017 1:13:19 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:8)
+Aug 1, 2017 1:13:19 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:6)
+Aug 1, 2017 1:13:19 AM    位于 io.puharesource.mc.titlemanager.commands.CommandExecutorKt.commandExecutor(CommandExecutor.kt:188)
+Aug 1, 2017 1:13:45 AM[Yum 命令监控] 玩家 CONSOLE 执行 TitleManager 插件 tm reload 命令时发生异常!
+Aug 1, 2017 1:13:45 AM异常名称: java.lang.IllegalAccessError
+Aug 1, 2017 1:13:45 AM异常说明: io/puharesource/mc/titlemanager/web/UpdateChecker$start$1
+Aug 1, 2017 1:13:45 AM简易错误信息如下:
+Aug 1, 2017 1:13:45 AM    位于 io.puharesource.mc.titlemanager.web.UpdateChecker.start(UpdateChecker.kt:23)
+Aug 1, 2017 1:13:45 AM    位于 io.puharesource.mc.titlemanager.TitleManagerPlugin.reloadPlugin(TitleManagerPlugin.kt:120)
+Aug 1, 2017 1:13:45 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:8)
+Aug 1, 2017 1:13:45 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:6)
+Aug 1, 2017 1:13:45 AM    位于 io.puharesource.mc.titlemanager.commands.CommandExecutorKt.commandExecutor(CommandExecutor.kt:188)
+Aug 1, 2017 1:14:12 AM[Yum 命令监控] 玩家 CONSOLE 执行 TitleManager 插件 tm reload 命令时发生异常!
+Aug 1, 2017 1:14:12 AM异常名称: java.lang.IllegalAccessError
+Aug 1, 2017 1:14:12 AM异常说明: io/puharesource/mc/titlemanager/web/UpdateChecker$start$1
+Aug 1, 2017 1:14:12 AM简易错误信息如下:
+Aug 1, 2017 1:14:12 AM    位于 io.puharesource.mc.titlemanager.web.UpdateChecker.start(UpdateChecker.kt:23)
+Aug 1, 2017 1:14:12 AM    位于 io.puharesource.mc.titlemanager.TitleManagerPlugin.reloadPlugin(TitleManagerPlugin.kt:120)
+Aug 1, 2017 1:14:12 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:8)
+Aug 1, 2017 1:14:12 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:6)
+Aug 1, 2017 1:14:12 AM    位于 io.puharesource.mc.titlemanager.commands.CommandExecutorKt.commandExecutor(CommandExecutor.kt:188)
+Aug 1, 2017 1:14:20 AM[Yum 命令监控] 玩家 CONSOLE 执行 TitleManager 插件 tm reload 命令时发生异常!
+Aug 1, 2017 1:14:20 AM异常名称: java.lang.IllegalAccessError
+Aug 1, 2017 1:14:20 AM异常说明: tried to access class io.puharesource.mc.titlemanager.web.UpdateChecker$start$1 from class io.puharesource.mc.titlemanager.web.UpdateChecker
+Aug 1, 2017 1:14:20 AM简易错误信息如下:
+Aug 1, 2017 1:14:20 AM    位于 io.puharesource.mc.titlemanager.web.UpdateChecker.start(UpdateChecker.kt:23)
+Aug 1, 2017 1:14:20 AM    位于 io.puharesource.mc.titlemanager.TitleManagerPlugin.reloadPlugin(TitleManagerPlugin.kt:120)
+Aug 1, 2017 1:14:20 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:8)
+Aug 1, 2017 1:14:20 AM    位于 io.puharesource.mc.titlemanager.commands.CommandReload$1$1.invoke(CommandReload.kt:6)
+Aug 1, 2017 1:14:20 AM    位于 io.puharesource.mc.titlemanager.commands.CommandExecutorKt.commandExecutor(CommandExecutor.kt:188)
+Aug 3, 2017 6:30:00 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:30:00 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:30:00 PM异常说明: null
+Aug 3, 2017 6:30:00 PM简易错误信息如下:
+Aug 3, 2017 6:30:00 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:30:00 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:30:00 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:30:00 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:30:00 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 3, 2017 6:30:07 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:30:07 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:30:07 PM异常说明: null
+Aug 3, 2017 6:30:07 PM简易错误信息如下:
+Aug 3, 2017 6:30:07 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:30:07 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:30:07 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:30:07 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:30:07 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 3, 2017 6:35:19 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:35:19 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:35:19 PM异常说明: null
+Aug 3, 2017 6:35:19 PM简易错误信息如下:
+Aug 3, 2017 6:35:19 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:35:19 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:35:19 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:35:19 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:35:19 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 3, 2017 6:35:23 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:35:23 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:35:23 PM异常说明: null
+Aug 3, 2017 6:35:23 PM简易错误信息如下:
+Aug 3, 2017 6:35:23 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:35:23 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:35:23 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:35:23 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:35:23 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 3, 2017 6:35:38 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:35:38 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:35:38 PM异常说明: null
+Aug 3, 2017 6:35:38 PM简易错误信息如下:
+Aug 3, 2017 6:35:38 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:35:38 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:35:38 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:35:38 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:35:38 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 3, 2017 6:36:03 PM[Yum 事件监控] 插件 VLagger 处理 PlayerEditBookEvent 事件时发生异常!
+Aug 3, 2017 6:36:03 PM异常名称: java.lang.NullPointerException
+Aug 3, 2017 6:36:03 PM异常说明: null
+Aug 3, 2017 6:36:03 PM简易错误信息如下:
+Aug 3, 2017 6:36:03 PM    位于 com.mcml.space.patch.CheatBookBlocker.onBookEdit(CheatBookBlocker.java:58)
+Aug 3, 2017 6:36:03 PM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor175.execute(未知:-1)
+Aug 3, 2017 6:36:03 PM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 3, 2017 6:36:03 PM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 3, 2017 6:36:03 PM    位于 pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+Aug 6, 2017 12:09:56 AM[Yum 命令监控] 玩家 1025 执行 VipSystem 插件 vipsys key 命令时发生异常!
+Aug 6, 2017 12:09:56 AM异常名称: java.lang.ArrayIndexOutOfBoundsException
+Aug 6, 2017 12:09:56 AM异常说明: 1
+Aug 6, 2017 12:09:56 AM简易错误信息如下:
+Aug 6, 2017 12:09:56 AM    位于 me.zhanshi123.VipSystem.Commands.onCommand(Commands.java:192)
+Aug 6, 2017 12:09:56 AM    位于 pw.yumc.Yum.inject.CommandInjector.onCommand(CommandInjector.java:106)
+Aug 6, 2017 12:09:56 AM    位于 org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+Aug 6, 2017 12:09:56 AM    位于 org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
+Aug 6, 2017 12:09:56 AM    位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:666)
+Aug 6, 2017 12:18:47 AM[Yum 命令监控] 玩家 HailayLin 执行 VipSystem 插件 vipsys give Gua_xiao_ye fly 0.5 命令时发生异常!
+Aug 6, 2017 12:18:47 AM异常名称: java.lang.NumberFormatException
+Aug 6, 2017 12:18:47 AM异常说明: For input string: "0.5"
+Aug 6, 2017 12:18:47 AM简易错误信息如下:
+Aug 6, 2017 12:18:47 AM    位于 java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+Aug 6, 2017 12:18:47 AM    位于 java.lang.Integer.parseInt(Integer.java:580)
+Aug 6, 2017 12:18:47 AM    位于 java.lang.Integer.valueOf(Integer.java:766)
+Aug 6, 2017 12:18:47 AM    位于 me.zhanshi123.VipSystem.DataBase.addVip(DataBase.java:136)
+Aug 6, 2017 12:18:47 AM    位于 me.zhanshi123.VipSystem.Utils.addVip(Utils.java:72)
+Aug 6, 2017 6:54:31 PM[Yum 命令监控] 玩家 CONSOLE 执行 VipSystem 插件 vipsys give Gua 命令时发生异常!
+Aug 6, 2017 6:54:31 PM异常名称: java.lang.ArrayIndexOutOfBoundsException
+Aug 6, 2017 6:54:31 PM异常说明: 2
+Aug 6, 2017 6:54:31 PM简易错误信息如下:
+Aug 6, 2017 6:54:31 PM    位于 me.zhanshi123.VipSystem.Commands.onCommand(Commands.java:61)
+Aug 6, 2017 6:54:31 PM    位于 pw.yumc.Yum.inject.CommandInjector.onCommand(CommandInjector.java:106)
+Aug 6, 2017 6:54:31 PM    位于 org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+Aug 6, 2017 6:54:31 PM    位于 org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
+Aug 6, 2017 6:54:31 PM    位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:666)
+Aug 6, 2017 6:54:53 PM[Yum 命令监控] 玩家 CONSOLE 执行 VipSystem 插件 vipsys look 命令时发生异常!
+Aug 6, 2017 6:54:53 PM异常名称: java.lang.ArrayIndexOutOfBoundsException
+Aug 6, 2017 6:54:53 PM异常说明: 1
+Aug 6, 2017 6:54:53 PM简易错误信息如下:
+Aug 6, 2017 6:54:53 PM    位于 me.zhanshi123.VipSystem.Commands.onCommand(Commands.java:107)
+Aug 6, 2017 6:54:53 PM    位于 pw.yumc.Yum.inject.CommandInjector.onCommand(CommandInjector.java:106)
+Aug 6, 2017 6:54:53 PM    位于 org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+Aug 6, 2017 6:54:53 PM    位于 org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
+Aug 6, 2017 6:54:53 PM    位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:666)

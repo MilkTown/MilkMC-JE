@@ -1,0 +1,23 @@
+name: shop
+displayname: '&8&l[&b&m=---=&8&l> &f&l{warpname} &8&l<&7&b&m=---=&8&l]'
+description:
+- '&8&m---------&r &b地标详情 &8&m--------'
+- ''
+- '&b权限&f&l: &8[&f{permission}&8]'
+- '&b冷却&f&l: &6{cooldown} &f秒'
+- '&b金钱消耗&f&l: &6{cost}'
+- '&b位置坐标&f&l:'
+- '&8- &f世界&f&l: &6{world}'
+- '&8- &fX&f&l: &6{x}'
+- '&8- &fY&f&l: &6{y}'
+- '&8- &fZ&f&l: &6{z}'
+- ''
+- '&8&m---------------------------'
+cooldown: 5
+cost: 0.0
+glowing: false
+permission: moretp.warp.{warpname}
+item: DIAMOND_BLOCK
+data: 0
+location: world<>-180.5052097701061<>61.0<>173.38028664356227<>0.44992104<>-181.05035
+slot: 16

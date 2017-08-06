@@ -1,0 +1,29 @@
+lastAccountName: Azure
+timestamps:
+  login: 1502025718043
+  lastteleport: 1502029167971
+  logout: 1502030601180
+ipAddress: 115.200.228.123
+lastlocation:
+  world: zy
+  x: 1839.2008751150358
+  y: 44.0
+  z: -2460.396377616041
+  yaw: -106.76294
+  pitch: -2.5500154
+money: '100.0'
+logoutlocation:
+  world: zy
+  x: 1843.9520565139592
+  y: 11.0
+  z: -2577.5162140634666
+  yaw: -269.9619
+  pitch: 21.90001
+homes:
+  home:
+    world: zy
+    x: 1853.5029379764994
+    y: 52.0
+    z: -2442.655911870267
+    yaw: -192.41357
+    pitch: 42.600002

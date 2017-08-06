@@ -1,0 +1,44 @@
+lastAccountName: lovely_FENGLIAO
+timestamps:
+  login: 1502007873270
+  logout: 1502010328417
+  lastteleport: 1502009009904
+ipAddress: 113.111.82.193
+lastlocation:
+  world: world
+  x: -244.79892178157314
+  y: 82.0
+  z: 300.1642983563448
+  yaw: 200.11316
+  pitch: -35.849957
+money: '948.0'
+logoutlocation:
+  world: world
+  x: -252.69999998807904
+  y: 79.0
+  z: 305.69060076147065
+  yaw: -268.64017
+  pitch: 56.1
+homes:
+  dy:
+    world: world_nether
+    x: -303.50136457282684
+    y: 68.0
+    z: 856.1614539852968
+    yaw: -174.65161
+    pitch: 25.80007
+  md:
+    world: world_the_end
+    x: 3001.1217011224007
+    y: 60.0
+    z: -2436.328932099759
+    yaw: 74.813034
+    pitch: 41.305138
+  mdc:
+    world: world_the_end
+    x: -583.2935352079902
+    y: 62.0
+    z: 1048.599822221885
+    yaw: -4.6178284
+    pitch: 0.45016256
+afk: false

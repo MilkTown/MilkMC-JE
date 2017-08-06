@@ -1,0 +1,1001 @@
+Version: 1
+Seed: 3726392772671417699
+Residences:
+  cunmin:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -140.68
+      Pitch: 60.51
+      Y: 80.0
+      Z: -678.39
+      Yaw: 138.5
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        d936b068-5204-3eda-a28c-4dc894e7fce8:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        chorustp: false
+        move: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        enderpearl: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+        coords: false
+      OwnerUUID: d936b068-5204-3eda-a28c-4dc894e7fce8
+      OwnerLastKnownName: Gua_xiao_ye
+    CreatedOn: 1501502911375
+    Areas:
+      main:
+        X1: -140
+        Y1: 86
+        Z1: -675
+        X2: -151
+        Y2: 74
+        Z2: -684
+  cz:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -171.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: 736.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        48bf4d16-6afa-379a-80a0-7268c49ea6de:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 48bf4d16-6afa-379a-80a0-7268c49ea6de
+      OwnerLastKnownName: lovely_FENGLIAO
+    CreatedOn: 1501754994707
+    Areas:
+      main:
+        X1: -171
+        Y1: 65
+        Z1: 737
+        X2: -173
+        Y2: 62
+        Z2: 735
+  FENGLIAOMKL:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -273.22
+      Pitch: 25.29
+      Y: 74.0
+      Z: 357.68
+      Yaw: 268.66
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        2c0ee67d-ff1b-3c2d-a2b7-aa0560633bda:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+        48bf4d16-6afa-379a-80a0-7268c49ea6de:
+          container: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          beacon: true
+          mobkilling: true
+          build: true
+          chat: true
+          tp: true
+          leash: true
+        7d0bbbcc-fe8e-31b2-b614-a5d97294de2f:
+          tp: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 2c0ee67d-ff1b-3c2d-a2b7-aa0560633bda
+      OwnerLastKnownName: biglod
+    CreatedOn: 1501747861107
+    Areas:
+      main:
+        X1: -265
+        Y1: 77
+        Z1: 359
+        X2: -281
+        Y2: 71
+        Z2: 352
+  fyjl:
+    LeaveMessage: Now leaving %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        efa07376-991d-3b0f-b73a-a0d311dd8430:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: efa07376-991d-3b0f-b73a-a0d311dd8430
+      OwnerLastKnownName: FYJL
+    CreatedOn: 1502008357056
+    Areas:
+      main:
+        X1: -653
+        Y1: 71
+        Z1: 1265
+        X2: -659
+        Y2: 66
+        Z2: 1259
+  FYJLHOUSE:
+    LeaveMessage: Now leaving %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        efa07376-991d-3b0f-b73a-a0d311dd8430:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        waterflow: true
+        move: true
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        feed: true
+        hook: false
+        build: false
+        explode: false
+        enchant: true
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+        flow: true
+      OwnerUUID: efa07376-991d-3b0f-b73a-a0d311dd8430
+      OwnerLastKnownName: FYJL
+    CreatedOn: 1501943165539
+    Areas:
+      main:
+        X1: -3734
+        Y1: 75
+        Z1: 1495
+        X2: -3767
+        Y2: 62
+        Z2: 1467
+  Hailay_home:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -126.49
+      Pitch: -7.95
+      Y: 64.0
+      Z: 222.19
+      Yaw: 182.25
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        3c8bba07-75a6-31c0-a418-3d80014af2ca:
+          bed: true
+          container: true
+          door: true
+          chorustp: true
+          ignite: true
+          shear: true
+          egg: true
+          use: true
+          admin: true
+          destroy: true
+          riding: true
+          brew: true
+          button: true
+          enderpearl: true
+          dye: true
+          trade: true
+          build: true
+          chat: true
+          flowerpot: true
+          diode: true
+          vehicledestroy: true
+          place: true
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: true
+        animalkilling: true
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        animals: true
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501479572284
+    Areas:
+      main:
+        X1: -121
+        Y1: 67
+        Z1: 225
+        X2: -133
+        Y2: 62
+        Z2: 215
+  home:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -96.59
+      Pitch: 3.45
+      Y: 63.0
+      Z: 194.47
+      Yaw: 88.47
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        16fef344-06c8-3c27-b30a-f46390d529b6:
+          container: true
+          move: true
+          shear: true
+          use: true
+          admin: true
+          animalkilling: true
+          beacon: true
+          mobkilling: true
+          build: true
+          chat: true
+          tp: true
+          leash: true
+        0e1adbf3-f73b-36d5-83fd-f9b2cc5e712d:
+          container: true
+          note: true
+          ignite: true
+          door: true
+          egg: true
+          anvil: true
+          use: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          place: true
+          itempickup: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          pressure: true
+          lever: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          mobkilling: true
+          build: true
+          flowerpot: true
+          chat: true
+          enchant: true
+          diode: true
+          leash: true
+          tp: true
+        36f31fca-efd9-3e69-9047-11a246eec88f:
+          container: true
+          move: true
+          beacon: true
+          mobkilling: true
+          shear: true
+          build: true
+          use: true
+          chat: true
+          tp: true
+          leash: true
+          animalkilling: true
+        3c8bba07-75a6-31c0-a418-3d80014af2ca:
+          bed: true
+          container: true
+          chorustp: true
+          door: true
+          ignite: true
+          anvil: true
+          use: true
+          admin: true
+          pressure: true
+          brew: true
+          animalkilling: true
+          button: true
+          enderpearl: true
+          beacon: true
+          trade: true
+          build: true
+          enchant: true
+          table: true
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          enchant: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        move: true
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: true
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        enchant: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501477891924
+    Areas:
+      main:
+        X1: -92
+        Y1: 67
+        Z1: 204
+        X2: -100
+        Y2: 59
+        Z2: 187
+  home1:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -185.5
+      Pitch: 0.0
+      Y: 74.0
+      Z: -679.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        981e047b-6beb-31a3-ab4d-a904d98bc1f7:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 981e047b-6beb-31a3-ab4d-a904d98bc1f7
+      OwnerLastKnownName: Orange0JuIcE
+    CreatedOn: 1501752544330
+    Areas:
+      main:
+        X1: -183
+        Y1: 76
+        Z1: -678
+        X2: -189
+        Y2: 73
+        Z2: -683
+  sc1:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -180.67
+      Pitch: 11.4
+      Y: 76.0
+      Z: 173.5
+      Yaw: -89.73
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        3c8bba07-75a6-31c0-a418-3d80014af2ca:
+          container: true
+          move: true
+          beacon: true
+          mobkilling: true
+          shear: true
+          build: true
+          use: true
+          chat: true
+          tp: true
+          leash: true
+          animalkilling: true
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        move: true
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: true
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501478856527
+    Areas:
+      main:
+        X1: -161
+        Y1: 86
+        Z1: 193
+        X2: -200
+        Y2: 54
+        Z2: 154
+  sgl:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -2416.5
+      Pitch: 0.0
+      Y: 51.0
+      Z: -1556.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        48bf4d16-6afa-379a-80a0-7268c49ea6de:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 48bf4d16-6afa-379a-80a0-7268c49ea6de
+      OwnerLastKnownName: lovely_FENGLIAO
+    CreatedOn: 1501757580724
+    Areas:
+      main:
+        X1: -2418
+        Y1: 49
+        Z1: -1556
+        X2: -2420
+        Y2: 47
+        Z2: -1558
+  shangdian:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -186.5
+      Pitch: 0.0
+      Y: 79.0
+      Z: 241.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        d936b068-5204-3eda-a28c-4dc894e7fce8:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: d936b068-5204-3eda-a28c-4dc894e7fce8
+      OwnerLastKnownName: Gua_xiao_ye
+    CreatedOn: 1501759095554
+    Areas:
+      main:
+        X1: -175
+        Y1: 85
+        Z1: 249
+        X2: -199
+        Y2: 76
+        Z2: 233
+  smsd:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 757.74
+      Pitch: 1.5
+      Y: 64.0
+      Z: -1885.5
+      Yaw: 269.52
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        aa89e1f1-9be0-31a4-bbc6-b40874d6cc2e:
+          container: true
+          move: true
+          beacon: true
+          mobkilling: true
+          shear: true
+          build: true
+          use: true
+          chat: true
+          tp: true
+          leash: true
+          animalkilling: true
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: false
+        creeper: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501937995675
+    Areas:
+      main:
+        X1: 758
+        Y1: 66
+        Z1: -1885
+        X2: 756
+        Y2: 63
+        Z2: -1887
+  strick_farm:
+    LeaveMessage: Now leaving %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        36f31fca-efd9-3e69-9047-11a246eec88f:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 36f31fca-efd9-3e69-9047-11a246eec88f
+      OwnerLastKnownName: strickczq
+    CreatedOn: 1501477810515
+    Areas:
+      main:
+        X1: -79
+        Y1: 69
+        Z1: 198
+        X2: -90
+        Y2: 62
+        Z2: 188
+  strick_home:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -33.6
+      Pitch: -0.45
+      Y: 117.0
+      Z: 184.48
+      Yaw: 89.7
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        36f31fca-efd9-3e69-9047-11a246eec88f:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 36f31fca-efd9-3e69-9047-11a246eec88f
+      OwnerLastKnownName: strickczq
+    CreatedOn: 1501469206434
+    Areas:
+      main:
+        X1: -27
+        Y1: 124
+        Z1: 191
+        X2: -41
+        Y2: 115
+        Z2: 177
+  strick_shop:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -33.36
+      Pitch: 18.75
+      Y: 64.0
+      Z: 191.89
+      Yaw: 173.25
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        36f31fca-efd9-3e69-9047-11a246eec88f:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: true
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 36f31fca-efd9-3e69-9047-11a246eec88f
+      OwnerLastKnownName: strickczq
+    CreatedOn: 1501481222380
+    Areas:
+      main:
+        X1: -30
+        Y1: 67
+        Z1: 199
+        X2: -51
+        Y2: 63
+        Z2: 184
+  vl:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -158.5
+      Pitch: 0.0
+      Y: 67.0
+      Z: 777.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        2c0ee67d-ff1b-3c2d-a2b7-aa0560633bda:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 2c0ee67d-ff1b-3c2d-a2b7-aa0560633bda
+      OwnerLastKnownName: biglod
+    CreatedOn: 1501755015517
+    Areas:
+      main:
+        X1: -158
+        Y1: 69
+        Z1: 778
+        X2: -160
+        Y2: 67
+        Z2: 776

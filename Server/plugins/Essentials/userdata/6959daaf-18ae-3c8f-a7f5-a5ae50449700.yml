@@ -1,0 +1,29 @@
+lastAccountName: HoHoHarry
+timestamps:
+  login: 1501777561116
+  logout: 1501777775088
+  lastteleport: 1501777743720
+ipAddress: 203.218.84.177
+lastlocation:
+  world: world
+  x: 92.01835947163741
+  y: 41.0
+  z: -320.54701357729374
+  yaw: -296.01364
+  pitch: 69.44982
+money: '12.0'
+logoutlocation:
+  world: zy
+  x: -283.19375645211795
+  y: 11.0
+  z: -20.560583630099615
+  yaw: -270.59683
+  pitch: 30.300465
+homes:
+  home:
+    world: world
+    x: 88.21201348612489
+    y: 40.0
+    z: -320.7574043004226
+    yaw: 258.0843
+    pitch: 3.6000795

@@ -1,0 +1,123 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&5'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&4'
+      suffix: ''
+  fly:
+    default: false
+    permissions:
+    - Essential.fly
+    - essentials.fly
+    inheritance:
+    - default
+    info:
+      build: false
+      prefix: ''
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&2'
+      suffix: ''
+  Admin:
+    default: false
+    permissions: []
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&c'
+      suffix: ''
+  Default:
+    default: true
+    permissions:
+    - -bukkit.command.kill
+    - -essentials.me
+    - -essentials.nick
+    - deluxemenus.open
+    - deluxemenus.open.bypass
+    - gui
+    - moretp.accept.*
+    - moretp.accept.world
+    - moretp.accept.world_nether
+    - moretp.accept.world_the_end
+    - moretp.accept.zc
+    - moretp.accept.zy
+    - moretp.commandrtp.
+    - moretp.commandrtp.*
+    - moretp.commandrtp.world
+    - moretp.open.gui
+    - moretp.quickrtp.
+    - moretp.quickrtp.*
+    - moretp.tpa
+    - moretp.tpahere
+    - moretp.warp.*
+    - moretp.warp.gui
+    - moretp.warp.shop
+    - moretp.warp.Strick的商店
+    - moretp.warp.刷怪场
+    - moretp.warp.地狱
+    - moretp.warp.末地
+    - moretp.warp.生存世界
+    - moretp.warp.系统商店
+    - moretp.warp.资源世界
+    - quickshop.create.buy
+    - quickshop.create.changeprice
+    - quickshop.create.double
+    - quickshop.create.sell
+    - quickshop.find
+    - quickshop.use
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&f'
+      suffix: ''

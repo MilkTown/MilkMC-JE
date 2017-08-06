@@ -1,0 +1,32 @@
+AntiSpam:
+  enable: true
+  Period:
+    Period: 2
+    WarnMessage: §c请慢点说话，别激动嘛！ _(:з」∠)_
+  Dirty:
+    List:
+    - 傻逼
+    - 智障
+    - SB
+    WarnMessage: §c什么事情激动得你都想骂人啦？
+    enable: true
+NoEggChangeSpawner:
+  enable: true
+  TipMessage: '&c抱歉，禁止使用刷怪蛋修改刷怪笼'
+BlockCommander:
+  enable: true
+ProtectFarm:
+  enable: true
+AutoRespawn:
+  enable: false
+  RespawnTitle:
+    enable: false
+    MainMessage: §e你死了！
+    MiniMessage: §c已为您自动复活！
+NoExplode:
+  enable: true
+  Type: NoBlockBreak
+NooneRestart:
+  enable: false
+  hook-spigot: true
+  TimeLong: 1200

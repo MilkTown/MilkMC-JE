@@ -1,0 +1,139 @@
+Version: 1
+Seed: 8222004323564488234
+Residences:
+  '233':
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -74.71
+      Pitch: 29.79
+      Y: 18.0
+      Z: 235.31
+      Yaw: 267.33
+    BlockSellPrice: 0.25
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        d936b068-5204-3eda-a28c-4dc894e7fce8:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        healing: true
+        feed: true
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: d936b068-5204-3eda-a28c-4dc894e7fce8
+      OwnerLastKnownName: Gua_xiao_ye
+    CreatedOn: 1502015868667
+    Areas:
+      main:
+        X1: -72
+        Y1: 24
+        Z1: 237
+        X2: -81
+        Y2: 17
+        Z2: 222
+  zy:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -263.37
+      Pitch: 15.45
+      Y: 71.0
+      Z: 218.5
+      Yaw: 86.7
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: true
+        bed: true
+        ignite: false
+        damage: true
+        use: false
+        anvil: true
+        icemelt: false
+        animalkilling: false
+        button: true
+        healing: true
+        iceform: true
+        hook: false
+        explode: false
+        cake: true
+        cmonsters: false
+        snowtrail: true
+        vehicledestroy: false
+        flowinprotection: true
+        animals: true
+        nmonsters: false
+        flow: true
+        coords: false
+        table: true
+        chorustp: true
+        burn: true
+        shear: true
+        firespread: false
+        destroy: false
+        pvp: false
+        lever: true
+        brew: true
+        canimals: false
+        build: false
+        chat: true
+        dragongrief: true
+        flowerpot: true
+        enchant: true
+        sanimals: true
+        tnt: false
+        leash: true
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501076831776
+    Areas:
+      main:
+        X1: -233
+        Y1: 82
+        Z1: 249
+        X2: -306
+        Y2: 61
+        Z2: 175

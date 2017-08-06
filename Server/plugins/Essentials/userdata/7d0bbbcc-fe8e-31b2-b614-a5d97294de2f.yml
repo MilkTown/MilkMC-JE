@@ -1,0 +1,22 @@
+lastAccountName: kid
+timestamps:
+  login: 1502005355679
+  logout: 1502010773437
+  lastteleport: 1502010615189
+ipAddress: 117.162.217.187
+lastlocation:
+  world: world
+  x: -263.46287584437886
+  y: 80.0
+  z: 304.5012398943761
+  yaw: -61.140293
+  pitch: 40.73297
+logoutlocation:
+  world: world
+  x: -179.68046710110377
+  y: 72.0
+  z: 122.22685244973184
+  yaw: -143.45972
+  pitch: 12.88632
+money: '26100.3899999999999907'
+afk: false

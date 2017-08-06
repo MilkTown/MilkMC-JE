@@ -1,0 +1,47 @@
+spawn_qq:
+  location: world, -179.085, 77.200, 174.585
+  lines:
+  - '&a详情请加Q群&6&l189594977&a了解更多'
+spawn_main:
+  location: world, -178.535, 78.200, 173.623
+  lines:
+  - '&6&l欢迎来到&bHailayCraft&6&l服务器！'
+  - '[x]服务器Q群&d189594977&f[x]'
+spawn_gui:
+  location: world, -180.440, 77.200, 171.511
+  lines:
+  - '&9输入指令&6/gui&9使用主菜单'
+gonggao:
+  location: world, -3741.551, 65.200, 1506.520
+  lines:
+  - '&4&l这里是[服主]&cHailay&4&l建立的聚居点'
+  - '[x]进入此地，请遵守各项规定，&6严禁&e恶意破坏地形、生物及建筑&f[x]'
+  - '[/]地形平整时一定要&6自然&f，不要四四方方菱角分明[/]'
+chengyuan:
+  location: world, -3743.395, 65.200, 1500.470
+  lines:
+  - '[x]&4目前聚居点成员&f[x]'
+  - '&cHailayLin'
+  - '&aFYJL'
+  - '&aStrick'
+  - '&aSailay'
+  - '&aGuiQi'
+  - '&assced'
+jiancai:
+  location: world, -173.621, 63.000, 173.765
+  lines:
+  - '[x]&4&l建材商店&f[x]'
+  - 建筑方块一律&c2&f元
+shougou:
+  location: world, -182.535, 63.000, 166.519
+  lines:
+  - '[x]&6收购专区&f[x]'
+chushou:
+  location: world, -178.343, 63.000, 166.565
+  lines:
+  - '[x]&6出售专区&f[x]'
+rule:
+  location: world, -3735.390, 66.200, 1506.708
+  lines:
+  - '[x]&4管理规定&f[x]'
+  - '[/]&6&l1.&a禁止任何无意义柱子/坑建造在这里（需要的自己建好建筑后删除）&f[/]'

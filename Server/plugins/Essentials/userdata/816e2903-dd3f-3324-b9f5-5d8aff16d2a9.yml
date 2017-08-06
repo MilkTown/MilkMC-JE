@@ -1,0 +1,30 @@
+lastAccountName: Grasscraft
+timestamps:
+  login: 1502005785557
+  logout: 1502008582288
+  lastteleport: 1502008361327
+ipAddress: 175.42.161.123
+lastlocation:
+  world: world
+  x: -527.5
+  y: 66.0
+  z: 563.5
+  yaw: -99.75348
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: -963.1579209393909
+  y: 67.0
+  z: 548.7474018812942
+  yaw: 30.150068
+  pitch: 21.59999
+money: '3.0'
+homes:
+  home:
+    world: world
+    x: -527.5
+    y: 66.0
+    z: 563.5
+    yaw: -79.65347
+    pitch: 11.849834
+afk: false

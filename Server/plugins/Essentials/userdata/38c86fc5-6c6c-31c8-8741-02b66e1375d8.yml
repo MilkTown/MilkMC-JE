@@ -1,0 +1,30 @@
+lastAccountName: Sailay
+timestamps:
+  login: 1502022233494
+  logout: 1502025465824
+  lastteleport: 1502025072873
+ipAddress: 119.130.68.12
+lastlocation:
+  world: world
+  x: -122.30000001192093
+  y: 62.0
+  z: 180.69999998807907
+  yaw: 211.05101
+  pitch: 58.199883
+logoutlocation:
+  world: world
+  x: -3718.7165103617685
+  y: 65.0
+  z: 1500.9133709838509
+  yaw: 109.92291
+  pitch: 45.150032
+afk: false
+homes:
+  home:
+    world: world
+    x: -120.7959249681427
+    y: 64.0
+    z: 185.53249574608301
+    yaw: 0.9004822
+    pitch: 8.999849
+money: '1158.0'

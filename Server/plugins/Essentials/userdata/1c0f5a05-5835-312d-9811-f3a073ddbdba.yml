@@ -1,0 +1,20 @@
+lastAccountName: FFF
+timestamps:
+  login: 1501939784670
+  logout: 1501942460267
+ipAddress: 183.202.16.20
+lastlocation:
+  world: world
+  x: -244.08659647071576
+  y: 8.0
+  z: 340.56176865556944
+  yaw: -93.47974
+  pitch: 75.45001
+logoutlocation:
+  world: world
+  x: 183.81519705379733
+  y: 63.0
+  z: 2209.9756443045158
+  yaw: 212.64098
+  pitch: 1.9500694
+money: '670.0'

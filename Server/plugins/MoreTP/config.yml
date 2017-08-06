@@ -1,0 +1,273 @@
+# ################################################
+#  __  __                     _______  _____     #
+# |  \/  |                   |__   __||  __ \    #
+# | \  / |  ___   _ __  ___     | |   | |__) |    #
+# | |\/| | / _ \ | '__|/ _ \    | |   |  ___/      #
+# | |  | || (_) || |  |  __/    | |   | |           #
+# |_|  |_| \___/ |_|   \___|    |_|   |_|           #
+#  By Onenrico [A.k.a ENVY]                         #
+# ####################################################                                             
+# 请注意: 这个插件可能会有我没发现的BUG，如果你发现了 
+# 请将BUG反馈给我！
+
+# 汉化者： MCBBS   by:九神领域
+
+# 点击此链接可以查看原版物品名称
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+
+#:====-----=====[ 插件前缀 ]=====-----=====#
+plugin_prefix: "&8&l[&bMoreTP&8&l] "
+#:====-----=====[ 插件设置 ]=====-----=====#
+
+plugin_autocheckupdate: true
+plugin_sendmetrics: true
+# 我建议你不要修改这里，因为它们不会影响插件的正常使用
+
+moretp_menu_title: "&1TP菜单"
+moretp_menuplayer_title: "&1在线玩家 &8[&2{cpage}&7/&6{pages}&8]"
+moretp_item_tpa_name: "&6在线玩家列表"
+moretp_item_tpa_desc:
+- '&7点击打开在线玩家列表'
+moretp_nextpage: "&e上一页"
+moretp_prevpage: "&e下一页"
+moretp_head_tpa: "&8[ &f左键点击 申请传送到 &e{player} &f的身边 &8]"
+moretp_head_tpahere: "&8[ &f右键点击 申请玩家 &e{player} &f传送到你的身边 &8]"
+
+#=====-----=====[ 通常设置 ]=====-----=====#
+teleport_cancel_interact: true
+teleport_cancel_move: true
+teleport_cancel_jump: true
+teleport_cancel_damage: true
+teleport_cancel_damaged: true
+teleport_cancel_break: true
+teleport_cancel_place: true
+teleport_cancel_chat: true
+teleport_cancel_command: true
+
+particle_teleport_teleporting: true
+#正在传送中是否启用粒子特效
+particle_teleport_pre-landing: true
+#准备传送中是否启用粒子特效
+particle_teleport_landing: true
+#传送到达后是否启用粒子特效
+
+teleport_default_cooldown: 5
+#默认传送冷却时间 5秒
+
+teleport_default_delay: 5
+#默认传送延迟 5秒
+
+teleport_request_timeout: 120
+#tpa和taphere的传送请求超时时间  默认120秒
+
+#=====-----=====[ 坐标记录钟表配置 ]=====-----=====#
+device_empty_lore: "&8[&e按住 Shift + 右键单击 &b进行保存&8]"
+device_filled_lore: "&8[&e右键单击 &b进行传送&8]"
+device_lore: "&e你可以使用铁砧将它&6重新命名%n%&e并且可以和其他玩家进行共享"
+device_filled_name: "&8[&b坐标记录钟 &8(&a已记录&8)&8]"
+device_empty_name: "&8[&b坐标记录钟 &8(&f未记录&8)&8]"
+device_recipe_enabled: false
+
+#=====-----=====[ 地标配置 ]=====-----=====#
+warp_title: "&b&k||&r &1&l地标菜单 &b&k||" 
+warp_edit_option: "&8&l[ &bPlease Shift-Click To Edit &8&l]"
+warp_teleport_option: "&8&l[ &fPlease Click To Teleport &8&l]"
+warp_default_displayname: "&8&l[&b&m=---=&8&l> &f&l{warpname} &8&l<&7&b&m=---=&8&l]"
+warp_default_permission: "moretp.warp.{warpname}"
+warp_default_description:
+  - "&8&m---------&r &b地标详情 &8&m--------"
+  - ""
+  - "&b权限&f&l: &8[&f{permission}&8]"
+  - "&b冷却&f&l: &6{cooldown} &f秒"
+  - "&b金钱消耗&f&l: &6{cost}"
+  - "&b位置坐标&f&l:"
+  - "&8- &f世界&f&l: &6{world}"
+  - "&8- &fX&f&l: &6{x}"
+  - "&8- &fY&f&l: &6{y}"
+  - "&8- &fZ&f&l: &6{z}" 
+  - ""
+  - "&8&m---------------------------"
+warp_default_cost: 0
+warp_default_cooldown: 5
+warp_default_glowing: false
+warp_default_item: COMPASS
+
+#=====-----=====[ Placeholder 变量 ]=====-----=====#
+# {warpname} 当前地标名称
+# {cost} 传送到该地标的花费
+# {cooldown} 冷却时间
+# {permission} 使用权限
+# {x} 对应坐标X
+# {y} 对应坐标Y
+# {z} 对应坐标Z
+# {world} 对应的世界
+
+#=====-----=====[ 随机传送配置 ]=====-----=====#
+#默认传送生物群系
+quicktp_default_biome: RANDOM
+#默认传送范围 1000
+quicktp_default_radius: 1000
+#默认传送花费 100
+quicktp_default_cost: 100
+#默认传送冷却时间 5s
+quicktp_default_cooldown: 5
+
+randomtp_title: "&b&k||&r &1&l随机传送菜单 &b&k||" 
+randomtp_selected_option: "&8&l[ &b已选中 &8&l]"
+randomtp_notselected_option: "&8&l[ &f点击我可以选中 &8&l]"
+randomtp_edit_option: "&8&l[ &b按住 Shift+鼠标左键 可以进行编辑 &8&l]"
+ 
+randomtp_confirm_item:
+  name: "&b&k||&r &b点击传送 &b&k||"
+  item: REDSTONE_LAMP_OFF
+  permission: moretp.random.{world}
+  description:
+  - "&8&m-------------------------------------"
+  - "  &f选项&f&l:"
+  - "  &f已选中 &b生物群系 &7> &b{biome}"
+  - "  &f已选中 &b范围半径 &7> &b{radius}"
+  - ""
+  - "  &f总花费: &e{totalcost}"
+  - "&8&m-------------------------------------" 
+#=====-----=====[ Placeholder 变量 ]=====-----=====#
+# {biome} 生物群系名称
+# {radius} 传送范围半径
+# {totalcost} 所需总费用
+# {world} 当前世界名称
+
+biome_blacklist: 
+- OCEAN
+- DEEP_OCEAN
+#可以防止玩家传送到海里
+
+block_blacklist:
+- CACTUS
+- LAVA
+#可以防止玩家传送到有危险的方块附件
+#默认: 仙人掌, 岩浆
+
+ 
+
+#=====-----=====[ ActionBar 配置 ]=====-----=====#
+message_actionbar_cooldown: "{themecolor}{left} {flatcolor}秒到达传送地点"
+message_actionbar_teleported: "{flatcolor}&l感谢您的使用"
+message_actionbar_enabled: true
+message_actionbar_reverse: true
+
+#=====-----=====[ TitleBar 配置 ]=====-----=====#
+
+message_titlebar_teleporting: "{themecolor}准备传送中..."
+message_titlebar_teleporting_subtitle: "{flatcolor}请等待 &6{left} {flatcolor}秒"
+message_titlebar_teleporting_canceled: "{themecolor}&l传送强行终止"
+message_titlebar_teleporting_canceled_subtitle: "{flatcolor}请不要动,你需要静待数秒"
+message_titlebar_teleported: "{themecolor}&l传送成功"
+message_titlebar_teleported_subtitle: "{flatcolor}成功传送到坐标&f: &7&l[&bX&f&l: &f{x} &7, &bY&l: &f{y} &7, &bZ&f&l: &f{z}&7&l]"
+#=====-----=====[ Placeholder 变量 (包含了 ActionBar 和 TitleBar 的内容) ]=====-----=====#
+# {themecolor} 高亮度的随机颜色代码
+# {flatcolor} 较暗色的随机颜色代码
+# {player} 玩家名字
+# {left} 剩下传送秒数
+# {x} 对应坐标X
+# {y} 对应坐标Y
+# {z} 对应坐标Z
+
+
+#=====-----=====[ 其它 配置 ]=====-----=====#
+
+message_config_reload: "配置重载成功 !"
+
+message_warp_notfound: "&c未找到名为 &6{warp} &c的地标"
+message_warp_deleted: "&7成功删除了 &6{warp} &7地标"
+message_warp_set: "&7地标 &6{warp}&7 编辑成功!"
+
+message_sign_timeout: "设置超时,已取消主菜单木牌的创建"
+message_sign_please: "请 &e左键点击 &b一个 &6木牌"
+message_sign_now: "请 &e左键点击 &b一个 &6木牌 &b将它设置为 &6主菜单"
+message_sign_created: "&6主菜单木牌 &b创建成功"
+message_sign_already: "抱歉，这个木牌已经成为主菜单了"
+
+message_teleport_success: "你已成功传送到玩家 {player} 的身边"
+message_teleport_nomoney: "你没有足够的金钱"
+message_teleport_norequest: "你没有待确认的请求 !"
+message_teleport_accepted: "{player} &6已确认 &b了你的传送请求"
+message_teleport_acceptedfrom: "你接受了玩家 {player} 的传送请求"
+message_teleport_dennied: "{player} &6拒绝了你的传送请求"
+message_teleport_denniedfrom: "你拒绝了玩家 {player} 的传送请求"
+message_teleport_disabled: "{player} 关闭了传送，你不能对其发送传送请求 !"
+
+message_teleporthere_notify: "{player} &fAsk Request to &aTeleport &fto his/her location"
+
+message_teleport_notify: "{player} &f请求 &a传送 &f到你的身边"
+message_teleport_notify_yes: "&a&l/tpyes {accept} &7- &f 点击 &a同意 &f允许传送"
+message_teleport_notify_no: "&c&l/tpno {deny} &7- &f 点击 &c拒绝 &f拒绝传送"
+
+
+message_teleport_notify_expired: "&c本次请求有效期为 &e{remain} &c秒, 请尽快处理"
+message_teleport_requestsent: "&f请求已发送到玩家 {player}"
+message_teleport_targetnotonline: "请求的玩家 {player} 似乎并不在线噢！"
+message_teleport_self: "&c你不能传送自己"
+
+message_forceteleport_sender: "已将玩家 &a{victim} &b传送到玩家 &c{target} &b的身边"
+message_forceteleport_target: "你被管理员 &a{target} &b强制传送到了玩家 &c{player} &b的身边"
+message_forceteleport_forcedto: "你被强制传送到玩家 &a{player} &b的身边"
+message_forceteleport_forced: "玩家 &a{player} &b被强制传送到了你的身边"
+
+message_device_already: "&c这个设备已存满"
+message_device_saved: "已保存为你当前位置"
+
+message_title_notfound: "&c&l找不到指定位置"
+message_subtitle_notfound: "&f请选择其它选项"
+message_subtitle_pleasewait: "&f请稍后"
+message_title_searching: "&6&l搜索中..."
+
+message_notselect_biome: "请选择要传送的生物群系"
+message_notselect_radius: "请选择要传送的范围半径"
+
+message_warp_edit_cost: "你正在编辑 {warp} 的花费"
+message_warp_edit_cooldown: "你正在编辑 {warp} 的冷却时间"
+message_warp_edit_enternumber: "&6请在聊天框中输入数字 !"
+
+message_teleport_delay: "&c你需要等待 &f{time} &6秒 &cB冷却时间"
+
+message_teleport_button_yes_hover: "&6点击我 &a确认%n%&f并且同意玩家&b{player}&f的传送请求"
+message_teleport_button_no_hover: "&6点击我 &c拒绝%n%&f并且拒绝玩家&b{player}&f的传送请求"
+
+message_teleport_button_yes_text: "&8[&a&l同意&8]"
+message_teleport_button_no_text: "&8[&c&l拒绝&8]"
+
+message_chat_comehere: "[comehere]"
+#当玩家在聊天框内输入上方 [comehere] ,将会替换成输入者的 前缀+ID+后缀
+#需要拥有权限: moretp.chat.tpme
+
+message_chat_takeme: "[takeme]"
+#当玩家在聊天框内输入上方 [takeme] ,将会替换成传送提示,点击传送到发送者身边
+#需要拥有权限: moretp.chat.takeme
+
+message_chat_button_comehere_text: "&8[&bTPme&8]&r"
+#插件消息输出的前缀
+
+message_chat_button_takeme_text: "&8[&aTakeme&8]&r"
+#button text by message_chat_takeme
+
+message_chat_button_comehere_hover: "&6点击可以传送至玩家%n%&f{player}"
+#在聊天内输入 [takeme] 时,鼠标移动到它上方的显示
+#可以使用 %n% 进行换行
+
+message_chat_button_takeme_hover: "&6点击可以把玩家 &f{player} &6传送到你的身边"
+#可以使用 %n% 进行换行
+
+message_hide_on: "&c开启隐藏 &f你现在在/mtp gui中是隐形的 !"
+message_hide_off: "&a关闭隐藏 &f你现在在/mtp gui中是可以被看见和TP的 !"
+
+message_tptoggle_on: "&c传送关闭 &f现在全部玩家都不能 /tp 或 /tpa 你了 !"
+message_tptoggle_off: "&a传送开启 &f现在全部玩家都可以 /tp 或 /tpa 你了 !"
+
+message_adminteleport_teleported: "&b强制传送到了玩家 {player}"
+message_adminteleport_teleporthere: "&b玩家 {player} 强制传送到你的身边"
+
+message_silent_on: "&4关闭粒子 ! &f你可以不用担心传送时冒出烦人的粒子了"
+message_silent_off: "&a开启粒子 ! &f你又可以看见酷炫的传送粒子了"
+
+message_teleport_targetnopermiss: "当前玩家 &6{target} &c没有权限接受传送"
+
+message_no_permission: "你没有 &8[&f{perm}&8] &c权限 !"

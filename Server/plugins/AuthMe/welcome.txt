@@ -1,0 +1,2 @@
+欢迎 {PLAYER} 登陆 {SERVER} 服务器！
+

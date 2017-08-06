@@ -1,0 +1,44 @@
+lastAccountName: Gua_xiao_ye
+timestamps:
+  login: 1502024698507
+  lastteleport: 1502024720399
+  logout: 1502026637310
+ipAddress: 112.28.161.65
+lastlocation:
+  world: world
+  x: -179.5598775509304
+  y: 79.875
+  z: 244.5230998406651
+  yaw: 151.94728
+  pitch: 37.161674
+homes:
+  home:
+    world: world_nether
+    x: -303.67216626578744
+    y: 68.0
+    z: 856.7831467272803
+    yaw: 196.6416
+    pitch: 3.983974
+  a:
+    world: world
+    x: -730.9942422458074
+    y: 30.0
+    z: -1120.6960578760288
+    yaw: 30.088013
+    pitch: 28.559992
+  b:
+    world: world
+    x: -914.2502782270623
+    y: 63.0
+    z: 867.2891506812531
+    yaw: 112.86914
+    pitch: 19.34397
+logoutlocation:
+  world: world_the_end
+  x: -3787.8163256459397
+  y: 77.5
+  z: 1724.935700318945
+  yaw: 208.82825
+  pitch: 25.487995
+money: '1142.4999999999999996'
+afk: false

@@ -1,0 +1,73 @@
+users:
+  3c8bba07-75a6-31c0-a418-3d80014af2ca:
+    lastname: HailayLin
+    group: Default
+    subgroups: []
+    permissions:
+    - moretp.warp.Hailay的聚居地
+    info:
+      prefix: '&b[生存]'
+  8e3b51d0-db69-3aef-94e4-5e658b6d36f3:
+    lastname: GuiQi
+    group: Default
+    subgroups: []
+    permissions:
+    - ''
+    - moretp.warp.Hailay的聚居地
+  aa89e1f1-9be0-31a4-bbc6-b40874d6cc2e:
+    lastname: Jioke
+    group: fly
+    subgroups: []
+    permissions:
+    - moretp.warp.Hailay的聚居地
+  b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+    lastname: Hailay
+    group: Default
+    subgroups: []
+    permissions:
+    - prixe
+  d936b068-5204-3eda-a28c-4dc894e7fce8:
+    lastname: Gua_xiao_ye
+    group: fly
+    subgroups: []
+    permissions: []
+  efa07376-991d-3b0f-b73a-a0d311dd8430:
+    lastname: FYJL
+    group: Default
+    subgroups: []
+    permissions:
+    - ''
+    - moretp.warp.Hailay的聚居地
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  ffd33ff2-bbf6-3810-b07b-bba8353eb3d5:
+    lastname: ServerTest
+    group: Default
+    subgroups: []
+    permissions: []
+    info:
+      prefix: '&1[]&e'
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Sailay:
+    group: Default
+    subgroups: []
+    permissions:
+    - ''
+    - moretp.warp.Hailay的聚居地
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  strickczq:
+    group: Default
+    subgroups: []
+    permissions:
+    - moretp.warp.Hailay的聚居地

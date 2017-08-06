@@ -1,0 +1,12 @@
+elevator-block: IRON_BLOCK
+elevator-min-gap: 2
+elevator-max-gap: 254
+consume-hunger: false
+consume-hunger-rate: 2
+consume-exp: false
+consume-exp-rate: 5
+only-survival-mode: true
+sound-enable: false
+sound-name: ENDERMAN_TELEPORT
+elevator-delay: true
+elevator-dalay-second: 2

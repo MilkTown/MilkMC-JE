@@ -1,0 +1,30 @@
+lastAccountName: GuiQi
+timestamps:
+  login: 1502023327773
+  lastteleport: 1502022789198
+  logout: 1502023334286
+ipAddress: 106.40.112.159
+lastlocation:
+  world: world
+  x: -180.02330014119065
+  y: 76.0
+  z: 173.49329652899618
+  yaw: 271.5005
+  pitch: 0.8998517
+money: '33.0'
+logoutlocation:
+  world: world
+  x: -3746.7009563076213
+  y: 63.0
+  z: 1554.1395969279113
+  yaw: -294.02057
+  pitch: 28.950033
+afk: false
+homes:
+  home:
+    world: world
+    x: -3766.3913637749356
+    y: 132.0
+    z: 1545.092099760852
+    yaw: -143.11496
+    pitch: 22.650002

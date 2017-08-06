@@ -1,0 +1,20 @@
+lastAccountName: deadmoon
+timestamps:
+  login: 1501613282636
+  logout: 1501613345589
+ipAddress: 14.217.132.16
+lastlocation:
+  world: world
+  x: -1290.5234186720543
+  y: 79.0
+  z: 793.6528188183861
+  yaw: 209.28851
+  pitch: 13.349968
+logoutlocation:
+  world: world
+  x: -178.30449488629657
+  y: 76.0
+  z: 172.9285638813891
+  yaw: 348.6962
+  pitch: 34.33062
+money: '100.0'

@@ -1,0 +1,305 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       注意                           | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 配置文件风格源于 Essentials config.
+#
+# 如果你想在配置中使用特殊字符 (ASCII, UTF-8 characters), 你想要将文件保存至 UTF-8 编码.
+#   - 如果你不懂如何使用, 你能在 guide 看到 wiki: https://github.com/Puharesource/TitleManager/wiki/Unicode---UTF-8-characters-for-TitleManager
+#
+# 配置错误, 如插件未加载或 the config resetting can be fixed by ensuring that:
+#   - 不能用tabs: YAML 只允许使用空格.
+#   - 你没有在你的选项设置的文字外引用单引号:
+#      - If you surround your text with apostrophes like this 'don't', double all of your apostrophes like this: 'don''t'
+#      - If you surround your text with quotes like this "Quote: "hello"", switch to apostrophes instead like this 'Quite: "hello"'.
+#
+# 如果你有难题:
+#   - 加入 Discord 聊天室: https://discord.gg/NwdtW2d
+#   - 解决问题在 Tracker: https://github.com/Puharesource/TitleManager/issues
+#
+# 1 秒 = 20 ticks
+#
+# 详细信息: https://github.com/Puharesource/TitleManager/wiki
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       通常                           | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 请不要更改这个选项
+config-version: 4
+
+# 切换 debug 模式, 当你做了什么的时候 报告插件信息.
+debug: false
+
+# 切换 TitleManager 所有功能是否启用.
+using-config: true
+
+# 切换 BungeeCord 功能是否启用.
+using-bungeecord: false
+
+# (Feature only works on 1.7-1.8 Protocol Hack)
+# 切换1.7玩家手持物品时是否显示ActionBar信息.
+legacy-client-support: false
+
+# 切换是否提醒玩家版本更新.
+check-for-updates: true
+
+############################################################
+# +------------------------------------------------------+ #
+# |                     玩家列表                         | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 设置玩家列表的顶部和结尾. (当你按住Tab键时显示.)
+
+player-list:
+
+  # 切换功能是否启用.
+  enabled: true
+
+  # 设置玩家列表的标题.
+  #
+  # 单行格式.
+  # header: '我的标题信息'
+  #
+  # 多行格式.
+  # header:
+  # - '我的第一行'
+  # - '我的第二行'
+  # - '我的第三行'
+  header:
+  - ''
+  - '${shine:[0;2;0][0;25;0][0;25;0][&3;&b]HailayCraft}'
+  - ''
+
+  # 设置玩家列表的结尾.
+  #
+  # 单行格式.
+  # footer: '我的结尾信息'
+  #
+  # 多行格式.
+  # footer:
+  # - '我的第一行'
+  # - '我的第二行'
+  # - '我的第三行'
+  footer:
+  - ''
+  - '&7World time: &b%{12h-world-time}'
+  - '&7Server time: &b%{server-time}'
+  - ''
+  - '${right-to-left} &b%{online}&7/&b%{max} &7Online Players ${left-to-right}'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                    欢迎标题                          | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 设置玩家加入服务器时显示的标题信息.
+
+welcome-title:
+
+  # 是否启用.
+  enabled: true
+
+  # 标题信息.
+  title: 'Welcome to HailayCraft!'
+
+  # 副标题信息.
+  subtitle: 'Enjoy it'
+
+  # 标题淡入的时间. (In ticks)
+  fade-in: 20
+
+  # 标题停留的时间. (In ticks)
+  stay: 100
+
+  # 标题淡出的时间. (In ticks)
+  fade-out: 20
+
+  # 玩家第一次加入服务器显示的标题信息.
+  first-join:
+
+    # 标题信息.
+    title: 'Welcome to HailayCraft!'
+
+    # 副标题信息.
+    subtitle: 'Enjoy Minecraft!'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                  欢迎 标题条                      | #
+# +------------------------------------------------------+ #
+############################################################
+# 设置玩家加入服务器时显示的标题条信息.
+
+welcome-actionbar:
+
+  # 是否启用.
+  enabled: true
+
+  # 标题条信息.
+  title: 'Welcome to HailayCraft!'
+
+  # 玩家第一次加入服务器显示的标题条信息.
+  first-join: 'Welcome to Hailay, this is your first time!'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                     Placeholders                     | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 设定相关 placeholder 的任何事情.
+
+placeholders:
+
+  # 采用 balance 变量格式.
+  number-format:
+
+    # 是否启用.
+    enabled: true
+
+    # 使用格式.
+    format: '#,###.##'
+
+  # 服务器时间的变量.
+  # 更多格式: https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html
+  date-format: 'EEE, dd MMM yyyy HH:mm:ss z'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      计分板                          | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 设置计分板 (侧边) 显示信息
+
+scoreboard:
+
+  # 是否启用
+  enabled: true
+
+  # 计分板标题显示信息
+  # 标题必须由 32 或更少字符组成 (包括颜色代码)
+  title: '${shine:[0;2;0][0;25;0][0;25;0][&3&l;&b&l]HailayCraft}'
+
+  # 计分板行数 (最多 15 行)
+  # 每行最多 40 字符 (包括颜色代码)
+  # 每一行必须是独特的, 想让他工作必须把你的行数结尾加上颜色代码, 让他独特.
+  lines:
+  - '&b&m---------------------------'
+  - '&b &3&lPlayerName:%{name}'
+  - '&b &3&lPing:%{ping} ms'
+  - '&b &3&lServer Time:'
+  - '&b%{server-time}'
+  - '&b&m---------------------------&r'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                      公告                            | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 自动发送标题和/或标题条信息给服务器的玩家.
+
+announcer:
+
+  # 是否启用.
+  enabled: true
+
+  # 演示公告
+  #
+  # The format:
+  #
+  # announcement-name:
+  #   interval: 60                        (Seconds, Default: 60)
+  #   timings:
+  #     fade-in: 20                       (Ticks, Default: 20)
+  #     stay: 40                          (Ticks, Default: 40)
+  #     fade-out: 20                      (Ticks, Default: 20)
+  #   titles:
+  #   - 'First title'                     (The title sent)
+  #   - 'Second title\nSecond subtitle'   (The next title sent, this time using \n to split the title and subtitle from each other)
+  #   actionbar:
+  #   - 'First actionbar'                 (The actionbar message sent)
+  #   - 'The next actionbar sent'         (The next actionbar message sent)
+  announcements:
+    my-announcement:
+      interval: 60
+      timings:
+        fade-in: 20
+        stay: 40
+        fade-out: 20
+      titles:
+      - '&aThis is the 1st title announcement\n&aThis is the subtitle'
+      - '&bThis is the 2nd title announcement\n&bThis is the subtitle'
+      actionbar:
+      - '&aThis is the 1st actionbar announcement'
+      - '&bThis is the 2nd actionbar announcement'
+
+############################################################
+# +------------------------------------------------------+ #
+# |                       信息                           | #
+# +------------------------------------------------------+ #
+############################################################
+
+# 设置所有用户显示的信息.
+
+messages:
+
+  # /tm version 指令信息
+  command-version:
+    description: '显示当前TitleManager运行版本'
+    version: '&a当前运行版本 %version'
+
+  # /tm reload 指令信息
+  command-reload:
+    description: 'Reloads TitleManager'
+    reloaded: '&aTitleManager 已重载'
+
+  # /tm animations
+  command-animations:
+    description: '列出已加载的动画信息'
+    format: '&a已加载的动画列表 (&f%count&a): %animations'
+    separator: '&f, &a'
+
+  # /tm scripts
+  command-scripts:
+    description: '列出已加载的脚本信息'
+    format: '&a已加载的脚本列表 (&f%count&a): %scripts'
+    separator: '&f, &a'
+
+  # /tm broadcast
+  command-broadcast:
+    description: '发送标题公告给服务器内玩家'
+    usage: '<标题信息>|<标题信息\n副标题信息>'
+    title-sent: '&a你已发出标题信息 "&r%title&a".'
+    subtitle-sent: '&a你已发出副标题信息 "&r%subtitle&a".'
+    both-sent: '&a你已发出了标题以及副标题信息 "&r%title&a" "&r%subtitle&a".'
+
+  # /tm abroadcast
+  command-abroadcast:
+    description: '发送标题条公告给服务器内玩家'
+    usage: '<标题信息>'
+    sent: '&a你已发送标题条信息 "&r%title&a".'
+
+  # /tm message
+  command-message:
+    description: '发送标题给指定玩家'
+    usage: '<玩家> <标题信息>|<标题信息\n副标题>'
+    title-sent: '&a你已发送给 %player 标题内容: "&r%title&a".'
+    subtitle-sent: '&a你已发送给 %player 副标题内容： "&r%subtitle&a".'
+    both-sent: '&a你已发送给 %player 标题以及副标题内容： "&r%title&a" "&r%subtitle&a".'
+    invalid-player: '&c未找到 %player.'
+
+  # /tm amessage
+  command-amessage:
+    description: '发送标题条给指定玩家'
+    usage: '<玩家> <标题信息>'
+    sent: '&a你已发送给 %player 标题条内容： "&r%title&a".'
+    invalid-player: '&c未找到 %player.'

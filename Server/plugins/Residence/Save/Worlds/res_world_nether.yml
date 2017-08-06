@@ -1,0 +1,56 @@
+Version: 1
+Seed: 3726392772671417699
+Residences:
+  dy1:
+    LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 0.5
+      Pitch: 0.0
+      Y: 73.0
+      Z: 0.5
+      Yaw: 0.0
+    BlockSellPrice: 0.3
+    EnterMessage: Welcome %player to %residence, owned by %owner.
+    Permissions:
+      PlayerFlags:
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        ignite: true
+        note: true
+        shear: false
+        use: false
+        pvp: true
+        hook: false
+        build: false
+        diode: true
+        witherspawn: true
+        vehicledestroy: false
+        tnt: false
+        pistonprotection: true
+        leash: false
+        tp: true
+        wspeed1: false
+        wspeed2: false
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1501581915580
+    Areas:
+      main:
+        X1: 2
+        Y1: 74
+        Z1: 2
+        X2: -2
+        Y2: 72
+        Z2: -2

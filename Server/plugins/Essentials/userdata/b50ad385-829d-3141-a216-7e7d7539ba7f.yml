@@ -1,0 +1,21 @@
+lastAccountName: Notch
+timestamps:
+  login: 1502019449695
+  lastteleport: 1502025751229
+  logout: 1502025758535
+ipAddress: 111.164.20.239
+lastlocation:
+  world: world
+  x: -180.02330014119065
+  y: 76.0
+  z: 173.49329652899618
+  yaw: 121.50046
+  pitch: 31.49985
+money: '100.0'
+logoutlocation:
+  world: world
+  x: -2151.699999988079
+  y: 61.0
+  z: -228.16053671266934
+  yaw: -258.43225
+  pitch: 16.64999
