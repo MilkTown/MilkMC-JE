@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "57582ba0-8ca0-3afe-9c49-0b90503ef670",
+    "name": "K_Baby",
+    "created": "2017-08-05 20:30:33 +0800",
+    "source": "§4Hailay§r",
+    "expires": "forever",
+    "reason": "登录失败!您的帐号已被此服务器封禁!"
+  },
+  {
+    "uuid": "8e3b51d0-db69-3aef-94e4-5e658b6d36f3",
+    "name": "GuiQi",
+    "created": "2017-08-06 20:48:56 +0800",
+    "source": "Console",
+    "expires": "forever",
+    "reason": "登录失败!您的帐号已被此服务器封禁!"
+  }
+]
