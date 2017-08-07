@@ -1,34 +1,27 @@
-#     ________________________
-#    |   原配置文件0.9.34版本  | 
-#    |      现我重新修改下     |
-#    |      加入自己的东西     |
-#    0.9.34~0.9.35配置文件没变qaq
-#    |        汉化:by         |
-#    |       酷车手BB弹        |
-#    |      Hailay修改自用     |
-#    | ====================== |
-#    |     感谢雪妮的指导~     |
-#    |   感谢MC小白桑的提出~   |
-#    |  2017.8.7   HailayCraft|          
-#    |________________________|
+#    ________________________
+#   |         汉化by:        |
+#   |       酷车手BB弹       |
+#   | ====================== |
+#   |     感谢雪妮的指导~    |
+#   |   感谢MC小白桑的提出~  |
+#   |________________________|
 #
 #Default config: https://github.com/KaiKikuchi/QuickShop/blob/master/src/main/resources/config.yml
 #默认配置文件地址
-
 #Tax amount (decimal) - Eg, P1 buys $50 worth of stuff from P2.  Therefore, P1 loses $50, P2 gains $(1-0.05)*50, and tax-account gains $(0.05)*50.
 #税额 - 比如P1在P2的商店买了价值50块的东西，P1将扣除50块，P2将得到(1-0.05)*50块，而税收账户将得到(0.05)*50块
 tax: 0.05
 
 #The fake player who money from taxing people goes to
-#税收人ID（强烈建议改成腐竹的ID,默认tax）
-tax-account: Hailay
+#税收人ID（强烈建议改成腐竹的ID）
+tax-account: tax
 
 #Whether or not to show taxes paid when selling to a shop
-#当出售物品时是否显示扣除的税额（默认不显示为false）
+#当出售物品时是否显示扣除的税额
 show-tax: false
 
 #Should we log transactions/creations to Bukkit\Plugins\QuickShop\qs.log?
-#是否对商店操作进行记录,保存在上面的文件上
+#是否对商店操作进行记录
 log-actions: true
 
 #For item-item based economies that don't use virtual coins.
@@ -36,17 +29,16 @@ log-actions: true
 whole-number-prices-only: false
 
 #Force bukkit chat handler (https://github.com/KaiKikuchi/QuickShop/issues/10)
-#设置为true则启用HeroChat（需要HeroChat作为前置）  Hailay：？？？？
+#设置为true则启用HeroChat（需要HeroChat作为前置）
 force-bukkit-chat-handler: false
 
-#hailay.site，MySQL数据库内配置（内网访问）
 database:
-    mysql: true
+    mysql: false
     host: localhost
     port: 3306
     database: quickshop
-    user: quickshop
-    password: 65CEKYZZHM
+    user: root
+    password: passwd
     
 #Limits the number of shops a person can create and own at a single time.
 #设置玩家的商店数量最大只能拥有多少个
@@ -78,25 +70,24 @@ limits:
 #shop on a hopper (It sucks the display item in) and furnace shops
 #allow players to put whatever item they want in all 3 slots and
 #dispenser shops aren't protected from redstone... Etc.
-#这回导致一些意想不到的事情...所以不要把漏斗放在商店下面...？？？（后面的有点不懂了）
 shop-blocks:
-    - CHEST           #作为商店的方块
-    - TRAPPED_CHEST   #单个箱子与大箱子
+    - CHEST
+    - TRAPPED_CHEST
 
 shop:
     #Cost to make a stall
     #制作一个商店需要花的钱
     cost: 10
-    #Should we refund（退款） when their shops are deleted/removed/broken?
+    #Should we refund when their shops are deleted/removed/broken?
     #当商店拆除时是否退款？
-    refund: true     #退款比较好，默认false
+    refund: false
 
     #Is there a fee for changing prices on a shop (Help deter endless undercutting)
     #是否启用当更改商店的价格时花费固定的费用
     price-change-requires-fee: true
     #If price changes require a fee, how much is the fee
-    #如果上面为true，那要花费多少
-    fee-for-price-change: 50     #默认50元，感觉略坑？不过还好
+    #一次多少钱
+    fee-for-price-change: 50
 
     #Should we try and lock their shops from other players, so people can't steal from them?
     #是否对商店进行上锁（如果为true无法和别人一起管理商店，如果为false可用牌子锁或LWC锁住并共享给别人）
@@ -108,21 +99,25 @@ shop:
     sneak-to-trade: false
     
     #Should we automatically create the sign for the chest?
-    #自动在箱子创建牌子（设置为false时可自己自定义牌子）
+    #自动在箱子中间创建牌子（设置为false时可自己自定义牌子）
     auto-sign: true
     
     #If a player owns an unlimited shop, should they receive the cash from it or not?
     #如果拥有无限商店，是否可收取费用
-    #If you buy from YOUR unlimited shop, you will NEVER be charged $$, regardless of this setting
+    #If you buy from YOUR unlimited shop, you will NEVER be charged $, regardless of this setting
     pay-unlimited-shop-owners: false
     
     #Should we place display items on the chests? This may cause duped items, especially for modded servers.
     #是否显示悬浮物？【0.9.29后已无此BUG，可开启】
-    display-items: true
+    display-items: false
     
     #The plugin will check if the display item is in a valid position every the specified amount of ticks. 0 to disable.
     #插件会定时检测悬浮物是否在正确的位置上，0为关闭（单位是tick）【若开启了悬浮物建议开启此选项，根据服务器性能合理调整间隔】
-    display-items-check-ticks: 15   #之前30觉得还有点不好，刷新的时候怪怪的
+    display-items-check-ticks: 0
+    
+    #Should we place item frames on chests?
+    #当创建商店时是否在箱子上自动放置物品展示框？
+    frame-items: false
     
     #When someone uses /qs find <item>, how far should we search in blocks?
     #当使用/qs find <item>时，可以搜索到距离多远的方块？【太高服务器崩了别怪我】
@@ -132,20 +127,19 @@ shop:
     #当设置超过100时服务器将会产生延迟
     find-distance: 45
 
-#List of items to disallow selling of.  Anyone with quickshop.bypass.<itemID> can bypass it
-#禁止交易的物品，可给予quickshop.bypass.<itemID>权限无视黑名单  
+#List of items to disallow selling of.  Anyone with quickshop.bypass.<itemID> can bypass it    
+#禁止交易的物品，可给予quickshop.bypass.<itemID>权限无视黑名单
 blacklist:
-- 7 #Bedrock，基岩
+- 7 #Bedrock
     
     
 #List of items with restricted prices. Format: <ItemID>;<MinPrice>;<MaxPrice>
 #用于限制物品价格，格式:<物品ID>;<最低售价>;<最高售价>
 price-restriction:
-- Bedrock;100;1000
+- Bedrock;100;200
 
 #Custom name for items. Format: <ItemID[*DataValue]>;<CustomSignName>;<CustomFullName>
-#自定义物品的名字，格式如上
-# Vanilla Material list (ItemIDs): https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+#自定义物品的名字
 custom-items-name:
 #- NETHER_STALK;Nether Wart;Nether Wart
 - 0;空气;空气
@@ -762,7 +756,6 @@ custom-items-name:
 - 2267;wait唱片;wait唱片
 #以上翻译均来自wiki
 
-#药水翻译
 custom-potions-name:
   sign:
     format: "%variety%type"
@@ -800,13 +793,13 @@ custom-potions-name:
   - WATER;水瓶;水瓶
   - WATER_BREATHING;水肺药水;水肺药水
   - WEAKNESS;虚弱药水;虚弱药水
-    #以上翻译均来自wiki
+  #以上翻译均来自wiki
 
   #Custom names for potion effect type. Format: <PotionEffectType>;<CustomName>
   # PotionEffect: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html
   effects:
-#  - FIRE_RESISTANCE;Fire resistance
-#  - INVISIBILITY;Invisibility
+  #- FIRE_RESISTANCE;Fire resistance
+  #- INVISIBILITY;Invisibility
   - SPEED;速度
   - SLOW;缓慢
   - FAST_DIGGING;急迫
@@ -834,4 +827,4 @@ custom-potions-name:
   - LEVITATION;飘浮
   - LUCK;幸运
   - UNLUCK;霉运
-  #以上翻译均来自wiki 
+  #以上翻译均来自wiki
