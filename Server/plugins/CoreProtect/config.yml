@@ -1,12 +1,27 @@
+#       ———————————————————————————
+#        |   汉化原版chengzi      |
+#        |     Hailay借用修改     |
+#        |    中英对照，双语学习   |
+#        |        修改时间        | 
+#        |    2017年8月7日21时    |
+#      ————————————————————————————
+
 #CoreProtect Config
+#CoreProtect配置文件
 
 # If enabled, extra data is displayed when doing rollbacks and restores.
+# 如果开启了,在进行回档和还原操作时总是显示附加的数据.
 # If disabled, you can manually trigger it in-game by adding "#verbose"
+# 如果禁止了,你可以简单地打开它用加入 "#verbose"
 # to the end of your rollback statement.
+# 在你的回档或者还原命令的末尾.
 verbose: true
 
 # MySQL is optional and not required.
+# MySQL是一个扩展选项而不是必须的.
 # If you prefer to use MySQL, enable the following and fill out the fields.
+# 如果你决定使用MySQL,开启下列选项并且填写下面的内容.
+#以下内容为服务器具体用户名与密码.
 use-mysql: true
 table-prefix: co_
 mysql-host: 127.0.0.1
@@ -16,114 +31,160 @@ mysql-username: coreprotect
 mysql-password: S5diNk4iED
 
 # If enabled, CoreProtect will check for updates when your server starts up.
+# 如果开启了, CoreProtect将会在服务器开启时检测有没有新版本.
 # If an update is available, you'll be notified via your server console.
-check-updates: true
+# 如果有一个新的更新是有效的,你将会在控制台里面看到提示信息.
+#默认开启，但是我关了，它好像很久都没有更新。
+check-updates: false
 
 # If enabled, other plugins will be able to utilize the CoreProtect API.
+# 如果开启了, 其他插件将可以使用CoreProtect API.
 api-enabled: true
 
 # If no radius is specified in a rollback or restore, this value will be
+# 如果没有在使用回档/还原操作时指定一个半径, 这个数值将用来
 # used as the radius. Set to "0" to disable automatically adding a radius.
+# 当做半径. 设置为 "0" 来禁止自动添加半径.
 default-radius: 10
 
 # The maximum radius that can be used in a command. Set to "0" to disable.
+# 在使用一个命令时允许的最高半径. 设置为 "0" 来关闭这个选项.
 # To run a rollback or restore without a radius, you can use "r:#global".
+# 去使用一个全局的回档或者还原操作, 你可以使用 "r:#global".
 max-radius: 100
 
 # If enabled, items taken from containers (etc) will be included in rollbacks.
+# 如果开启了, 物品被从容器中取出(等)操作将会被包括在回档操作中. 
 rollback-items: true
 
 # If enabled, entities, such as killed animals, will be included in rollbacks.
+# 如果启用了, 实体, 比如杀死动物, 将会被包括在回档操作中.
 rollback-entities: true
 
 # If enabled, generic data, like zombies burning in daylight, won't be logged.
+# 如果开启了, 一般的数据, 比如僵尸在日光下燃烧, 将不会被记录.
 skip-generic-data: true
 
 # Logs blocks placed by players.
+# 记录被玩家放置的方块.
 block-place: true
 
 # Logs blocks broken by players.
+# 记录被玩家破坏的方块.
 block-break: true
 
 # Logs blocks that break off of other blocks; for example, a sign or torch
+# 记录方块被其他方块破坏; 比如, 一个木牌或者火把
 # falling off of a dirt block that a player breaks. This is required for
+# 因为一个玩家破坏了它们依靠的方块而掉落. 这是可能是回档对床/门的操作所必须的
 # beds/doors to properly rollback.
 natural-break: true
 
 # Properly track block movement, such as sand or gravel falling.
+# 可能记录方块移动情况, 比如一个沙子或者沙烁的坠落.
 block-movement: true
 
 # Properly track blocks moved by pistons.
+# 可能记录下被活塞移动的方块.
 pistons: true
 
 # Logs blocks that burn up in a fire.
+# 记录方块被火焰烧毁.
 block-burn: true
 
 # Logs when a block naturally ignites, such as from fire spreading.
+# 记录一个方块自然的点燃, 比如被蔓延的火焰点燃.
 block-ignite: true
 
 # Logs explosions, such as TNT and Creepers.
+# 记录爆炸, 比如一个TNT或者一只苦力怕.
 explosions: true
 
 # Track when an entity changes a block, such as an Enderman destroying blocks.
+# 记录实体修改方块, 比如一个末影人破坏了一个方块. 
 entity-change: true
 
 # Logs killed entities, such as killed cows and enderman.
+# 记录玩家击杀实体, 比如杀死一头牛和一个末影人.
 entity-kills: true
 
 # Logs text on signs. If disabled, signs will be blank when rolled back.
+# 记录木牌上的文本. 如果禁止了,木牌在回档之后将会变成空白的.
 sign-text: true
 
 # Logs lava and water sources placed/removed by players who are using buckets.
+# 记录岩浆和水源头被玩家使用桶放置/移除.
 buckets: true
 
 # Logs natural tree leaf decay.
+# 记录自然的树叶腐败.
 leaf-decay: true
 
 # Logs tree growth. Trees are linked to the player who planted the sappling.
+# 记录树的生长. 树会关联到放置那个树苗的玩家身上.
 tree-growth: true
 
 # Logs mushroom growth.
+# 记录蘑菇的生长.
 mushroom-growth: true
 
 # Logs natural vine growth.
+# 记录藤蔓自然生长.
 vine-growth: true
 
 # Logs when portals such as Nether portals generate naturally.
+# 记录传送门比如地狱传送门自然的生成.
 portals: true
 
 # Logs water flow. If water destroys other blocks, such as torches,
+# 记录水流. 如果水破坏了其他的方块, 比如火把等,
 # this allows it to be properly rolled back.
+# 这也允许它可以被回档.
 water-flow: true
 
 # Logs lava flow. If lava destroys other blocks, such as torches,
+# 记录岩浆流动. 如果岩浆破坏了其他方块, 比如火把等,
 # this allows it to be properly rolled back.
+# 这也允许它可以被回档.
 lava-flow: true
 
 # Allows liquid to be properly tracked and linked to players.
+# 允许液体记录关联到一个玩家身上.
 # For example, if a player places water which flows and destroys torches,
+# 比如, 如果一个玩家放置了一格水流动并且摧毁了火把, 
 # it can all be properly restored by rolling back that single player.
+# 它将可以使用回档指定玩家的操作来还原.
 liquid-tracking: true
 
 # Track item transactions, such as when a player takes items from a
+# 记录物品进出数据, 比如一个玩家从一个箱子、
 # chest, furnace, or dispenser. Necessary for any item based rollbacks.
+# 熔炉、或者发射器中取出物品. 是所有物品回档所必需的选项.
 item-transactions: true
 
 # Track player interactions, such as when a player opens a door, presses
+# 记录玩家交互信息, 比如一个玩家打开了一个门, 按下了
 # a button, or opens a chest. Player interactions can't be rolled back.
+# 一个按钮, 或者打开了一个箱子. 玩家交互信息不能被回档.
 player-interactions: true
 
 # Logs messages that players send in the chat.
+# 记录玩家的聊天信息.
 player-messages: true
 
 # Logs all commands used by players.
+# 记录所有玩家使用的命令.服务器请关闭此项记录或严格控制权限避免密码泄露
+#权限已严控。
 player-commands: true
 
 # Logs the logins and logouts of players.
+# 记录所有玩家进入和退出服务器.
 player-sessions: true
 
 # Logs when a player changes their Minecraft username.
+# 记录玩家更改Minecraft用户名的记录.
 username-changes: true
 
 # Logs changes made via the plugin "WorldEdit" if it's in use on your server.
+# 记录插件 "WorldEdit" 所做的改变如果你在你的服务器里面使用他的话.
 worldedit: true
