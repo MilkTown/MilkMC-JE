@@ -1,0 +1,81 @@
+title-name: '&2[LetterHeads]'
+missing-permission-get-player-head: '&4You do not have permission to get a player''s
+  head!'
+missing-permission-get-head: '&4You do not have permission to take this head!'
+missing-permission-use: '&4You do not have permission to use %pluginname!'
+missing-permission-show-info: '&4You do not have permission to show the information!'
+missing-permission-show-amount: '&4You do not have permission to show the amount of
+  heads!'
+missing-permission-reset-amount: '&4You do not have permission to reset the amount
+  of heads!'
+missing-permission-set-max-amount: '&4You do not have permission to set the maximum
+  amount of heads!'
+missing-permission-toggle-max-amount: '&4You do not have permission to toggle the
+  maximum amount of heads!'
+missing-permission-toggle-head-drop: '&4You do not have permission to toggle the head
+  drop on death!'
+missing-permission-toggle-head-logging: '&4You do not have permission to toggle the
+  logging of player-heads!'
+error-player-couldnt-receive-head: '&4The player couldn''t receive the head!'
+error-withdraw: '&4Error while withdrawing.'
+error-get-head-max-amount-exceeded: '&4You''ve reached the maximum amount of &c%amount
+  &4heads! Please try again later!'
+error-player-never-took-head: '&c%player &4never took a head!'
+error-never-took-head: '&4You never took a head!'
+error-all-never-took-head: '&4Nobody ever took a head!'
+error-invalid-number: '&4Please enter a valid number!'
+error-syntax: '&4Syntax error! Use %command for information!'
+error-style-missing: '&4This style doesn''t exist!'
+success-withdraw: '&6You paid &c%amount &6in order to get a head!'
+success-config-reload: '&6The config has been &areloaded&6!'
+success-player-head-amount-removed: '&6The amount of heads was removed for &a%player&6!'
+success-head-amount-removed: '&6Your amount of heads was removed!'
+success-all-head-amount-removed: '&6Every player''s amount of heads was removed!'
+success-set-max-head-amount: '&6The maximum amount of heads was set to &a%amount&6!'
+success-player-set-max-head-amount: '&6The maximum amount of heads for &a%player &6was
+  set to &a%amount&6!'
+success-toggle-max-amount-enabled: '&6The maximum amount of heads has been &aenabled&6!'
+success-toggle-max-amount-disabled: '&6The maximum amount of heads has been &cdisabled&6!'
+success-toggle-head-drop-enabled: '&6The head-drop on death has been &aenabled&6!'
+success-toggle-head-drop-disabled: '&6The head-drop on death has been &cdisabled&6!'
+success-toggle-head-logging-enabled: '&6The logging of player-heads has been &aenabled&6!'
+success-toggle-head-logging-disabled: '&6The logging of player-heads has been &cdisabled&6!'
+success-display-amount: '&6Your amount of heads is &a%amount &6out of &a%max&6!'
+success-player-display-amount: '&6The amount of heads of &a%player &6is &a%amount
+  &6out of &a%max&6!'
+word-syntax: Syntax
+word-player: PLAYER
+word-playername: PLAYERNAME
+word-receiver: RECEIVER
+word-style: STYLE
+word-amount: AMOUNT
+word-by: by
+word-usages: Usages
+description-open-gui: Opens GUI
+description-show-information: Shows information
+description-reload-config: Reloads config
+description-get-player-head: Gets a player-head
+description-reset-max-head-amount: Resets maximum head amount
+description-reset-max-head-amount-all: Resets maximum head amount for all players
+description-set-max-head-amount: Sets the maximum amount of heads
+description-toggle-max-head-amount: Toggles the maximum amount of heads
+description-check-head-amount: Checks the amount of heads
+description-toggle-head-drop: Toggles the head-drop on death
+description-toggle-player-head-logging: Toggles the logging of player-heads
+gui-style-wood: Wood
+gui-style-stone: Stone
+gui-style-quartz: Quartz
+gui-style-cobblestone: Cobblestone
+gui-style-celebration: Celebration
+gui-style-block: Block
+gui-style-tech: Tech
+gui-style-social: Social
+gui-style-color: Color
+gui-style-flag: Flag
+gui-style-character: Character
+gui-style-monster: Monster
+gui-style-animal: Animal
+gui-style-player: Player
+gui-previous: PREVIOUS PAGE
+gui-next: NEXT PAGE
+gui-information: Click me for information!
