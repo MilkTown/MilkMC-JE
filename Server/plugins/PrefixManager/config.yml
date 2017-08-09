@@ -10,6 +10,6 @@ mysql:
   use: true
   port: 3306
   user: PrefixManager
-  password: rootAjthxsGKEJ
+  password: AjthxsGKEJ
   database: PrefixManager
   host: localhost
