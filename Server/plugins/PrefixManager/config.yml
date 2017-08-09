@@ -1,0 +1,15 @@
+version: 2
+setting:
+  format:
+    default: '&f[[WORLDNAME]&f]&f<&6[DISPLAYNAME]&f> &f[MESSAGE]'
+    builder: '&f[[WORLDNAME]&f]&f<&6[DISPLAYNAME]&f> &f[MESSAGE]'
+  prefix: '&d[称号系统]'
+  save_interval: 1800
+  name_tag: false
+mysql:
+  use: true
+  port: 3306
+  user: PrefixManager
+  password: rootAjthxsGKEJ
+  database: PrefixManager
+  host: localhost

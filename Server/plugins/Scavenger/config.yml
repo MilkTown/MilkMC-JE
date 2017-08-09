@@ -48,7 +48,7 @@ Economy:
   Enabled: true
   Percent: true
   RestoreCost: 499.0
-  MinCost: 100.0
+  MinCost: 233.0
   MaxCost: 0
   PercentCost: 5.0
   AddMin: false
