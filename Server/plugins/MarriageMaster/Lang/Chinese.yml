@@ -1,155 +1,155 @@
-#���ٺ�����2016��12��1��16:38:08 ��л����ʹ��
-#������ʲô����ĵط���ӭָ�����һ���ȡ�����quq���Ͼ���һ�κ�����������_(:�٩f��)_
-#�ѵ�MCBBS UUID��1713362
-#�ѵ�QQ 1801011241
+#龙栀汉化，2016年12月1日16:38:08 感谢您的使用
+#汉化有什么不足的地方欢迎指出，我会吸取经验的quq，毕竟第一次汉化，多多包涵_(:зゝ∠)_
+#窝的MCBBS UUID：1713362
+#窝的QQ 1801011241
 Version: 18
 Language:
     Console:
-        Enabled: ����ϵͳ������!
-        Disabled: ����ϵͳδ����.
-        LangUpdated: �����ļ��Ѹ���!
-        NoPermPL: δ�ҵ�Ȩ�޲��,��ʹ��Ĭ��Ȩ��
-        NoEcoPL: û���ҵ����ò��.
+        Enabled: 婚姻系统已启用!
+        Disabled: 婚姻系统未启用.
+        LangUpdated: 语言文件已更新!
+        NoPermPL: 未找到权限插件,现使用默认权限
+        NoEcoPL: 没有找到经济插件.
         MetricsOffline: Metrics offline.
-        NotSupportedNet: �˰汾��֧����ķ���������,��������.
+        NotSupportedNet: 此版本不支持你的服务器核心,核心受损.
         UpdateUUIDs: Start updating database to UUIDs ...
         UpdatedUUIDs: 'Updated %s accounts to UUIDs.'
     Description:
-        Commands: ��d����ϵͳ��b===��a���ٺ���
-        ListAll: �鿴ȫ���ѽ������.
-        Marry: 'Ϊ�� %s ��Χ�ڵ��˽��.'
-        Divorce: 'Ϊ�� %s ��Χ�ڵ������.'
-        Priest: ����ĳ�����Ϊ��ʦ.
-        TP: ��������İ���.
-        PvPOn: ������Ͱ���֮���PVP�˺�.
-        PvPOff: �ر���Ͱ���֮���PVP�˺�.
-        SetHome: ���õ�ǰ�ĵص�Ϊ���¹�ͬ�ļ�.
-        TPHome: �������Ͱ��¹�ͬ�ļ�.
-        Chat: ����һ��������Ϣ����İ���.
-        ChatToggle: ����\�ر�������Ϣģʽ.
-        Reload: '���ز������.'
-        ListenChat: ����\�رռ����ѽ����ҵ�������Ϣ.
-        Gift: �������е���Ʒ�����������İ���.
-        Kiss: ������İ���.
-        Update: �����û���µĸ���,���Ұ�����.
-        SelfMarry: ��������ҷ������.
-        SelfDivorce: ����İ������.
-        Surname: �ı�һ�Է򸾵�����.
-        Backpack: ������µı���.
-        BackpackOn: ������İ��´���ı���.
-        BackpackOff: ��������İ��´���ı���.
-        DelHome: ɾ����Ͱ��¹�ͬ�ļ�.
-        TPHomeOther: ������ĳ�԰��µļ�.
-        DelHomeOther: ɾ��ĳ�԰��µļ�.
+        Commands: §d婚姻系统
+        ListAll: 查看全部已结婚的玩家.
+        Marry: '为在 %s 格范围内的人结婚.'
+        Divorce: '为在 %s 格范围内的人离婚.'
+        Priest: 设置某个玩家为牧师.
+        TP: 传送至你的伴侣.
+        PvPOn: 开启你和伴侣之间的PVP伤害.
+        PvPOff: 关闭你和伴侣之间的PVP伤害.
+        SetHome: 设置当前的地点为伴侣共同的家.
+        TPHome: 传送至和伴侣共同的家.
+        Chat: 发送一条秘密消息给你的伴侣.
+        ChatToggle: 开启\关闭秘密消息模式.
+        Reload: '重载插件配置.'
+        ListenChat: 开启\关闭监听已结婚玩家的秘密消息.
+        Gift: 将你手中的物品当做礼物给你的伴侣.
+        Kiss: 亲吻你的伴侣.
+        Update: 检查有没有新的更新,并且按照它.
+        SelfMarry: 向其他玩家发出求婚.
+        SelfDivorce: 和你的伴侣离婚.
+        Surname: 改变一对夫妇的姓氏.
+        Backpack: 打开你伴侣的背包.
+        BackpackOn: 允许你的伴侣打开你的背包.
+        BackpackOff: 不允许你的伴侣打开你的背包.
+        DelHome: 删除你和伴侣共同的家.
+        TPHomeOther: 传送至某对伴侣的家.
+        DelHomeOther: 删除某对伴侣的家.
     Ingame:
-        NotMarried: �㲢û�н��.
-        NoMarriedPlayers: ���ﻹû�н��������.
-        NotAPriest: �㲻����ʦ.
-        NoPermission: "��û��Ȩ�������."
-        PartnerOnline: ��İ����ڷ�������.
-        PartnerOffline: ��İ��²��ڷ�������.
-        PartnerNowOnline: ��İ���������.
-        PartnerNowOffline: ��İ���������.
-        PvPOn: ��Ͱ���֮���PVP�˺�������.
-        PvPOff: ��Ͱ���֮���PVP�˺��ѹر�.
-        PlayerNoHome: "�����Һ����İ���û�й�ͬ�ļ�."
-        NoHome: �����İ��»�û�й�ͬ�ļ�.
-        HomeTP: �㱻���͵�����Ͱ��¹�ͬ�ļ�.
-        HomeSet: �ɹ������������µļ�.
-        PlayerNotOn: '%s ������.'
-        NoTPInVanish: ���޷���������İ���,��Ϊ��İ���������
-        TP: ��������İ���...
-        TPto: ��İ��´���������...
-        TPUnsafe: "���ͱ�ȡ��,���δ����ǲ���ȫ��!"
-        TPtoUnsafe: "��İ����봫�͵�����,������˴δ��Ͳ���ȫ��ȡ��"
-        ListHL: �ѻ��������
-        ListHLMP: '�鿴ҳ�� %1$d/%2$d - /marry list <page>'
-        PvPIsOff: �����ر��˺Ͱ��µ�PVP�˺�,���޷��˺���Ta!
-        ListeningStarted: �㿪���˼���ģʽ.
-        ListeningStoped: ��ر��˼���ģʽ.
-        PriestMarryOff: '��ʦ (%s) ������, ������ȡ��.'
-        PlayerMarryOff: '��� %s ������, ������ȡ��.'
-        PlayerCalledOff: '%s ȡ���˻���.'
-        YouCalledOff: ����ȡ������!
-        NoItemInHand: ������û���κ���Ʒ.
-        PartnerInvFull: ����µı�����û�пռ���.
-        ItemSent: '�ɹ�����%1$s��%2$s�����������İ���.'
-        ItemReceived: '��İ��·�����%1$s��%2$s�����������.'
-        GiftsOnlyInSurvival: ��ֻ��������ģʽ�¸���İ��·�����Ʒ.
-        YouKissed: ����������İ���!
-        YouGotKissed: ��İ�����������!
-        TooFarToKiss: ������İ���̫Զ��. (������2��)
-        KissWait: '�����ȴ� %s ������ٴ�������İ���.'
-        WorldNotAllowed: ��İ�����һ�����������͵�������
-        CheckingForUpdates: '��������...'
-        Updated: '�Ѱ�װ�µĸ���,�������´���������/���ط�����������.'
-        NoUpdate: 'û���µĿ��ø���.'
-        MarryConfirm: '%s �������. ͬ�������� /marry accept �ܾ������� /marry deny'
-        HasMarried: '���%s�����!'
-        BroadcastMarriage: '%1$s��%2$s�����.'
-        BroadcastDivorce: '%1$s�뿪��%2$s.'
-        Divorced: '���뿪��%s.��������һֻ������!'
-        DivorcedPlayer: '%s �뿪����.��������һֻ������.'
-        AlreadyMarried: ���Ѿ������!
-        OtherAlreadyMarried: '%s �Ѿ������!'
-        AlreadyOpenRequest: ����һ��û�л�Ӧ�����.
-        MarryRequestSent: ���������ѷ���.
-        TPMoved: ���ƶ����´���ȡ��!
-        TPDontMove: "���ͽ��� %s ���ڿ�ʼ! ��Ҫ�ƶ�!"
-        NotYourself: �㲻�������Լ����.
-        ChatJoined: �㿪����������Ϣģʽ.
-        ChatLeft: ��ر���������Ϣģʽ.
-        NaN: ������Ĳ���һ������!
-        NotInRange: ��İ�������̫Զ��.
-        BackpackOnlyInSurvival: ��ֻ��������ģʽ�·�������±���.
-        BackpackShareOn: �㿪���˷�������ģʽ.
-        BackpackShareOff: ��ر��˷�������ģʽ.
-        BackpackOpend: ��İ��´�����ı���.
-        BackpackShareDenied: ��İ��²�������������ı���.
-        HomeDeleted: ��ͬ�ļ���ɾ��.
-#�˴�Economyһ�㲻����,�˲����� _(:�٩f��)_���ǱȽ���
+        NotMarried: 你并没有结婚.
+        NoMarriedPlayers: 这里还没有结婚过的玩家.
+        NotAPriest: 你不是牧师.
+        NoPermission: "你没有权限做这个."
+        PartnerOnline: 你的伴侣在服务器内.
+        PartnerOffline: 你的伴侣不在服务器内.
+        PartnerNowOnline: 你的伴侣已上线.
+        PartnerNowOffline: 你的伴侣已下线.
+        PvPOn: 你和伴侣之间的PVP伤害已启用.
+        PvPOff: 你和伴侣之间的PVP伤害已关闭.
+        PlayerNoHome: "这个玩家和他的伴侣没有共同的家."
+        NoHome: 你和你的伴侣还没有共同的家.
+        HomeTP: 你被传送到了你和伴侣共同的家.
+        HomeSet: 成功设置你和你伴侣的家.
+        PlayerNotOn: '%s 不在线.'
+        NoTPInVanish: 你无法传送至你的伴侣,因为你的伴侣隐身了
+        TP: 传送至你的伴侣...
+        TPto: 你的伴侣传送至你这...
+        TPUnsafe: "传送被取消,本次传送是不安全的!"
+        TPtoUnsafe: "你的伴侣想传送到你这,但是因此次传送不安全被取消"
+        ListHL: 已婚玩家名单
+        ListHLMP: '查看页面 %1$d/%2$d - /marry list <page>'
+        PvPIsOff: 如果你关闭了和伴侣的PVP伤害,你无法伤害到Ta!
+        ListeningStarted: 你开启了监听模式.
+        ListeningStoped: 你关闭了监听模式.
+        PriestMarryOff: '牧师 (%s) 不在线, 婚礼已取消.'
+        PlayerMarryOff: '玩家 %s 不在线, 婚礼已取消.'
+        PlayerCalledOff: '%s 取消了婚礼.'
+        YouCalledOff: 你已取消婚礼!
+        NoItemInHand: 你手中没有任何物品.
+        PartnerInvFull: 你伴侣的背包中没有空间了.
+        ItemSent: '成功发送%1$s个%2$s当做礼物给你的伴侣.'
+        ItemReceived: '你的伴侣发送了%1$s个%2$s当做礼物给你.'
+        GiftsOnlyInSurvival: 你只能在生存模式下给你的伴侣发送物品.
+        YouKissed: 你亲吻了你的伴侣!
+        YouGotKissed: 你的伴侣亲吻了你!
+        TooFarToKiss: 你离你的伴侣太远了. (最大距离2格)
+        KissWait: '你必须等待 %s 秒才能再次亲吻你的伴侣.'
+        WorldNotAllowed: 你的伴侣在一个不允许传送的世界中
+        CheckingForUpdates: '检查更新中...'
+        Updated: '已安装新的更新,将会在下次重新启动/重载服务器后启用.'
+        NoUpdate: '没有新的可用更新.'
+        MarryConfirm: '%s 向你求婚. 同意请输入 /marry accept 拒绝请输入 /marry deny'
+        HasMarried: '你和%s结婚了!'
+        BroadcastMarriage: '%1$s和%2$s结婚了.'
+        BroadcastDivorce: '%1$s离开了%2$s.'
+        Divorced: '你离开了%s.你现在是一只单身狗!'
+        DivorcedPlayer: '%s 离开了你.你现在是一只单身狗.'
+        AlreadyMarried: 你已经结婚了!
+        OtherAlreadyMarried: '%s 已经结婚了!'
+        AlreadyOpenRequest: 你有一个没有回应的求婚.
+        MarryRequestSent: 婚姻请求已发送.
+        TPMoved: 你移动导致传送取消!
+        TPDontMove: "传送将在 %s 秒内开始! 不要移动!"
+        NotYourself: 你不能向你自己求婚.
+        ChatJoined: 你开启了秘密消息模式.
+        ChatLeft: 你关闭了秘密消息模式.
+        NaN: 你输入的不是一个数字!
+        NotInRange: 你的伴侣离你太远了.
+        BackpackOnlyInSurvival: 你只能在生存模式下访问你伴侣背包.
+        BackpackShareOn: 你开启了分享背包模式.
+        BackpackShareOff: 你关闭了分享背包模式.
+        BackpackOpend: 你的伴侣打开了你的背包.
+        BackpackShareDenied: 你的伴侣不允许你访问他的背包.
+        HomeDeleted: 共同的家已删除.
+#此处Economy一般不启用,顾不汉化 _(:зゝ∠)_还是比较懒
     Economy:
-        NotEnough: "��û���㹻��Ǯ,����Ҫ %1$s."
-        PartnerNotEnough: ��İ���û���㹻��Ǯ!
-        NotEnoughPriestInfo: ����ͼ�������û���㹻��Ǯ.
-        HomeTPPaid: '�㴫�͹�ͬ�ļһ����� %1$s. (%2$s left)'
-        SetHomePaid: '�㻨���� %1$s �����㹲ͬ�ļ� (%2$s left)'
+        NotEnough: "你没有足够的钱,你需要 %1$s."
+        PartnerNotEnough: 你的伴侣没有足够的钱!
+        NotEnoughPriestInfo: 你试图求婚的玩家没有足够的钱.
+        HomeTPPaid: '你传送共同的家花费了 %1$s. (%2$s left)'
+        SetHomePaid: '你花费了 %1$s 设置你共同的家 (%2$s left)'
         TPPaid: 'You paid %1$s for the Teleport (%1$s left)'
         DivorcePaid: 'You paid %1$s for the annul of your marriage (%2$s left)'
         DivNotEnoPriestI: The players you are trying to divorce don't have enough money.
         MarriagePaid: 'You paid %1$s for your marriage (%2$s left)'
         GiftPaid: 'You have paid %1$s for gifting an item to your partner (%2$s left)'
     Priest:
-        NotWithHimself: "�㲻���� %s ��Ta�Լ����."
-        NotInRange: ����˺ͱ�����˲�զ25��Χ��.
-        AlreadyMarried: �㲻�ܺ��Ѿ�����˵��˽��
-        BroadcastMarriage: '%1$s ʹ %2$s �� %3$s �����.'
-        BroadcastDivorce: '%1$s ʹ %2$s �� %3$s �����.'
-        Married: '��ʹ %1$s �� %2$s�����.'
-        HasMarried: '%1$s ����� %2$s�����.'
-        MadeYouAPriest: '%s ʹ���Ϊ����ʦ.'
-        MadeAPriest: '��ʹ %s ��Ϊ����ʦ.'
-        UnMadeYouAPriest: '%s ȡ���������ʦ����.'
-        UnMadeAPriest: '��ȡ���� %s ����ʦ����.'
-        PlayerNotMarried: ��Ҳ�û�н��.
+        NotWithHimself: "你不能让 %s 向Ta自己求婚."
+        NotInRange: 求婚人和被求婚人不咋25格范围内.
+        AlreadyMarried: 你不能和已经结婚了的人结婚
+        BroadcastMarriage: '%1$s 使 %2$s 和 %3$s 结婚了.'
+        BroadcastDivorce: '%1$s 使 %2$s 和 %3$s 离婚了.'
+        Married: '你使 %1$s 和 %2$s结婚了.'
+        HasMarried: '%1$s 让你和 %2$s结婚了.'
+        MadeYouAPriest: '%s 使你成为了牧师.'
+        MadeAPriest: '你使 %s 成为了牧师.'
+        UnMadeYouAPriest: '%s 取消了你的牧师身份.'
+        UnMadeAPriest: '你取消了 %s 的牧师身份.'
+        PlayerNotMarried: 玩家并没有结婚.
         PartnerOffline: "%1$s's partner (%2$s) is not Online."
-        DivorcedPlayer: '%1$s��������%2$s�Ļ���.'
-        Divorced: '������%1$s��%2$s�Ļ���.'
-        Confirm: '����������� /marry accept �ܾ�������� /marry deny'
-        AlreadyAccepted: '���Ѿ����������.'
-        NoRequest: 'û�й����������Ϣ.'
-        NotYourSelf: '�㲻�ܼ޸����Լ�.'
-        AlreadyOpenRequest: '%s ��һ��û�л�Ӧ�����.'
-        DivPlayerOff: '%s ���ڲ�����, ���ȡ��.'
-        DivPriestOff: '��ʦ (%s) ���ڲ�����, ���ȡ��.'
-        PlayerCanceled: '%s �ܾ����.'
-        DivorceCanceled: ��ܾ�������������.
-        DivorceConfirm: 'ͬ��������� /marry accept �ܾ�������� /marry deny'
-        SurnameSet: �����޸ĳɹ�.
-        DivorceRequestSent: '��������ѷ���.'
+        DivorcedPlayer: '%1$s解除了你和%2$s的婚姻.'
+        Divorced: '你解除了%1$s和%2$s的婚姻.'
+        Confirm: '接受求婚输入 /marry accept 拒绝求婚输入 /marry deny'
+        AlreadyAccepted: '你已经接受了求婚.'
+        NoRequest: '没有公开的求婚信息.'
+        NotYourSelf: '你不能嫁给你自己.'
+        AlreadyOpenRequest: '%s 有一个没有回应的求婚.'
+        DivPlayerOff: '%s 现在不在线, 离婚取消.'
+        DivPriestOff: '牧师 (%s) 现在不在线, 离婚取消.'
+        PlayerCanceled: '%s 拒绝离婚.'
+        DivorceCanceled: 你拒绝了这次离婚请求.
+        DivorceConfirm: '同意离婚输入 /marry accept 拒绝离婚输入 /marry deny'
+        SurnameSet: 姓氏修改成功.
+        DivorceRequestSent: '离婚请求已发送.'
     Dialog:
-        DoYouWant: '%1$s, ��Ը��������������ڼ޸�%2$sô?'
-        AndDoYouWant: '��ô%1$s,��Ը���������������Ȣ%2$sΪ��ô?'
-        Married: '�����������Ƿ�����,�����������A.A'
-        YesIWant: '�ǵ�,��Ը��'
-        NoIDontWant: '��,�Ҳ�Ը��'
+        DoYouWant: '%1$s, 你愿意在这个服务器内嫁给%2$s么?'
+        AndDoYouWant: '那么%1$s,你愿意在这个服务器内娶%2$s为妻么?'
+        Married: '我宣布你俩是夫妻了,你可以吻她了A.A'
+        YesIWant: '是的,我愿意'
+        NoIDontWant: '不,我不愿意'

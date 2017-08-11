@@ -4,7 +4,7 @@ AllowBlockPvP: false
 Announcement: true
 InformOnPartnerJoin: true
 DelayMessageForJoiningPlayer: 0
-Language: Chinese
+Language: en
 LanguageUpdateMode: Overwrite
 PriestCMD: priest
 UseUUIDs: true
