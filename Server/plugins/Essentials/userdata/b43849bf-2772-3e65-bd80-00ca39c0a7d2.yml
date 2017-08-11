@@ -1,0 +1,21 @@
+lastAccountName: 12ifg
+timestamps:
+  login: 1502096680213
+  lastteleport: 1502101769814
+  logout: 1502103614740
+ipAddress: 42.91.174.6
+lastlocation:
+  world: world
+  x: 31.995733734759966
+  y: 64.0
+  z: 294.78111352910565
+  yaw: 195.70703
+  pitch: 2.562935
+money: '100.0'
+logoutlocation:
+  world: world
+  x: 37.8326690003049
+  y: 64.0
+  z: 275.71616983166774
+  yaw: 115.700516
+  pitch: 5.9423094

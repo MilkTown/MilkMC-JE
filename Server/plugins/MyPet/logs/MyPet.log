@@ -1,0 +1,30 @@
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] Enabling MyPet v2.3.0
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] PlaceholderAPI (2.8.2) hook activated.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] ProtocolLib (4.3.0) hook activated.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] Residence (4.7.1.2) hook activated.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] Vault (1.6.6-b${env.TRAVIS_BUILD_NUMBER}) hook activated.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] Compat mode for v1_12_R1 loaded.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] Default skilltree file created (default.st).
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] No groups found. Everything will be in 'default' group.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] --- Loading WorldGroups ---------------------------
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] added ¡ì6world¡ìr to 'default' group.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] added ¡ì6world_nether¡ìr to 'default' group.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] added ¡ì6world_the_end¡ìr to 'default' group.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] added ¡ì6zy¡ìr to 'default' group.
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] -------------------------------------------------
+08-11-2017 12:21 [INFO] [¡ì2MyPet¡ìr] version 2.3.0-b1156¡ìa ENABLED
+08-11-2017 12:22 [INFO] [¡ì2MyPet¡ìr] Disabling MyPet v2.3.0
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] Enabling MyPet v2.3.0
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] PlaceholderAPI (2.8.2) hook activated.
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] ProtocolLib (4.3.0) hook activated.
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] Residence (4.7.1.2) hook activated.
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] Vault (1.6.6-b${env.TRAVIS_BUILD_NUMBER}) hook activated.
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] Compat mode for v1_12_R1 loaded.
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] --- Loading WorldGroups ---------------------------
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr]    added 'world' to 'default'
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr]    added 'world_nether' to 'default'
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr]    added 'world_the_end' to 'default'
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr]    added 'zy' to 'default'
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] -------------------------------------------------
+08-11-2017 13:22 [INFO] [¡ì2MyPet¡ìr] version 2.3.0-b1156¡ìa ENABLED
+08-11-2017 13:31 [INFO] [¡ì2MyPet¡ìr] Disabling MyPet v2.3.0

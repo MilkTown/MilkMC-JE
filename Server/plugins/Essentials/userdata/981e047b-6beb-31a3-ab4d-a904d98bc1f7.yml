@@ -1,24 +1,24 @@
 lastAccountName: Orange0JuIcE
 timestamps:
-  login: 1502016997429
-  logout: 1502022205187
-  lastteleport: 1502021839442
+  login: 1502324831822
+  logout: 1502325745861
+  lastteleport: 1502324981453
 ipAddress: 211.162.10.197
 lastlocation:
-  world: zy
-  x: -73.2463710716792
-  y: 18.0
-  z: 235.30000001192093
-  yaw: 18.781046
-  pitch: -0.2111699
-money: '6178.86'
-logoutlocation:
   world: world
-  x: -74.36216075321492
+  x: -75.20922915483081
   y: 82.0
-  z: -481.25249424966734
-  yaw: -331.04993
-  pitch: 28.049957
+  z: -479.8852199961529
+  yaw: -220.5011
+  pitch: 33.899998
+money: '6191.019999999999999'
+logoutlocation:
+  world: zy
+  x: -235.13912324601677
+  y: 71.0
+  z: 1106.7589534096492
+  yaw: -298.79077
+  pitch: 25.649952
 afk: false
 homes:
   a:

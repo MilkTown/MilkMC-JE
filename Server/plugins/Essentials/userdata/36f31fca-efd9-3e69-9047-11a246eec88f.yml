@@ -1,22 +1,46 @@
 lastAccountName: strickczq
 timestamps:
-  login: 1502003889099
-  logout: 1502008602553
-  lastteleport: 1502008245360
-ipAddress: 14.18.34.142
+  login: 1502277935109
+  logout: 1502281315658
+  lastteleport: 1502279042645
+  jail: 0
+ipAddress: 14.18.33.161
 lastlocation:
   world: world
-  x: -41.8898304095711
-  y: 64.0
-  z: 192.64710162417032
-  yaw: -267.7504
-  pitch: 2.5499742
-money: '19126.01'
+  x: -29.5
+  y: 117.0
+  z: 185.5
+  yaw: -131.27977
+  pitch: 35.250008
+money: '21161.835'
 afk: false
 logoutlocation:
   world: world
-  x: -33.687176311388626
-  y: 117.0
-  z: 184.30000001192093
-  yaw: -169.49998
-  pitch: 83.24995
+  x: -3946.4533130386726
+  y: 64.0
+  z: 1437.9316050451068
+  yaw: -118.82167
+  pitch: 17.2497
+homes:
+  wk:
+    world: zy
+    x: -52.557996605543636
+    y: 5.0
+    z: 99.69999998807907
+    yaw: 42.153305
+    pitch: 0.75002396
+  home:
+    world: world
+    x: -3957.7172903282835
+    y: 63.0
+    z: 1440.5594514768522
+    yaw: -353.57874
+    pitch: 15.749921
+  dyib:
+    world: world_nether
+    x: -406.9628616410213
+    y: 78.0
+    z: -161.9250000119209
+    yaw: -122.70189
+    pitch: 24.30008
+jailed: false

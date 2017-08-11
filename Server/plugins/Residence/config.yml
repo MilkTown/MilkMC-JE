@@ -27,7 +27,7 @@ Global:
     DefaultWorld: world
     DisabledWorlds:
       # List Of Worlds where this plugin is disabled
-      List: []
+      List: zy
       # Disables all listeners in included worlds
       DisableListeners: true
       # Disabled any command usage in included worlds
@@ -152,6 +152,18 @@ Global:
         CenterX: 0
         CenterZ: 0
       zy:
+        Enabled: true
+        MaxCoord: 1000
+        MinCord: 500
+        CenterX: 0
+        CenterZ: 0
+      zy_the_end:
+        Enabled: true
+        MaxCoord: 1000
+        MinCord: 500
+        CenterX: 0
+        CenterZ: 0
+      zy_nether:
         Enabled: true
         MaxCoord: 1000
         MinCord: 500

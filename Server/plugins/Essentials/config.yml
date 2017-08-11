@@ -47,17 +47,17 @@ change-playerlist: true
 # 如果你不设置该项,且Essentialschat.jar被安装了,其将会被默认为"true".
 # 添加前缀后缀(上面的"change-displayname"必须是true才有效)
 # 最好不要动这个设置，除非你知道你在干啥
-add-prefix-suffix: false
+add-prefix-suffix: true
 
 # 当你启用这个选项时, 玩家前缀将显示在在线列表(Tab)中.
 # 这个功能只适用于Minecraft1.8及以上的版本
 # 上面的change-playerlist必须设置为true才有效
-#add-prefix-in-playerlist: true
+add-prefix-in-playerlist: true
 
 # 当你启用这个选项时, 玩家后缀将显示在在线列表(Tab)中.
 # 这个功能只适用于Minecraft1.8及以上的版本
 # 上面的change-playerlist必须设置为true才有效
-#add-suffix-in-playerlist: true
+add-suffix-in-playerlist: true
 
 # 如果传送的地点是不安全的，是否将玩家传送到附近的安全位置？
 # 如果此项设置为true, 则会尝试传送玩家到最近的安全地点
@@ -65,6 +65,7 @@ add-prefix-suffix: false
 teleport-safety: true
 
 # This forcefully disables teleport safety checks without a warning if attempting to teleport to unsafe locations.
+#如果试图传送到不安全的地点，这样会强制禁止远程安全检查，而不会发出警告。
 # teleport-safety and this option need to be set to true to force teleportation to dangerous locations.
 force-disable-teleport-safety: false
 
@@ -281,7 +282,7 @@ skip-used-one-time-kits-from-kit-list: false
 # 详细请看 http://wiki.ess3.net/wiki/Kits 了解更多信息
 kits:
   tools:
-    delay: 10
+    delay: 3600
     items:
       - 272 1
       - 273 1
@@ -562,9 +563,9 @@ world-home-permissions: false
 # 查看更多信息,请访问 http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
   # 默认数量
-  default: 3
+  default: 6
   # VIP可以设置家的数量, 权限为 essentials.sethome.multiple.vip
-  vip: 5
+  vip: 10
   staff: 10
 
 # 设置同意传送超时的时间(以秒为单位).
@@ -813,14 +814,14 @@ protect:
   # 你加载了一次Essentials后,就可以在plugins/Essentials/items.csv中找到物品ID列表.
   # 10 = 动态岩浆 :: 11 = 静态岩浆 :: 46 = TNT :: 327 = 岩浆桶
   alert:
-    on-placement: 10,11,46,327
+    on-placement: 46
     on-use: 327
     on-break:
 
   blacklist:
 
     # 阻止玩家放置以下方块
-    placement: 10,11,46
+    placement: 46
 
     # 阻止玩家使用以下物品
     usage: 
@@ -832,7 +833,7 @@ protect:
     piston:
 
     # 阻止发射器发射以下物品
-    dispenser:
+    dispenser: 
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -845,7 +846,7 @@ newbies:
   # 若开启,编辑内容,{DISPLAYNAME}将自动转换为玩家名字.
   # 若取消,改为''
   #announce-format: ''
-  announce-format: '&d欢迎新玩家{DISPLAYNAME}&d来到服务器!'
+  announce-format: '&d欢迎新玩家{DISPLAYNAME}&d来到HailayCraft!'
 
   # 当我们第一次出生时,出现在哪个出生点？
   # 如果你想要使用世界自带的出生点,则设置为"none".

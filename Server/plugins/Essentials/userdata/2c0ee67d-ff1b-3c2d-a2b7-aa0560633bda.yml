@@ -1,24 +1,24 @@
 lastAccountName: biglod
 timestamps:
-  login: 1501827480200
-  logout: 1501828476063
-  lastteleport: 1501820173598
+  login: 1502338124799
+  logout: 1502338577973
+  lastteleport: 1502338262328
 ipAddress: 101.233.226.77
 lastlocation:
   world: world
-  x: -267.98796381965167
-  y: 74.0
-  z: 356.23750001192093
-  yaw: -295.6206
-  pitch: 8.400001
-money: '2360.0'
+  x: 778.9623123580761
+  y: 64.0
+  z: -1886.2189189976646
+  yaw: -4.5320435
+  pitch: 22.66857
+money: '2730.5'
 logoutlocation:
-  world: world_the_end
-  x: 2998.300000011921
-  y: 115.5
-  z: -2396.699999988079
-  yaw: 354.12512
-  pitch: 16.649984
+  world: world
+  x: -270.89220634478244
+  y: 74.0
+  z: 352.69999998807907
+  yaw: 337.80896
+  pitch: 43.800037
 homes:
   home:
     world: world

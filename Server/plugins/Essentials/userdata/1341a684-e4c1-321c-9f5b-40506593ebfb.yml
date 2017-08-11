@@ -1,0 +1,33 @@
+lastAccountName: jingjinghack
+timestamps:
+  login: 1502160482209
+  logout: 1502162168347
+  lastteleport: 1502160341085
+  jail: 1502266368678
+ipAddress: 112.226.64.87
+lastlocation:
+  world: world
+  x: -206.6192466755878
+  y: 80.0
+  z: 248.3408563576448
+  yaw: -61.340527
+  pitch: 62.532192
+logoutlocation:
+  world: zy
+  x: 2654.1066584951177
+  y: 86.0
+  z: 806.9127270055633
+  yaw: -75.238625
+  pitch: 48.548546
+money: '0.0'
+homes:
+  home:
+    world: zy
+    x: 2648.699999988079
+    y: 82.0
+    z: 803.1170209800218
+    yaw: -82.0428
+    pitch: 18.683512
+afk: false
+jailed: true
+jail: destory

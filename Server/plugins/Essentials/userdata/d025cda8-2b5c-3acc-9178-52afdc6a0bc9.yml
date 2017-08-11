@@ -1,0 +1,30 @@
+lastAccountName: xavier
+timestamps:
+  login: 1502346132459
+  lastteleport: 1502265891239
+  logout: 1502346152576
+ipAddress: 114.45.73.73
+lastlocation:
+  world: zy
+  x: -2825.1020546428667
+  y: 33.0
+  z: -1308.4811713104814
+  yaw: -143.36258
+  pitch: 31.65006
+money: '2273.924999999999999'
+logoutlocation:
+  world: world
+  x: -61.0006295930694
+  y: 63.0
+  z: 139.805304436622
+  yaw: -70.22882
+  pitch: 12.749932
+homes:
+  home:
+    world: world
+    x: -82.54783600186117
+    y: 52.0
+    z: 125.28676767544657
+    yaw: -78.32843
+    pitch: -6.7500563
+afk: false

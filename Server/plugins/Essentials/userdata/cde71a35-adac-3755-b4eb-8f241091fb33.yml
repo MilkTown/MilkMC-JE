@@ -1,0 +1,22 @@
+lastAccountName: bbp
+timestamps:
+  login: 1502432400436
+  lastteleport: 1502432529129
+  logout: 1502432397095
+ipAddress: 36.4.186.85
+lastlocation:
+  world: world
+  x: -180.02330014119065
+  y: 76.0
+  z: 173.49329652899618
+  yaw: 169.65044
+  pitch: 40.349842
+money: '75.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -42.35556949113699
+  y: 80.0
+  z: 194.6028541155881
+  yaw: 96.64886
+  pitch: 42.000004

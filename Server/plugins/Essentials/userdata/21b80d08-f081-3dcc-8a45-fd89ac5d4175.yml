@@ -1,24 +1,24 @@
 lastAccountName: Azure
 timestamps:
-  login: 1502025718043
-  lastteleport: 1502029167971
-  logout: 1502030601180
-ipAddress: 115.200.228.123
+  login: 1502200240357
+  lastteleport: 1502203613740
+  logout: 1502203795688
+ipAddress: 125.119.247.138
 lastlocation:
   world: zy
-  x: 1839.2008751150358
-  y: 44.0
-  z: -2460.396377616041
-  yaw: -106.76294
-  pitch: -2.5500154
-money: '100.0'
+  x: 1856.5
+  y: 52.0
+  z: -2443.5
+  yaw: -241.91344
+  pitch: 17.850016
+money: '27406.4249999999999998'
 logoutlocation:
-  world: zy
-  x: 1843.9520565139592
-  y: 11.0
-  z: -2577.5162140634666
-  yaw: -269.9619
-  pitch: 21.90001
+  world: world
+  x: 5150.0169838297215
+  y: 70.0
+  z: -2864.578284252411
+  yaw: -300.8689
+  pitch: 24.150017
 homes:
   home:
     world: zy
@@ -27,3 +27,18 @@ homes:
     z: -2442.655911870267
     yaw: -192.41357
     pitch: 42.600002
+  a:
+    world: zy
+    x: 1863.923592084009
+    y: 11.0
+    z: -2444.300000011921
+    yaw: 199.08711
+    pitch: 22.199984
+  b:
+    world: zy
+    x: 386.6968829957865
+    y: 31.0
+    z: 3877.720278768382
+    yaw: 139.32446
+    pitch: -90.0
+afk: false
