@@ -150,7 +150,7 @@ items:
     slot: 0
     display_name: '&9世界传送菜单'
     lore:
-    - '&a右击一下到warp传送菜单'
+    - '&a点击一下到warp传送菜单'
     - '&a生存/资源'
     left_click_commands:
     - '[player] warp'
@@ -161,7 +161,7 @@ items:
     slot: 1
     display_name: '&9玩家传送菜单'
     lore:
-    - '&a右击一下到玩家（moretp）传送菜单'
+    - '&a点击一下到玩家（moretp）传送菜单'
     left_click_commands:
     - '[player] mtp gui'
     right_click_commands:
@@ -171,7 +171,7 @@ items:
     slot: 2
     display_name: '&9随机传送菜单'
     lore:
-    - '&a右击一下到mtp rtp随机传送菜单'
+    - '&a点击一下到mtp rtp随机传送菜单'
     - '&a各种要求的随机传送任君选择~'
     left_click_commands:
     - '[player] mtp rtp'
@@ -194,7 +194,7 @@ items:
     slot: 5
     display_name: '&9圈地管理'
     lore:
-    - '&a右击一下到圈地管理'
+    - '&a点击一下到圈地管理'
     - '&a输入指令/res pset [playername]'
     - '&a就可以管理playername的具体权限'
     left_click_commands:
