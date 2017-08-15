@@ -1,12 +1,12 @@
 ## ColorMOTD v1.5.3 Config
 # http://www.mcbbs.net/thread-448326-1-1.html
 Motd:
-- '&b欢迎来到Charlotte服务器！\n&d现在时间: &e%DATE% %TIME%'
+- '&b欢迎来到HailayCraft服务器！&f未来将会开启白名单，所以请加群。\n&d现在时间: &e%DATE% %TIME% &fQ群号:&6189594977'
 OnlineMsg: '&a在线人数 &6%ONLINE%&7/&6%MAXPLAYER%'
 Players:
 - '&b腐竹Hailay，有事qq私聊'
 - '&e服务器Q群189594977'
-- '&a如有bug请尽快反映给腐竹哦~'
+- '&a如有bug请尽快反映给腐竹或管理哦~'
 ServiceModeMOTD: '&c服务器维护中,请等待维护完成...'
 ServiceModeKickCause: '&c服务器维护中,请等待维护完成再进入服务器!'
 useBungeeCord: false
