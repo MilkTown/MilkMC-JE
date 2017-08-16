@@ -1946,3 +1946,1464 @@
 [08-06 22:51:00]: [FINE] FYJL logged in!
 [08-07 00:06:19]: [FINE] HailayLin logged in!
 [08-07 02:47:10]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-07 03:24:10]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-07 03:24:10]: [INFO] MySQL setup finished
+[08-07 03:24:10]: [INFO] Hooked into Vault!
+[08-07 03:24:10]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-07 03:24:10]: [INFO] Hooked successfully into Essentials
+[08-07 03:24:10]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 03:24:10]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-07 03:24:10]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-07 03:24:10]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-07 08:29:39]: [FINE] biglod logged in!
+[08-07 08:34:45]: [FINE] kid logged in!
+[08-07 09:23:10]: [FINE] Orange0JuIcE logged in!
+[08-07 09:24:28]: [FINE] FYJL logged in!
+[08-07 09:40:04]: [FINE] Orange0JuIcE logged in!
+[08-07 10:06:10]: [FINE] HoHoHarry logged in!
+[08-07 10:26:57]: [FINE] ssced logged in!
+[08-07 10:29:37]: [FINE] ssced logged in!
+[08-07 11:06:51]: [FINE] jutu12138 registered 125.46.23.210
+[08-07 11:06:51]: [FINE] jutu12138 logged in!
+[08-07 11:46:15]: [FINE] kid logged in!
+[08-07 12:03:05]: [FINE] 1025 logged in!
+[08-07 12:18:48]: [FINE] Gua_xiao_ye logged in!
+[08-07 12:35:58]: [FINE] 1025 logged in!
+[08-07 12:36:19]: [FINE] Xi_Luo logged in!
+[08-07 12:52:36]: [FINE] strickczq logged in!
+[08-07 13:02:59]: [FINE] kid logged in!
+[08-07 13:41:08]: [FINE] FYJL logged in!
+[08-07 14:12:21]: [FINE] Jioke logged in!
+[08-07 14:19:13]: [FINE] jsjwhsu registered 120.192.10.67
+[08-07 14:19:13]: [FINE] jsjwhsu logged in!
+[08-07 14:33:34]: [FINE] jsjwhsu logged in!
+[08-07 14:38:44]: [FINE] xavier registered 36.225.42.122
+[08-07 14:38:44]: [FINE] xavier logged in!
+[08-07 14:39:32]: [FINE] a2060493577 logged in!
+[08-07 14:48:27]: [FINE] a2060493577 logged in!
+[08-07 14:49:39]: [FINE] Zan_Dou_xier registered 183.192.63.251
+[08-07 14:49:39]: [FINE] Zan_Dou_xier logged in!
+[08-07 14:52:31]: [FINE] qilin registered 182.34.80.8
+[08-07 14:52:31]: [FINE] qilin logged in!
+[08-07 15:23:12]: [FINE] Gua_xiao_ye logged in!
+[08-07 15:26:20]: [FINE] strickczq logged in!
+[08-07 15:35:07]: [FINE] The user Xi_Luo has 2 accounts:
+[08-07 15:35:07]: [FINE] §7§aXi_Luo§7, a2060493577.
+[08-07 15:35:07]: [FINE] Xi_Luo logged in!
+[08-07 15:37:05]: [FINE] xavier logged in!
+[08-07 15:44:09]: [FINE] xiaochao logged in!
+[08-07 15:48:37]: [FINE] Jioke logged in!
+[08-07 16:06:40]: [FINE] Gua_xiao_ye logged in!
+[08-07 16:22:07]: [FINE] RNA_191364461 registered 218.77.94.74
+[08-07 16:22:07]: [FINE] RNA_191364461 logged in!
+[08-07 16:43:51]: [FINE] xavier logged in!
+[08-07 17:03:22]: [INFO] HailayLin was unregistered by CONSOLE
+[08-07 17:04:54]: [FINE] strickczq logged in!
+[08-07 17:05:04]: [FINE] jingjinghack registered 112.226.64.87
+[08-07 17:05:04]: [FINE] jingjinghack logged in!
+[08-07 17:05:16]: [FINE] HailayLin registered 124.15.103.178
+[08-07 17:05:16]: [FINE] HailayLin logged in!
+[08-07 17:05:19]: [FINE] 12ifg registered 42.91.174.6
+[08-07 17:05:19]: [FINE] 12ifg logged in!
+[08-07 17:06:53]: [FINE] Azure logged in!
+[08-07 17:07:06]: [FINE] jingjinghack logged in!
+[08-07 17:08:11]: [FINE] Xi_Luo used the wrong password
+[08-07 17:11:03]: [FINE] FYJL logged in!
+[08-07 17:14:26]: [FINE] The user Xi_Luo has 2 accounts:
+[08-07 17:14:26]: [FINE] §7§aXi_Luo§7, a2060493577.
+[08-07 17:14:26]: [FINE] Xi_Luo logged in!
+[08-07 17:21:44]: [FINE] biglod logged in!
+[08-07 17:24:57]: [FINE] 1025 logged in!
+[08-07 17:25:22]: [FINE] HailayLin logged in!
+[08-07 17:27:41]: [FINE] The user a2060493577 has 2 accounts:
+[08-07 17:27:41]: [FINE] §7xi_luo, §aa2060493577§7.
+[08-07 17:27:41]: [FINE] a2060493577 logged in!
+[08-07 17:27:49]: [FINE] Orange0JuIcE logged in!
+[08-07 17:28:02]: [FINE] qiguaiwudi123 registered 124.236.145.115
+[08-07 17:28:02]: [FINE] qiguaiwudi123 logged in!
+[08-07 17:31:31]: [FINE] HailayLin logged in!
+[08-07 17:33:45]: [FINE] FYJL112 registered 180.125.216.108
+[08-07 17:33:45]: [FINE] The user FYJL112 has 2 accounts:
+[08-07 17:33:45]: [FINE] §7fyjl, §aFYJL112§7.
+[08-07 17:33:45]: [FINE] FYJL112 logged in!
+[08-07 17:35:56]: [FINE] jingjinghack logged in!
+[08-07 17:36:21]: [FINE] The user FYJL has 2 accounts:
+[08-07 17:36:21]: [FINE] §7§aFYJL§7, fyjl112.
+[08-07 17:36:21]: [FINE] FYJL logged in!
+[08-07 17:38:17]: [FINE] RNA_191364461 logged in!
+[08-07 17:38:45]: [FINE] biglod logged in!
+[08-07 17:54:51]: [FINE] The user a2060493577 has 2 accounts:
+[08-07 17:54:51]: [FINE] §7xi_luo, §aa2060493577§7.
+[08-07 17:54:51]: [FINE] a2060493577 logged in!
+[08-07 17:55:06]: [FINE] jingjinghack logged in!
+[08-07 17:58:30]: [FINE] Jioke logged in!
+[08-07 18:04:22]: [FINE] The user a2060493577 has 2 accounts:
+[08-07 18:04:22]: [FINE] §7xi_luo, §aa2060493577§7.
+[08-07 18:04:22]: [FINE] a2060493577 logged in!
+[08-07 18:05:56]: [FINE] HailayLin logged in!
+[08-07 18:11:57]: [FINE] strickczq logged in!
+[08-07 18:16:11]: [FINE] Xi_Luo logged in!
+[08-07 18:23:49]: [FINE] Azure logged in!
+[08-07 18:26:27]: [FINE] lovely_FENGLIAO logged in!
+[08-07 18:26:32]: [FINE] BlueHeron57 registered 113.231.87.102
+[08-07 18:26:32]: [FINE] BlueHeron57 logged in!
+[08-07 18:33:55]: [FINE] 1025 logged in!
+[08-07 18:43:25]: [FINE] Jioke logged in!
+[08-07 19:20:21]: [FINE] RasalGhul_ registered 171.106.37.158
+[08-07 19:20:21]: [FINE] The user RasalGhul_ has 2 accounts:
+[08-07 19:20:21]: [FINE] §7goccoo, §aRasalGhul_§7.
+[08-07 19:20:21]: [FINE] RasalGhul_ logged in!
+[08-07 19:36:59]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-07 19:37:14]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-07 19:37:14]: [INFO] MySQL setup finished
+[08-07 19:37:14]: [INFO] Hooked into Vault!
+[08-07 19:37:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-07 19:37:14]: [INFO] Hooked successfully into Essentials
+[08-07 19:37:14]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 19:37:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-07 19:37:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-07 19:37:14]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-07 20:12:23]: [FINE] Gua_xiao_ye logged in!
+[08-07 20:24:18]: [FINE] RNA_191364461 used the wrong password
+[08-07 20:24:56]: [FINE] RNA_191364461 logged in!
+[08-07 20:34:08]: [FINE] 1025 logged in!
+[08-07 20:37:21]: [FINE] kagurazaka_shira registered 103.93.76.29
+[08-07 20:37:21]: [FINE] kagurazaka_shira logged in!
+[08-07 20:56:19]: [FINE] xavier logged in!
+[08-07 22:15:37]: [FINE] The user FYJL has 2 accounts:
+[08-07 22:15:37]: [FINE] §7§aFYJL§7, fyjl112.
+[08-07 22:15:37]: [FINE] FYJL logged in!
+[08-08 00:05:20]: [FINE] 1025 logged in!
+[08-08 07:34:46]: [FINE] Jia_chon registered 36.248.156.199
+[08-08 07:34:46]: [FINE] Jia_chon logged in!
+[08-08 08:36:25]: [FINE] kid logged in!
+[08-08 09:38:59]: [FINE] Future_Zombies registered 171.42.127.161
+[08-08 09:38:59]: [FINE] Future_Zombies logged in!
+[08-08 09:54:51]: [FINE] jingjinghack logged in!
+[08-08 10:01:42]: [FINE] jingjinghack used the wrong password
+[08-08 10:01:46]: [FINE] jingjinghack logged in!
+[08-08 10:07:48]: [FINE] jingjinghack logged in!
+[08-08 10:25:54]: [FINE] Hailay logged in!
+[08-08 10:39:29]: [FINE] ssced logged in!
+[08-08 10:48:04]: [FINE] jingjinghack logged in!
+[08-08 10:52:14]: [FINE] The user FYJL has 2 accounts:
+[08-08 10:52:14]: [FINE] §7§aFYJL§7, fyjl112.
+[08-08 10:52:14]: [FINE] FYJL logged in!
+[08-08 11:01:15]: [FINE] clar registered 111.78.54.76
+[08-08 11:01:15]: [FINE] clar logged in!
+[08-08 11:07:31]: [FINE] RNA_191364461 logged in!
+[08-08 11:25:36]: [FINE] The user FYJL has 2 accounts:
+[08-08 11:25:36]: [FINE] §7§aFYJL§7, fyjl112.
+[08-08 11:25:36]: [FINE] FYJL logged in!
+[08-08 11:33:55]: [FINE] RNA_191364461 logged in!
+[08-08 11:38:13]: [FINE] 1025 logged in!
+[08-08 11:50:16]: [FINE] Orange0JuIcE logged in!
+[08-08 11:57:19]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-08 11:57:37]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-08 11:57:37]: [INFO] MySQL setup finished
+[08-08 11:57:37]: [INFO] Hooked into Vault!
+[08-08 11:57:37]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-08 11:57:37]: [INFO] Hooked successfully into Essentials
+[08-08 11:57:37]: [INFO] Hooked successfully into Multiverse-Core
+[08-08 11:57:38]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-08 11:57:38]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-08 11:57:38]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-08 11:59:00]: [FINE] ssced logged in!
+[08-08 12:00:59]: [FINE] Hailay logged in!
+[08-08 12:02:30]: [FINE] kid logged in!
+[08-08 12:10:49]: [FINE] Gua_xiao_ye logged in!
+[08-08 12:24:50]: [FINE] Xi_Luo logged in!
+[08-08 12:29:48]: [FINE] Xi_Luo logged in!
+[08-08 12:35:42]: [FINE] Andy registered 114.226.9.93
+[08-08 12:35:42]: [FINE] Andy logged in!
+[08-08 12:36:32]: [FINE] Xi_Luo logged in!
+[08-08 12:36:34]: [FINE] Jioke logged in!
+[08-08 12:43:47]: [FINE] Xi_Luo logged in!
+[08-08 12:48:18]: [FINE] xavier logged in!
+[08-08 13:40:41]: [FINE] ssced logged in!
+[08-08 13:44:22]: [FINE] Jioke logged in!
+[08-08 14:43:13]: [FINE] strickczq logged in!
+[08-08 15:21:25]: [FINE] FYJL logged in!
+[08-08 15:29:00]: [FINE] strickczq logged in!
+[08-08 15:58:38]: [FINE] Hailay logged in!
+[08-08 16:42:09]: [FINE] EndlessEnd registered 223.87.35.126
+[08-08 16:42:09]: [FINE] EndlessEnd logged in!
+[08-08 16:52:10]: [FINE] Hailay logged in!
+[08-08 16:53:10]: [FINE] EndlessEnd logged in!
+[08-08 17:09:45]: [FINE] Azure logged in!
+[08-08 17:12:05]: [FINE] Hailay logged in!
+[08-08 17:27:53]: [FINE] strickczq logged in!
+[08-08 17:51:10]: [FINE] Gua_xiao_ye logged in!
+[08-08 18:40:21]: [INFO] Backup created successfully. (Using Windows = false)
+[08-08 18:40:21]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-08 18:40:21]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-08 18:40:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-08 18:40:39]: [INFO] MySQL setup finished
+[08-08 18:40:39]: [INFO] Hooked into Vault!
+[08-08 18:40:39]: [INFO] Hooked successfully into Essentials
+[08-08 18:40:39]: [INFO] Hooked successfully into Multiverse-Core
+[08-08 18:40:39]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-08 18:40:39]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-08 18:40:39]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-08 18:40:39]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-08 18:40:55]: [FINE] Gua_xiao_ye logged in!
+[08-08 18:46:41]: [FINE] Hailay logged in!
+[08-08 18:51:23]: [FINE] Azure logged in!
+[08-08 19:09:56]: [FINE] strickczq logged in!
+[08-08 19:30:46]: [FINE] Orange0JuIcE logged in!
+[08-08 19:47:57]: [INFO] Backup created successfully. (Using Windows = false)
+[08-08 19:47:57]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-08 19:47:57]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-08 19:48:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-08 19:48:13]: [INFO] MySQL setup finished
+[08-08 19:48:13]: [INFO] Hooked into Vault!
+[08-08 19:48:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-08 19:48:14]: [INFO] Hooked successfully into Essentials
+[08-08 19:48:14]: [INFO] Hooked successfully into Multiverse-Core
+[08-08 19:48:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-08 19:48:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-08 19:48:14]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-08 19:48:36]: [FINE] strickczq logged in!
+[08-08 19:48:36]: [FINE] Gua_xiao_ye logged in!
+[08-08 19:48:38]: [FINE] Azure logged in!
+[08-08 19:48:40]: [FINE] Orange0JuIcE logged in!
+[08-08 19:56:39]: [FINE] FYJL logged in!
+[08-08 20:06:19]: [FINE] hkd123 registered 39.190.251.84
+[08-08 20:06:19]: [FINE] hkd123 logged in!
+[08-08 20:07:20]: [FINE] Hailay logged in!
+[08-08 20:21:06]: [FINE] Hailay logged in!
+[08-08 20:43:09]: [FINE] hkd123 logged in!
+[08-08 20:48:03]: [FINE] The user HailayLin has 2 accounts:
+[08-08 20:48:03]: [FINE] §7hailay, §aHailayLin§7.
+[08-08 20:48:03]: [FINE] HailayLin logged in!
+[08-08 20:51:01]: [FINE] The user HailayLin has 2 accounts:
+[08-08 20:51:01]: [FINE] §7hailay, §aHailayLin§7.
+[08-08 20:51:01]: [FINE] HailayLin logged in!
+[08-08 21:00:22]: [FINE] Gua_xiao_ye logged in!
+[08-08 21:04:43]: [FINE] Gua_xiao_ye logged in!
+[08-08 21:18:55]: [FINE] FFF logged in!
+[08-08 21:32:54]: [FINE] ssced logged in!
+[08-08 21:50:50]: [FINE] Azure logged in!
+[08-08 22:32:28]: [FINE] FYJL logged in!
+[08-08 22:53:27]: [FINE] FYJL logged in!
+[08-08 23:12:10]: [FINE] FYJL logged in!
+[08-09 00:34:54]: [FINE] ty87 registered 211.162.237.192
+[08-09 00:34:54]: [FINE] ty87 logged in!
+[08-09 00:41:33]: [FINE] RasalGhul_ logged in!
+[08-09 00:45:35]: [FINE] ty087 registered 211.162.237.192
+[08-09 00:45:35]: [FINE] The user ty087 has 2 accounts:
+[08-09 00:45:35]: [FINE] §7ty87, §aty087§7.
+[08-09 00:45:35]: [FINE] ty087 logged in!
+[08-09 01:31:57]: [FINE] The user ty087 has 2 accounts:
+[08-09 01:31:57]: [FINE] §7ty87, §aty087§7.
+[08-09 01:31:57]: [FINE] ty087 logged in!
+[08-09 01:38:31]: [FINE] ghost registered 183.24.141.79
+[08-09 01:38:31]: [FINE] ghost logged in!
+[08-09 01:49:04]: [FINE] motherfucker registered 183.24.141.79
+[08-09 01:49:04]: [FINE] The user motherfucker has 2 accounts:
+[08-09 01:49:04]: [FINE] §7ghost, §amotherfucker§7.
+[08-09 01:49:04]: [FINE] motherfucker logged in!
+[08-09 08:41:57]: [INFO] Backup created successfully. (Using Windows = false)
+[08-09 08:41:57]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-09 08:41:57]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-09 08:42:15]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-09 08:42:15]: [INFO] MySQL setup finished
+[08-09 08:42:15]: [INFO] Hooked into Vault!
+[08-09 08:42:15]: [INFO] Hooked successfully into Essentials
+[08-09 08:42:15]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 08:42:15]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-09 08:42:15]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-09 08:42:15]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-09 08:42:15]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-09 09:38:29]: [FINE] Hailay logged in!
+[08-09 09:53:12]: [INFO] Backup created successfully. (Using Windows = false)
+[08-09 09:53:12]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-09 09:53:12]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-09 10:04:52]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-09 10:04:52]: [INFO] MySQL setup finished
+[08-09 10:04:52]: [INFO] Hooked into Vault!
+[08-09 10:04:52]: [INFO] Hooked successfully into Essentials
+[08-09 10:04:52]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 10:04:52]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-09 10:04:53]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-09 10:04:53]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-09 10:04:53]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-09 10:06:12]: [FINE] Hailay logged in!
+[08-09 10:20:46]: [FINE] Jioke logged in!
+[08-09 10:30:01]: [INFO] Backup created successfully. (Using Windows = false)
+[08-09 10:30:01]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-09 10:30:01]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-09 10:42:16]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-09 10:42:16]: [INFO] MySQL setup finished
+[08-09 10:42:16]: [INFO] Hooked into Vault!
+[08-09 10:42:16]: [INFO] Hooked successfully into Essentials
+[08-09 10:42:16]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 10:42:16]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-09 10:42:16]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-09 10:42:16]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-09 10:42:16]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-09 10:43:30]: [FINE] Hailay logged in!
+[08-09 10:46:41]: [FINE] FYJL logged in!
+[08-09 11:13:36]: [FINE] ssced logged in!
+[08-09 11:49:22]: [FINE] ty087 logged in!
+[08-09 11:51:48]: [FINE] Gua_xiao_ye logged in!
+[08-09 12:02:06]: [FINE] Jioke logged in!
+[08-09 12:07:46]: [FINE] FYJL logged in!
+[08-09 12:12:45]: [FINE] FYJL logged in!
+[08-09 13:27:53]: [FINE] XFYT registered 223.96.145.73
+[08-09 13:27:53]: [FINE] XFYT logged in!
+[08-09 13:38:10]: [FINE] yyh registered 183.204.70.230
+[08-09 13:38:10]: [FINE] yyh logged in!
+[08-09 13:43:23]: [FINE] xavier logged in!
+[08-09 14:47:42]: [FINE] Tinatinatina logged in!
+[08-09 15:02:58]: [FINE] yyh logged in!
+[08-09 15:25:24]: [FINE] Orange0JuIcE logged in!
+[08-09 16:09:01]: [FINE] bbp registered 36.4.185.216
+[08-09 16:09:01]: [FINE] bbp logged in!
+[08-09 16:28:45]: [FINE] FYJL logged in!
+[08-09 16:28:54]: [FINE] Hailay logged in!
+[08-09 17:09:34]: [FINE] The user HailayLin has 2 accounts:
+[08-09 17:09:34]: [FINE] §7hailay, §aHailayLin§7.
+[08-09 17:09:34]: [FINE] HailayLin logged in!
+[08-09 17:13:39]: [FINE] HailayLin logged in!
+[08-09 17:53:15]: [FINE] Orange0JuIcE logged in!
+[08-09 18:10:00]: [FINE] Grasscraft used the wrong password
+[08-09 18:10:06]: [FINE] Grasscraft logged in!
+[08-09 18:13:57]: [FINE] Gua_xiao_ye logged in!
+[08-09 19:07:49]: [FINE] strickczq logged in!
+[08-09 19:12:49]: [FINE] HailayLin logged in!
+[08-09 19:19:07]: [FINE] Grasscraft logged in!
+[08-09 19:19:16]: [FINE] FYJL logged in!
+[08-09 19:25:45]: [FINE] strickczq logged in!
+[08-09 19:40:12]: [FINE] HailayLin logged in!
+[08-09 19:58:37]: [FINE] Grasscraft logged in!
+[08-09 20:31:06]: [FINE] Grasscraft logged in!
+[08-09 20:39:40]: [FINE] Orange0JuIcE logged in!
+[08-09 20:47:21]: [FINE] Grasscraft logged in!
+[08-09 20:50:05]: [FINE] Grasscraft logged in!
+[08-09 21:00:19]: [FINE] Grasscraft logged in!
+[08-09 21:00:53]: [FINE] ssced logged in!
+[08-09 21:01:08]: [FINE] The user HailayLin has 2 accounts:
+[08-09 21:01:08]: [FINE] §7hailay, §aHailayLin§7.
+[08-09 21:01:08]: [FINE] HailayLin logged in!
+[08-09 21:02:21]: [INFO] Backup created successfully. (Using Windows = false)
+[08-09 21:02:21]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-09 21:02:21]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-09 21:02:42]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-09 21:02:42]: [INFO] MySQL setup finished
+[08-09 21:02:42]: [INFO] Hooked into Vault!
+[08-09 21:02:42]: [INFO] Hooked successfully into Essentials
+[08-09 21:02:42]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 21:02:43]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-09 21:02:43]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-09 21:02:43]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-09 21:02:43]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-09 21:02:59]: [FINE] The user HailayLin has 2 accounts:
+[08-09 21:02:59]: [FINE] §7hailay, §aHailayLin§7.
+[08-09 21:02:59]: [FINE] HailayLin logged in!
+[08-09 21:02:59]: [FINE] ssced logged in!
+[08-09 21:03:16]: [FINE] FYJL logged in!
+[08-09 21:04:18]: [FINE] Grasscraft logged in!
+[08-09 21:13:58]: [FINE] Grasscraft logged in!
+[08-09 21:16:59]: [FINE] Grasscraft logged in!
+[08-09 21:19:26]: [FINE] Orange0JuIcE logged in!
+[08-09 22:08:48]: [FINE] motherfucker logged in!
+[08-09 22:15:33]: [FINE] motherfucker logged in!
+[08-09 22:20:01]: [FINE] motherfucker logged in!
+[08-09 23:10:59]: [FINE] motherfucker logged in!
+[08-10 00:22:55]: [FINE] Jioke logged in!
+[08-10 00:35:04]: [FINE] Jioke logged in!
+[08-10 00:42:07]: [FINE] Gua_xiao_ye logged in!
+[08-10 00:52:03]: [FINE] ssced logged in!
+[08-10 00:56:22]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 00:56:22]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 00:56:22]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 00:56:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 00:56:39]: [INFO] MySQL setup finished
+[08-10 00:56:39]: [INFO] Hooked into Vault!
+[08-10 00:56:39]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 00:56:39]: [INFO] Hooked successfully into Essentials
+[08-10 00:56:39]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 00:56:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 00:56:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 00:56:40]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 00:58:50]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 00:58:50]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 00:58:50]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 00:59:06]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 00:59:06]: [INFO] MySQL setup finished
+[08-10 00:59:07]: [INFO] Hooked into Vault!
+[08-10 00:59:07]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 00:59:07]: [INFO] Hooked successfully into Essentials
+[08-10 00:59:07]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 00:59:07]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 00:59:07]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 00:59:07]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 01:01:54]: [FINE] Hailay logged in!
+[08-10 01:17:02]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 01:17:02]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 01:17:02]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 01:17:19]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 01:17:19]: [INFO] MySQL setup finished
+[08-10 01:17:19]: [INFO] Hooked into Vault!
+[08-10 01:17:19]: [INFO] Hooked successfully into Essentials
+[08-10 01:17:19]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 01:17:19]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 01:17:20]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 01:17:20]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 01:17:20]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 01:17:42]: [FINE] Hailay logged in!
+[08-10 01:19:22]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 01:19:22]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 01:19:22]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 01:19:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 01:19:39]: [INFO] MySQL setup finished
+[08-10 01:19:39]: [INFO] Hooked into Vault!
+[08-10 01:19:39]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 01:19:39]: [INFO] Hooked successfully into Essentials
+[08-10 01:19:39]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 01:19:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 01:19:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 01:19:40]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 01:19:50]: [FINE] Hailay logged in!
+[08-10 01:23:01]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 01:23:01]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 01:23:01]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 01:23:18]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 01:23:18]: [INFO] MySQL setup finished
+[08-10 01:23:18]: [INFO] Hooked into Vault!
+[08-10 01:23:18]: [INFO] Hooked successfully into Essentials
+[08-10 01:23:18]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 01:23:18]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 01:23:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 01:23:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 01:23:19]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 01:23:42]: [FINE] Hailay used the wrong password
+[08-10 01:23:47]: [FINE] Hailay logged in!
+[08-10 01:25:50]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 01:25:50]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 01:25:50]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 01:26:09]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 01:26:09]: [INFO] MySQL setup finished
+[08-10 01:26:09]: [INFO] Hooked into Vault!
+[08-10 01:26:09]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 01:26:09]: [INFO] Hooked successfully into Essentials
+[08-10 01:26:09]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 01:26:09]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 01:26:09]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 01:26:09]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 01:26:22]: [FINE] Hailay logged in!
+[08-10 02:03:57]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 02:03:57]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 02:03:57]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 02:35:35]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 02:35:35]: [INFO] MySQL setup finished
+[08-10 02:35:35]: [INFO] Hooked into Vault!
+[08-10 02:35:35]: [INFO] Hooked successfully into Essentials
+[08-10 02:35:35]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 02:35:35]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 02:35:35]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 02:35:35]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 02:35:35]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 02:36:05]: [FINE] Hailay logged in!
+[08-10 02:49:41]: [FINE] Hailay logged in!
+[08-10 02:49:46]: [FINE] Gua_xiao_ye logged in!
+[08-10 04:55:14]: [FINE] Gua_xiao_ye logged in!
+[08-10 05:12:41]: [FINE] Hailay logged in!
+[08-10 05:21:27]: [FINE] Gua_xiao_ye logged in!
+[08-10 05:23:24]: [FINE] The user HailayLin has 2 accounts:
+[08-10 05:23:24]: [FINE] §7§aHailay§7, §aHailayLin§7.
+[08-10 05:23:24]: [FINE] HailayLin logged in!
+[08-10 05:45:34]: [FINE] 23333333 registered 112.28.161.86
+[08-10 05:45:34]: [FINE] The user 23333333 has 2 accounts:
+[08-10 05:45:34]: [FINE] §7gua_xiao_ye, §a23333333§7.
+[08-10 05:45:34]: [FINE] 23333333 logged in!
+[08-10 06:12:27]: [FINE] The user HailayLin has 2 accounts:
+[08-10 06:12:27]: [FINE] §7§aHailay§7, §aHailayLin§7.
+[08-10 06:12:27]: [FINE] HailayLin logged in!
+[08-10 07:12:45]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 07:12:45]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 07:12:45]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 08:00:51]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 08:00:51]: [INFO] MySQL setup finished
+[08-10 08:00:51]: [INFO] Hooked into Vault!
+[08-10 08:00:52]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 08:00:52]: [INFO] Hooked successfully into Essentials
+[08-10 08:00:52]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 08:00:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 08:00:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 08:00:52]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 08:01:51]: [FINE] ssced logged in!
+[08-10 08:03:10]: [FINE] HailayLin logged in!
+[08-10 08:05:14]: [FINE] Orange0JuIcE logged in!
+[08-10 08:27:28]: [FINE] Orange0JuIcE logged in!
+[08-10 08:40:54]: [FINE] yyh logged in!
+[08-10 09:06:33]: [FINE] FYJL logged in!
+[08-10 09:14:58]: [FINE] xiaoxia_summer registered 183.246.132.99
+[08-10 09:14:58]: [FINE] xiaoxia_summer logged in!
+[08-10 11:17:44]: [FINE] Grasscraft logged in!
+[08-10 11:23:36]: [FINE] Grasscraft logged in!
+[08-10 11:26:46]: [FINE] Grasscraft logged in!
+[08-10 12:09:00]: [FINE] biglod logged in!
+[08-10 12:13:11]: [FINE] Grasscraft logged in!
+[08-10 12:14:01]: [FINE] Grasscraft logged in!
+[08-10 12:55:40]: [FINE] ty087 logged in!
+[08-10 13:30:59]: [FINE] Grasscraft logged in!
+[08-10 13:32:43]: [FINE] bbp logged in!
+[08-10 13:46:33]: [FINE] yyh logged in!
+[08-10 13:49:18]: [FINE] ssced logged in!
+[08-10 13:51:25]: [FINE] ty087 logged in!
+[08-10 13:52:53]: [FINE] FYJL logged in!
+[08-10 14:23:44]: [FINE] bbp logged in!
+[08-10 14:59:28]: [FINE] Grasscraft logged in!
+[08-10 15:04:18]: [FINE] Jioke logged in!
+[08-10 15:51:36]: [FINE] Grasscraft logged in!
+[08-10 15:53:56]: [FINE] Grasscraft logged in!
+[08-10 15:57:24]: [FINE] Grasscraft logged in!
+[08-10 17:06:11]: [FINE] HailayLin logged in!
+[08-10 17:20:03]: [FINE] yyh logged in!
+[08-10 17:33:38]: [FINE] yyh logged in!
+[08-10 17:35:39]: [FINE] FYJL logged in!
+[08-10 17:53:56]: [FINE] bbp logged in!
+[08-10 18:04:40]: [FINE] Grasscraft logged in!
+[08-10 18:16:21]: [FINE] Jioke logged in!
+[08-10 18:21:06]: [FINE] Grasscraft logged in!
+[08-10 18:23:42]: [FINE] Grasscraft logged in!
+[08-10 18:34:11]: [FINE] bbp logged in!
+[08-10 18:48:58]: [FINE] Gua_xiao_ye logged in!
+[08-10 18:51:14]: [FINE] FYJL logged in!
+[08-10 19:24:07]: [FINE] HailayLin logged in!
+[08-10 19:28:27]: [FINE] Tinatinatina logged in!
+[08-10 19:48:54]: [FINE] Gua_xiao_ye logged in!
+[08-10 20:25:57]: [FINE] FYJL logged in!
+[08-10 20:37:26]: [FINE] Jioke logged in!
+[08-10 22:09:54]: [INFO] Backup created successfully. (Using Windows = false)
+[08-10 22:09:54]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-10 22:09:54]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-10 22:10:24]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-10 22:10:25]: [INFO] MySQL setup finished
+[08-10 22:10:25]: [INFO] Hooked into Vault!
+[08-10 22:10:25]: [INFO] Hooked successfully into Essentials
+[08-10 22:10:25]: [INFO] Hooked successfully into Multiverse-Core
+[08-10 22:10:25]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-10 22:10:25]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-10 22:10:25]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-10 22:10:25]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-10 22:10:51]: [FINE] ssced logged in!
+[08-10 22:10:59]: [FINE] FYJL logged in!
+[08-10 22:11:24]: [FINE] HailayLin logged in!
+[08-10 22:12:29]: [FINE] ty087 logged in!
+[08-10 22:28:40]: [FINE] HailayLin logged in!
+[08-10 22:32:32]: [FINE] motherfucker logged in!
+[08-11 00:11:23]: [FINE] ty087 logged in!
+[08-11 00:18:24]: [FINE] motherfucker logged in!
+[08-11 00:24:29]: [FINE] ty087 logged in!
+[08-11 00:28:14]: [FINE] Gua_xiao_ye logged in!
+[08-11 00:40:26]: [FINE] The user Hailay has 2 accounts:
+[08-11 00:40:26]: [FINE] §7§aHailay§7, hailaylin.
+[08-11 00:40:26]: [FINE] Hailay logged in!
+[08-11 07:30:45]: [FINE] Grasscraft logged in!
+[08-11 07:36:55]: [FINE] Grasscraft logged in!
+[08-11 07:43:34]: [FINE] Hailay logged in!
+[08-11 07:45:38]: [INFO] Backup created successfully. (Using Windows = false)
+[08-11 07:45:38]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-11 07:45:38]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-11 07:46:00]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-11 07:46:00]: [INFO] MySQL setup finished
+[08-11 07:46:00]: [INFO] Hooked into Vault!
+[08-11 07:46:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-11 07:46:00]: [INFO] Hooked successfully into Essentials
+[08-11 07:46:00]: [INFO] Hooked successfully into Multiverse-Core
+[08-11 07:46:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-11 07:46:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-11 07:46:00]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-11 07:46:15]: [FINE] Grasscraft logged in!
+[08-11 07:47:06]: [FINE] Grasscraft logged in!
+[08-11 07:52:46]: [FINE] Grasscraft logged in!
+[08-11 08:12:21]: [FINE] FYJL logged in!
+[08-11 09:01:01]: [FINE] De_Zhao registered 14.204.68.19
+[08-11 09:01:01]: [FINE] De_Zhao logged in!
+[08-11 09:52:06]: [FINE] RasalGhul_ logged in!
+[08-11 10:23:58]: [FINE] FYJL logged in!
+[08-11 10:28:52]: [FINE] ghost logged in!
+[08-11 10:43:24]: [FINE] ssced logged in!
+[08-11 11:22:20]: [FINE] Grasscraft logged in!
+[08-11 12:01:25]: [FINE] HailayLin logged in!
+[08-11 12:17:28]: [FINE] ssced logged in!
+[08-11 12:56:03]: [FINE] bbp logged in!
+[08-11 13:00:00]: [FINE] bbp logged in!
+[08-11 13:19:07]: [FINE] HuangXianS logged in!
+[08-11 13:22:14]: [FINE] Hailay logged in!
+[08-11 13:55:05]: [FINE] De_Zhao used the wrong password
+[08-11 13:57:31]: [FINE] bbp logged in!
+[08-11 13:59:03]: [FINE] De_Zhao used the wrong password
+[08-11 13:59:15]: [FINE] De_Zhao logged in!
+[08-11 14:03:09]: [FINE] Shen_Hua logged in!
+[08-11 14:03:09]: [FINE] Shen_Hua registered 49.79.5.120
+[08-11 14:09:53]: [FINE] FYJL logged in!
+[08-11 14:20:15]: [FINE] bbp logged in!
+[08-11 14:25:06]: [FINE] YYNJ registered 222.242.36.208
+[08-11 14:25:06]: [FINE] YYNJ logged in!
+[08-11 14:42:47]: [FINE] Shen_Hua logged in!
+[08-11 15:04:59]: [INFO] Backup created successfully. (Using Windows = false)
+[08-11 15:04:59]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-11 15:04:59]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-11 15:05:38]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-11 15:05:38]: [INFO] MySQL setup finished
+[08-11 15:05:38]: [INFO] Hooked into Vault!
+[08-11 15:05:38]: [INFO] Hooked successfully into Essentials
+[08-11 15:05:38]: [INFO] Hooked successfully into Multiverse-Core
+[08-11 15:05:38]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-11 15:05:38]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-11 15:05:38]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-11 15:05:38]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-11 15:05:52]: [FINE] FYJL logged in!
+[08-11 15:05:56]: [FINE] Shen_Hua logged in!
+[08-11 15:05:59]: [FINE] ssced logged in!
+[08-11 15:15:17]: [FINE] Hailay used the wrong password
+[08-11 15:15:45]: [FINE] Hailay logged in!
+[08-11 15:20:37]: [FINE] ty087 logged in!
+[08-11 15:24:56]: [FINE] Jioke logged in!
+[08-11 15:31:04]: [FINE] Hailay logged in!
+[08-11 15:45:28]: [FINE] uiqwww registered 36.224.241.229
+[08-11 15:45:28]: [FINE] uiqwww logged in!
+[08-11 15:47:08]: [FINE] Hailay logged in!
+[08-11 15:49:33]: [FINE] Hailay logged in!
+[08-11 15:49:45]: [FINE] The user bruce0422 has 2 accounts:
+[08-11 15:49:45]: [FINE] §7§auiqwww§7, §abruce0422§7.
+[08-11 15:49:45]: [FINE] bruce0422 logged in!
+[08-11 15:49:45]: [FINE] bruce0422 registered 36.224.241.229
+[08-11 16:04:19]: [FINE] Hailay logged in!
+[08-11 16:14:20]: [INFO] Backup created successfully. (Using Windows = false)
+[08-11 16:14:20]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-11 16:14:20]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-11 16:14:49]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-11 16:14:49]: [INFO] MySQL setup finished
+[08-11 16:14:49]: [INFO] Hooked into Vault!
+[08-11 16:14:49]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-11 16:14:49]: [INFO] Hooked successfully into Essentials
+[08-11 16:14:49]: [INFO] Hooked successfully into Multiverse-Core
+[08-11 16:14:50]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-11 16:14:50]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-11 16:14:50]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-11 16:15:02]: [FINE] Hailay logged in!
+[08-11 16:15:24]: [FINE] FYJL logged in!
+[08-11 16:15:43]: [FINE] ssced logged in!
+[08-11 16:17:16]: [FINE] Hailay logged in!
+[08-11 16:55:24]: [FINE] Gua_xiao_ye logged in!
+[08-11 16:59:16]: [FINE] bbp logged in!
+[08-11 17:09:20]: [FINE] Jioke logged in!
+[08-11 17:26:25]: [FINE] Orange0JuIcE logged in!
+[08-11 17:30:52]: [FINE] Orange0JuIcE logged in!
+[08-11 17:37:29]: [FINE] Orange0JuIcE logged in!
+[08-11 17:43:35]: [FINE] afrahaha registered 111.27.145.231
+[08-11 17:43:35]: [FINE] afrahaha logged in!
+[08-11 17:47:14]: [FINE] HailayLin logged in!
+[08-11 17:59:17]: [FINE] De_Zhao logged in!
+[08-11 17:59:38]: [FINE] Gua_xiao_ye logged in!
+[08-11 18:11:32]: [FINE] woshixxpp logged in!
+[08-11 18:32:29]: [FINE] Jioke logged in!
+[08-11 18:37:30]: [FINE] Grasscraft logged in!
+[08-11 18:56:46]: [FINE] Jioke logged in!
+[08-11 19:13:27]: [FINE] De_Zhao logged in!
+[08-11 19:32:23]: [FINE] FYJL logged in!
+[08-11 20:30:34]: [FINE] FFF logged in!
+[08-11 20:42:00]: [FINE] FYJL logged in!
+[08-11 20:52:12]: [FINE] De_Zhao logged in!
+[08-11 21:26:53]: [FINE] woshixxpp logged in!
+[08-11 21:27:26]: [FINE] xavier logged in!
+[08-11 21:28:21]: [FINE] HPP441 registered 36.237.18.113
+[08-11 21:28:21]: [FINE] HPP441 logged in!
+[08-11 21:30:12]: [FINE] HPP441 logged in!
+[08-11 21:40:49]: [FINE] Hailay logged in!
+[08-11 21:58:26]: [FINE] dyxa registered 120.42.196.42
+[08-11 21:58:26]: [FINE] dyxa logged in!
+[08-11 22:09:45]: [FINE] Hailay logged in!
+[08-11 22:39:18]: [FINE] FFF logged in!
+[08-11 23:12:03]: [INFO] Backup created successfully. (Using Windows = false)
+[08-11 23:12:03]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-11 23:12:04]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-11 23:12:41]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-11 23:12:41]: [INFO] MySQL setup finished
+[08-11 23:12:41]: [INFO] Hooked into Vault!
+[08-11 23:12:41]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-11 23:12:41]: [INFO] Hooked successfully into Essentials
+[08-11 23:12:41]: [INFO] Hooked successfully into Multiverse-Core
+[08-11 23:12:41]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-11 23:12:41]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-11 23:12:41]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-12 09:08:59]: [FINE] De_Zhao logged in!
+[08-12 10:11:59]: [FINE] ssced logged in!
+[08-12 10:19:03]: [FINE] FYJL logged in!
+[08-12 11:14:21]: [FINE] woshixxpp logged in!
+[08-12 13:50:20]: [FINE] FYJL logged in!
+[08-12 14:04:17]: [FINE] FFF logged in!
+[08-12 14:43:23]: [FINE] FFF logged in!
+[08-12 14:50:42]: [FINE] Grasscraft logged in!
+[08-12 14:52:41]: [FINE] De_Zhao logged in!
+[08-12 14:55:45]: [FINE] ssced logged in!
+[08-12 15:04:08]: [FINE] FFF logged in!
+[08-12 15:04:27]: [FINE] FFF logged in!
+[08-12 15:05:04]: [FINE] FFF logged in!
+[08-12 15:09:26]: [FINE] Shen_Hua logged in!
+[08-12 15:24:58]: [FINE] biglod logged in!
+[08-12 15:39:40]: [FINE] Grasscraft logged in!
+[08-12 15:58:32]: [FINE] Grasscraft logged in!
+[08-12 16:30:25]: [FINE] Jioke logged in!
+[08-12 16:41:55]: [FINE] Azure logged in!
+[08-12 17:16:04]: [FINE] HailayLin logged in!
+[08-12 17:45:49]: [FINE] woshixxpp logged in!
+[08-12 19:10:49]: [FINE] Azure logged in!
+[08-12 19:40:01]: [FINE] Grasscraft logged in!
+[08-12 19:48:01]: [FINE] Grasscraft logged in!
+[08-12 20:00:58]: [FINE] strickczq logged in!
+[08-12 20:24:15]: [FINE] FYJL logged in!
+[08-12 21:36:48]: [FINE] Azure logged in!
+[08-12 21:44:48]: [FINE] ssced logged in!
+[08-12 21:47:07]: [FINE] Jioke logged in!
+[08-12 22:06:37]: [FINE] Jioke logged in!
+[08-12 22:56:24]: [FINE] HailayLin logged in!
+[08-12 23:08:01]: [FINE] HailayLin logged in!
+[08-12 23:28:33]: [FINE] FYJL logged in!
+[08-12 23:49:06]: [FINE] 1025 logged in!
+[08-13 00:28:03]: [FINE] 1025 logged in!
+[08-13 01:39:41]: [FINE] Jioke logged in!
+[08-13 03:36:35]: [INFO] Backup created successfully. (Using Windows = false)
+[08-13 03:36:35]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-13 03:36:35]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-13 03:37:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-13 03:37:13]: [INFO] MySQL setup finished
+[08-13 03:37:13]: [INFO] Hooked into Vault!
+[08-13 03:37:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-13 03:37:13]: [INFO] Hooked successfully into Essentials
+[08-13 03:37:13]: [INFO] Hooked successfully into Multiverse-Core
+[08-13 03:37:13]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-13 03:37:13]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-13 03:37:13]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-13 03:37:44]: [INFO] Backup created successfully. (Using Windows = false)
+[08-13 03:37:44]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-13 03:37:44]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-13 03:38:14]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-13 03:38:14]: [INFO] MySQL setup finished
+[08-13 03:38:14]: [INFO] Hooked into Vault!
+[08-13 03:38:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-13 03:38:14]: [INFO] Hooked successfully into Essentials
+[08-13 03:38:14]: [INFO] Hooked successfully into Multiverse-Core
+[08-13 03:38:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-13 03:38:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-13 03:38:14]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-13 04:57:34]: [FINE] Jioke logged in!
+[08-13 06:16:19]: [FINE] Jioke logged in!
+[08-13 07:35:23]: [INFO] Backup created successfully. (Using Windows = false)
+[08-13 07:35:23]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-13 07:35:23]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-13 07:36:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-13 07:36:13]: [INFO] MySQL setup finished
+[08-13 07:36:13]: [INFO] Hooked into Vault!
+[08-13 07:36:13]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-13 07:36:13]: [INFO] Hooked successfully into Essentials
+[08-13 07:36:13]: [INFO] Hooked successfully into Multiverse-Core
+[08-13 07:36:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-13 07:36:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-13 07:36:14]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-13 07:50:51]: [FINE] Grasscraft logged in!
+[08-13 08:35:56]: [FINE] FFF logged in!
+[08-13 08:49:02]: [FINE] Grasscraft logged in!
+[08-13 08:49:31]: [FINE] Grasscraft logged in!
+[08-13 09:08:29]: [FINE] woshixxpp logged in!
+[08-13 10:18:36]: [FINE] FFF logged in!
+[08-13 10:31:51]: [FINE] FFF logged in!
+[08-13 10:33:40]: [FINE] FFF logged in!
+[08-13 11:18:14]: [FINE] Grasscraft logged in!
+[08-13 11:39:52]: [FINE] FYJL logged in!
+[08-13 12:05:42]: [FINE] woshixxpp logged in!
+[08-13 12:38:21]: [FINE] 1025 logged in!
+[08-13 12:59:03]: [FINE] FFF logged in!
+[08-13 13:11:57]: [FINE] Jioke logged in!
+[08-13 13:12:23]: [FINE] FYJL logged in!
+[08-13 13:18:38]: [FINE] ssced logged in!
+[08-13 14:18:57]: [FINE] HailayLin logged in!
+[08-13 14:36:38]: [FINE] Jioke logged in!
+[08-13 15:25:09]: [FINE] Tinatinatina logged in!
+[08-13 15:38:29]: [FINE] Tinatinatina logged in!
+[08-13 15:46:19]: [FINE] biglod logged in!
+[08-13 16:11:46]: [FINE] FFF logged in!
+[08-13 16:13:31]: [FINE] Jioke logged in!
+[08-13 16:24:40]: [FINE] FYJL logged in!
+[08-13 16:36:27]: [FINE] strickczq logged in!
+[08-13 16:39:38]: [FINE] strickczq logged in!
+[08-13 16:42:10]: [FINE] strickczq logged in!
+[08-13 16:51:24]: [FINE] Jioke logged in!
+[08-13 16:54:59]: [FINE] FFF logged in!
+[08-13 16:57:03]: [FINE] FYJL logged in!
+[08-13 17:06:15]: [FINE] HailayLin logged in!
+[08-13 17:10:08]: [FINE] Clement_Garfield registered 101.127.33.251
+[08-13 17:10:08]: [FINE] Clement_Garfield logged in!
+[08-13 17:18:51]: [FINE] Grasscraft used the wrong password
+[08-13 17:18:53]: [FINE] Grasscraft logged in!
+[08-13 17:20:01]: [FINE] woshixxpp logged in!
+[08-13 17:45:58]: [FINE] HailayLin logged in!
+[08-13 18:00:24]: [FINE] HailayLin logged in!
+[08-13 18:09:14]: [FINE] biglod logged in!
+[08-13 18:27:07]: [FINE] HailayLin logged in!
+[08-13 18:40:35]: [FINE] strickczq logged in!
+[08-13 18:50:10]: [FINE] HailayLin logged in!
+[08-13 18:50:20]: [FINE] Tinatinatina logged in!
+[08-13 18:57:12]: [FINE] biglod logged in!
+[08-13 18:57:42]: [FINE] HailayLin logged in!
+[08-13 19:06:06]: [FINE] HailayLin logged in!
+[08-13 19:58:58]: [FINE] strickczq logged in!
+[08-13 20:01:23]: [FINE] Jioke logged in!
+[08-13 20:06:08]: [FINE] strickczq logged in!
+[08-13 20:12:04]: [FINE] biglod logged in!
+[08-13 20:17:26]: [FINE] strickczq logged in!
+[08-13 20:19:07]: [FINE] kid logged in!
+[08-13 20:39:58]: [FINE] biglod logged in!
+[08-13 20:45:16]: [FINE] FYJL logged in!
+[08-13 20:47:42]: [FINE] strickczq logged in!
+[08-13 20:49:53]: [FINE] FYJL logged in!
+[08-13 21:04:48]: [FINE] FYJL logged in!
+[08-13 21:08:17]: [FINE] FYJL logged in!
+[08-13 21:10:07]: [FINE] FYJL logged in!
+[08-13 21:29:08]: [FINE] kid logged in!
+[08-13 21:41:59]: [INFO] Backup created successfully. (Using Windows = false)
+[08-13 21:42:00]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-13 21:42:00]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-13 21:43:10]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-13 21:43:11]: [INFO] MySQL setup finished
+[08-13 21:43:11]: [INFO] Hooked into Vault!
+[08-13 21:43:11]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-13 21:43:11]: [INFO] Hooked successfully into Essentials
+[08-13 21:43:11]: [INFO] Hooked successfully into Multiverse-Core
+[08-13 21:43:12]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-13 21:43:12]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-13 21:43:12]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-13 21:43:39]: [FINE] kid logged in!
+[08-13 21:43:42]: [FINE] Jioke logged in!
+[08-13 21:57:37]: [FINE] FFF logged in!
+[08-13 23:10:08]: [FINE] HailayLin logged in!
+[08-13 23:25:31]: [FINE] FYJL logged in!
+[08-13 23:25:54]: [FINE] ssced logged in!
+[08-13 23:26:11]: [FINE] HailayLin logged in!
+[08-14 00:13:30]: [FINE] ssced logged in!
+[08-14 00:28:28]: [FINE] HailayLin logged in!
+[08-14 00:52:40]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 00:52:40]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 00:52:40]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 00:53:37]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 00:53:37]: [INFO] MySQL setup finished
+[08-14 00:53:37]: [INFO] Hooked into Vault!
+[08-14 00:53:38]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 00:53:38]: [INFO] Hooked successfully into Essentials
+[08-14 00:53:38]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 00:53:38]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 00:53:38]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 00:53:38]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 00:54:30]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 00:54:30]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 00:54:30]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 00:55:02]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 00:55:02]: [INFO] MySQL setup finished
+[08-14 00:55:02]: [INFO] Hooked into Vault!
+[08-14 00:55:02]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 00:55:02]: [INFO] Hooked successfully into Essentials
+[08-14 00:55:02]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 00:55:03]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 00:55:03]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 00:55:03]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 00:55:13]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 00:55:13]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 00:55:13]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 00:56:28]: [WARN] Aborting initialization of AuthMe: [ClassCastException]: org.apache.logging.log4j.simple.SimpleLogger cannot be cast to org.apache.logging.log4j.core.Logger
+[08-14 00:56:28]: java.lang.ClassCastException: org.apache.logging.log4j.simple.SimpleLogger cannot be cast to org.apache.logging.log4j.core.Logger
+	at fr.xephi.authme.initialization.OnStartupTasks.setLog4JFilter(OnStartupTasks.java:98)
+	at fr.xephi.authme.initialization.OnStartupTasks.setupConsoleFilter(OnStartupTasks.java:84)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:228)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:140)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:376)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:325)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:441)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:402)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:340)
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:290)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:615)
+	at java.lang.Thread.run(Thread.java:748)
+
+[08-14 00:56:28]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[08-14 00:56:28]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 00:57:01]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 00:57:01]: [INFO] MySQL setup finished
+[08-14 00:57:01]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 00:57:36]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 00:57:36]: [INFO] MySQL setup finished
+[08-14 00:57:36]: [INFO] Hooked into Vault!
+[08-14 00:57:36]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 00:57:36]: [INFO] Hooked successfully into Essentials
+[08-14 00:57:36]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 00:57:36]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 00:57:36]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 00:57:36]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 08:25:46]: [FINE] FFF logged in!
+[08-14 08:59:38]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 08:59:38]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 08:59:38]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 09:00:34]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 09:00:34]: [INFO] MySQL setup finished
+[08-14 09:00:34]: [INFO] Hooked into Vault!
+[08-14 09:00:34]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 09:00:34]: [INFO] Hooked successfully into Essentials
+[08-14 09:00:34]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 09:00:35]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 09:00:35]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 09:00:35]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 09:25:02]: [FINE] woshixxpp logged in!
+[08-14 09:29:20]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 09:29:20]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 09:29:20]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 09:30:17]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 09:30:18]: [INFO] MySQL setup finished
+[08-14 09:30:18]: [INFO] Hooked into Vault!
+[08-14 09:30:18]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 09:30:18]: [INFO] Hooked successfully into Essentials
+[08-14 09:30:18]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 09:30:19]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 09:30:19]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 09:30:19]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 09:30:47]: [FINE] woshixxpp logged in!
+[08-14 09:33:25]: [WARN] Could not create the backup! (Using Windows = false)
+[08-14 09:33:25]: [WARN] Error while performing a backup! Cause of the backup: STOP
+[08-14 09:33:25]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 09:36:44]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 09:36:44]: [INFO] MySQL setup finished
+[08-14 09:36:44]: [INFO] Hooked into Vault!
+[08-14 09:36:44]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 09:36:44]: [INFO] Hooked successfully into Essentials
+[08-14 09:36:44]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 09:36:44]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 09:36:44]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 09:36:44]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 09:36:53]: [FINE] woshixxpp logged in!
+[08-14 09:37:44]: [FINE] biglod logged in!
+[08-14 09:46:13]: [FINE] Lp20 registered 27.155.241.10
+[08-14 09:46:13]: [FINE] The user Lp20 has 2 accounts:
+[08-14 09:46:13]: [FINE] §7jioke, §aLp20§7.
+[08-14 09:46:13]: [FINE] Lp20 logged in!
+[08-14 09:58:02]: [FINE] The user Jioke has 2 accounts:
+[08-14 09:58:02]: [FINE] §7§aJioke§7, §aLp20§7.
+[08-14 09:58:02]: [FINE] Jioke logged in!
+[08-14 10:06:41]: [FINE] The user Jioke has 2 accounts:
+[08-14 10:06:41]: [FINE] §7§aJioke§7, §aLp20§7.
+[08-14 10:06:41]: [FINE] Jioke logged in!
+[08-14 10:16:25]: [FINE] rk5k registered 101.88.97.201
+[08-14 10:16:25]: [FINE] rk5k logged in!
+[08-14 10:22:03]: [FINE] FYJL logged in!
+[08-14 10:55:09]: [FINE] afrahaha logged in!
+[08-14 10:56:20]: [FINE] Orange0JuIcE logged in!
+[08-14 11:02:55]: [FINE] ssced logged in!
+[08-14 11:04:09]: [FINE] strickczq logged in!
+[08-14 11:30:08]: [FINE] Grasscraft logged in!
+[08-14 11:37:48]: [FINE] Grasscraft used the wrong password
+[08-14 11:37:51]: [FINE] Grasscraft logged in!
+[08-14 12:15:24]: [INFO] Backup created successfully. (Using Windows = false)
+[08-14 12:15:24]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-14 12:15:24]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-14 12:16:08]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-14 12:16:08]: [INFO] MySQL setup finished
+[08-14 12:16:08]: [INFO] Hooked into Vault!
+[08-14 12:16:09]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-14 12:16:09]: [INFO] Hooked successfully into Essentials
+[08-14 12:16:09]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 12:16:09]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-14 12:16:09]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-14 12:16:09]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-14 12:22:23]: [FINE] strickczq logged in!
+[08-14 12:33:30]: [FINE] The user Lp20 has 2 accounts:
+[08-14 12:33:30]: [FINE] §7jioke, §aLp20§7.
+[08-14 12:33:30]: [FINE] Lp20 logged in!
+[08-14 13:48:49]: [FINE] FYJL logged in!
+[08-14 14:02:31]: [FINE] ssced logged in!
+[08-14 14:37:26]: [FINE] strickczq logged in!
+[08-14 14:52:46]: [FINE] The user Lp20 has 2 accounts:
+[08-14 14:52:46]: [FINE] §7jioke, §aLp20§7.
+[08-14 14:52:46]: [FINE] Lp20 logged in!
+[08-14 15:40:06]: [FINE] FFF logged in!
+[08-14 15:41:05]: [FINE] Grasscraft logged in!
+[08-14 16:29:42]: [FINE] afrahaha logged in!
+[08-14 16:29:52]: [FINE] Orange0JuIcE logged in!
+[08-14 16:32:20]: [FINE] FYJL logged in!
+[08-14 16:46:10]: [FINE] FFF logged in!
+[08-14 17:51:56]: [FINE] Gua_xiao_ye logged in!
+[08-14 17:54:02]: [FINE] woshixxpp logged in!
+[08-14 18:12:37]: [FINE] HailayLin logged in!
+[08-14 18:22:58]: [FINE] The user Lp20 has 2 accounts:
+[08-14 18:22:58]: [FINE] §7jioke, §aLp20§7.
+[08-14 18:22:58]: [FINE] Lp20 logged in!
+[08-14 18:27:40]: [FINE] The user Jioke has 2 accounts:
+[08-14 18:27:40]: [FINE] §7§aJioke§7, §aLp20§7.
+[08-14 18:27:40]: [FINE] Jioke logged in!
+[08-14 18:32:26]: [FINE] FFF used the wrong password
+[08-14 18:32:31]: [FINE] FFF logged in!
+[08-14 19:08:04]: [FINE] FFF logged in!
+[08-14 19:27:23]: [FINE] FFF logged in!
+[08-14 19:29:33]: [FINE] FFF logged in!
+[08-14 19:42:08]: [FINE] kid logged in!
+[08-14 19:42:49]: [FINE] HailayLin logged in!
+[08-14 20:04:58]: [FINE] HailayLin logged in!
+[08-14 20:24:17]: [FINE] santai logged in!
+[08-14 20:24:17]: [FINE] santai registered 123.115.223.117
+[08-14 20:30:16]: [FINE] afrahaha logged in!
+[08-14 20:30:56]: [FINE] Gua_xiao_ye logged in!
+[08-14 20:31:32]: [FINE] biglod logged in!
+[08-14 20:40:43]: [FINE] biglod logged in!
+[08-14 20:44:43]: [FINE] ryl registered 112.10.138.141
+[08-14 20:44:43]: [FINE] ryl logged in!
+[08-14 20:46:10]: [FINE] The user Lp20 has 2 accounts:
+[08-14 20:46:10]: [FINE] §7jioke, §aLp20§7.
+[08-14 20:46:10]: [FINE] Lp20 logged in!
+[08-14 20:49:15]: [FINE] biglod logged in!
+[08-14 20:52:48]: [FINE] ryl logged in!
+[08-14 21:00:11]: [FINE] santai used the wrong password
+[08-14 21:00:32]: [FINE] santai logged in!
+[08-14 21:07:01]: [FINE] FFF logged in!
+[08-14 21:12:48]: [FINE] woshixxpp logged in!
+[08-14 21:21:25]: [FINE] Gua_xiao_ye logged in!
+[08-14 21:23:46]: [FINE] FYJL logged in!
+[08-14 21:31:28]: [FINE] Clement_Garfield logged in!
+[08-14 21:53:20]: [FINE] Gua_xiao_ye logged in!
+[08-14 21:54:45]: [FINE] Gua_xiao_ye logged in!
+[08-14 22:39:56]: [FINE] ssced logged in!
+[08-14 22:46:05]: [FINE] FYJL logged in!
+[08-14 22:57:20]: [FINE] Gua_xiao_ye logged in!
+[08-14 23:05:20]: [FINE] Gua_xiao_ye logged in!
+[08-14 23:46:10]: [FINE] Gua_xiao_ye logged in!
+[08-15 00:05:02]: [FINE] Gua_xiao_ye logged in!
+[08-15 00:38:46]: [FINE] Gua_xiao_ye logged in!
+[08-15 00:46:57]: [FINE] Gua_xiao_ye logged in!
+[08-15 01:00:14]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 01:00:14]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 01:00:14]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 01:01:49]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 01:01:50]: [INFO] MySQL setup finished
+[08-15 01:01:50]: [INFO] Hooked into Vault!
+[08-15 01:01:50]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 01:01:50]: [INFO] Hooked successfully into Essentials
+[08-15 01:01:50]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 01:01:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 01:01:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 01:01:52]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 07:43:27]: [FINE] Grasscraft logged in!
+[08-15 07:47:29]: [FINE] Grasscraft logged in!
+[08-15 07:59:05]: [FINE] Grasscraft logged in!
+[08-15 08:16:50]: [FINE] santai logged in!
+[08-15 08:45:31]: [FINE] FFF logged in!
+[08-15 09:12:21]: [FINE] biglod logged in!
+[08-15 09:25:29]: [FINE] biglod logged in!
+[08-15 10:00:15]: [FINE] ssced logged in!
+[08-15 10:09:38]: [FINE] santai logged in!
+[08-15 10:19:19]: [FINE] FYJL logged in!
+[08-15 10:45:12]: [FINE] ryl used the wrong password
+[08-15 10:45:19]: [FINE] ryl logged in!
+[08-15 10:49:21]: [FINE] FFF logged in!
+[08-15 10:52:06]: [FINE] FFF logged in!
+[08-15 10:57:34]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 10:57:34]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 10:57:34]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 10:58:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 10:58:39]: [INFO] MySQL setup finished
+[08-15 10:58:39]: [INFO] Hooked into Vault!
+[08-15 10:58:40]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 10:58:40]: [INFO] Hooked successfully into Essentials
+[08-15 10:58:40]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 10:58:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 10:58:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 10:58:40]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 11:03:38]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 11:03:38]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 11:03:38]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 11:06:59]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 11:06:59]: [INFO] MySQL setup finished
+[08-15 11:07:00]: [INFO] Hooked into Vault!
+[08-15 11:07:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 11:07:00]: [INFO] Hooked successfully into Essentials
+[08-15 11:07:00]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 11:07:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 11:07:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 11:07:00]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 11:15:12]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 11:15:12]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 11:15:12]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 11:15:55]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 11:15:55]: [INFO] MySQL setup finished
+[08-15 11:15:55]: [INFO] Hooked into Vault!
+[08-15 11:15:55]: [INFO] Hooked successfully into Essentials
+[08-15 11:15:55]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 11:15:55]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 11:15:55]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 11:15:55]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 11:15:55]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 11:23:57]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 11:23:57]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 11:23:57]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 11:24:42]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 11:24:42]: [INFO] MySQL setup finished
+[08-15 11:24:42]: [INFO] Hooked into Vault!
+[08-15 11:24:42]: [INFO] Hooked successfully into Essentials
+[08-15 11:24:42]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 11:24:42]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 11:24:42]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 11:24:42]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 11:24:42]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 11:25:46]: [FINE] WYF registered 183.202.16.166
+[08-15 11:25:46]: [FINE] The user WYF has 2 accounts:
+[08-15 11:25:46]: [FINE] §7fff, §aWYF§7.
+[08-15 11:25:46]: [FINE] WYF logged in!
+[08-15 11:31:31]: [FINE] HailayLin logged in!
+[08-15 11:33:26]: [FINE] The user WYF has 2 accounts:
+[08-15 11:33:26]: [FINE] §7fff, §aWYF§7.
+[08-15 11:33:26]: [FINE] WYF logged in!
+[08-15 12:09:07]: [FINE] Orange0JuIcE logged in!
+[08-15 12:20:35]: [FINE] The user WYF has 2 accounts:
+[08-15 12:20:35]: [FINE] §7fff, §aWYF§7.
+[08-15 12:20:35]: [FINE] WYF logged in!
+[08-15 12:21:37]: [FINE] The user FFF has 2 accounts:
+[08-15 12:21:37]: [FINE] §7§aFFF§7, wyf.
+[08-15 12:21:37]: [FINE] FFF logged in!
+[08-15 12:23:19]: [FINE] The user WYF has 2 accounts:
+[08-15 12:23:19]: [FINE] §7§aFFF§7, §aWYF§7.
+[08-15 12:23:19]: [FINE] WYF logged in!
+[08-15 12:42:56]: [FINE] The user Hailay has 2 accounts:
+[08-15 12:42:56]: [FINE] §7§aHailay§7, hailaylin.
+[08-15 12:42:56]: [FINE] Hailay logged in!
+[08-15 13:14:08]: [FINE] ssced logged in!
+[08-15 14:04:41]: [FINE] ryl logged in!
+[08-15 14:09:12]: [FINE] The user WYF has 2 accounts:
+[08-15 14:09:12]: [FINE] §7fff, §aWYF§7.
+[08-15 14:09:12]: [FINE] WYF logged in!
+[08-15 14:10:50]: [FINE] The user FFF has 2 accounts:
+[08-15 14:10:50]: [FINE] §7§aFFF§7, §aWYF§7.
+[08-15 14:10:50]: [FINE] FFF logged in!
+[08-15 14:43:41]: [FINE] xiaochao logged in!
+[08-15 15:30:45]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 15:30:45]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 15:30:45]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 15:31:26]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 15:31:26]: [INFO] MySQL setup finished
+[08-15 15:31:26]: [INFO] Hooked into Vault!
+[08-15 15:31:26]: [INFO] Hooked successfully into Essentials
+[08-15 15:31:26]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 15:31:26]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 15:31:27]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 15:31:27]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 15:31:27]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 15:33:25]: [FINE] strickczq logged in!
+[08-15 15:35:23]: [FINE] The user Lp20 has 2 accounts:
+[08-15 15:35:23]: [FINE] §7jioke, §aLp20§7.
+[08-15 15:35:23]: [FINE] Lp20 logged in!
+[08-15 15:43:23]: [FINE] The user HailayLin has 2 accounts:
+[08-15 15:43:23]: [FINE] §7hailay, §aHailayLin§7.
+[08-15 15:43:23]: [FINE] HailayLin logged in!
+[08-15 15:48:31]: [FINE] FYJL logged in!
+[08-15 15:49:17]: [FINE] The user WYF has 2 accounts:
+[08-15 15:49:17]: [FINE] §7fff, §aWYF§7.
+[08-15 15:49:17]: [FINE] WYF logged in!
+[08-15 15:50:48]: [FINE] The user WYF has 2 accounts:
+[08-15 15:50:48]: [FINE] §7fff, §aWYF§7.
+[08-15 15:50:48]: [FINE] WYF logged in!
+[08-15 16:03:33]: [FINE] biglod logged in!
+[08-15 16:36:01]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 16:36:01]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 16:36:01]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 16:37:16]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 16:37:16]: [INFO] MySQL setup finished
+[08-15 16:37:16]: [INFO] Hooked into Vault!
+[08-15 16:37:17]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 16:37:17]: [INFO] Hooked successfully into Essentials
+[08-15 16:37:17]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 16:37:17]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 16:37:17]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 16:37:17]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 16:37:33]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 16:37:33]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 16:37:33]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 16:38:21]: [WARN] Aborting initialization of AuthMe: [ClassCastException]: org.apache.logging.log4j.simple.SimpleLogger cannot be cast to org.apache.logging.log4j.core.Logger
+[08-15 16:38:21]: java.lang.ClassCastException: org.apache.logging.log4j.simple.SimpleLogger cannot be cast to org.apache.logging.log4j.core.Logger
+	at fr.xephi.authme.initialization.OnStartupTasks.setLog4JFilter(OnStartupTasks.java:98)
+	at fr.xephi.authme.initialization.OnStartupTasks.setupConsoleFilter(OnStartupTasks.java:84)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:228)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:140)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:316)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:376)
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:325)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:441)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:402)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:340)
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:290)
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:615)
+	at java.lang.Thread.run(Thread.java:748)
+
+[08-15 16:38:21]: [WARN] THE SERVER IS GOING TO SHUT DOWN AS DEFINED IN THE CONFIGURATION!
+[08-15 16:38:21]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 16:38:59]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 16:38:59]: [INFO] MySQL setup finished
+[08-15 16:38:59]: [INFO] Hooked into Vault!
+[08-15 16:38:59]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 16:38:59]: [INFO] Hooked successfully into Essentials
+[08-15 16:38:59]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 16:38:59]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 16:38:59]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 16:38:59]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 16:40:09]: [FINE] The user Lp20 has 2 accounts:
+[08-15 16:40:09]: [FINE] §7jioke, §aLp20§7.
+[08-15 16:40:09]: [FINE] Lp20 logged in!
+[08-15 16:56:40]: [FINE] RasalGhul_ logged in!
+[08-15 17:01:46]: [FINE] HailayLin logged in!
+[08-15 17:03:06]: [FINE] HailayLin logged in!
+[08-15 17:17:43]: [FINE] FYJL logged in!
+[08-15 17:17:46]: [FINE] HailayLin logged in!
+[08-15 17:19:21]: [FINE] Clement_Garfield logged in!
+[08-15 17:30:08]: [FINE] HailayLin logged in!
+[08-15 17:34:47]: [FINE] kid logged in!
+[08-15 17:46:32]: [FINE] Orange0JuIcE logged in!
+[08-15 17:47:55]: [FINE] woshixxpp logged in!
+[08-15 17:48:24]: [FINE] Grasscraft logged in!
+[08-15 18:32:41]: [FINE] Gua_xiao_ye logged in!
+[08-15 18:44:21]: [FINE] FYJL logged in!
+[08-15 18:52:01]: [FINE] biglod logged in!
+[08-15 18:54:55]: [FINE] woshixxpp logged in!
+[08-15 19:10:01]: [FINE] HailayLin logged in!
+[08-15 19:16:05]: [FINE] kid logged in!
+[08-15 20:32:13]: [FINE] Gua_xiao_ye logged in!
+[08-15 20:33:50]: [FINE] ryl logged in!
+[08-15 20:47:18]: [FINE] HailayLin logged in!
+[08-15 21:45:16]: [FINE] The user WYF has 2 accounts:
+[08-15 21:45:16]: [FINE] §7fff, §aWYF§7.
+[08-15 21:45:16]: [FINE] WYF logged in!
+[08-15 21:46:45]: [FINE] The user FFF has 2 accounts:
+[08-15 21:46:45]: [FINE] §7§aFFF§7, §aWYF§7.
+[08-15 21:46:45]: [FINE] FFF logged in!
+[08-15 22:05:28]: [FINE] The user FFF has 2 accounts:
+[08-15 22:05:28]: [FINE] §7§aFFF§7, §aWYF§7.
+[08-15 22:05:28]: [FINE] FFF logged in!
+[08-15 22:15:26]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 22:15:26]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 22:15:26]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 22:16:59]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 22:16:59]: [INFO] MySQL setup finished
+[08-15 22:16:59]: [INFO] Hooked into Vault!
+[08-15 22:16:59]: [INFO] Hooked successfully into Essentials
+[08-15 22:16:59]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 22:16:59]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 22:17:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 22:17:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 22:17:00]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 22:17:10]: [FINE] The user WYF has 2 accounts:
+[08-15 22:17:10]: [FINE] §7fff, §aWYF§7.
+[08-15 22:17:10]: [FINE] WYF logged in!
+[08-15 22:18:08]: [INFO] Backup created successfully. (Using Windows = false)
+[08-15 22:18:08]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-15 22:18:08]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-15 22:18:51]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-15 22:18:51]: [INFO] MySQL setup finished
+[08-15 22:18:51]: [INFO] Hooked into Vault!
+[08-15 22:18:51]: [INFO] Hooked successfully into Essentials
+[08-15 22:18:51]: [INFO] Hooked successfully into Multiverse-Core
+[08-15 22:18:51]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-15 22:18:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-15 22:18:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-15 22:18:52]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-15 22:19:43]: [FINE] The user WYF has 2 accounts:
+[08-15 22:19:43]: [FINE] §7fff, §aWYF§7.
+[08-15 22:19:43]: [FINE] WYF logged in!
+[08-15 22:23:30]: [FINE] The user Lp20 has 2 accounts:
+[08-15 22:23:30]: [FINE] §7jioke, §aLp20§7.
+[08-15 22:23:30]: [FINE] Lp20 logged in!
+[08-15 22:59:32]: [FINE] Clement_Garfield logged in!
+[08-15 23:07:36]: [FINE] Clement_Garfield logged in!
+[08-16 00:37:55]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 00:37:55]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 00:37:55]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 00:38:57]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 00:38:58]: [INFO] MySQL setup finished
+[08-16 00:38:58]: [INFO] Hooked into Vault!
+[08-16 00:38:58]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 00:38:58]: [INFO] Hooked successfully into Essentials
+[08-16 00:38:58]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 00:38:58]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 00:38:58]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 00:38:58]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 01:58:53]: [FINE] HailayLin logged in!
+[08-16 01:59:07]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 01:59:07]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 01:59:07]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 01:59:56]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 01:59:56]: [INFO] MySQL setup finished
+[08-16 01:59:56]: [INFO] Hooked into Vault!
+[08-16 01:59:56]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 01:59:56]: [INFO] Hooked successfully into Essentials
+[08-16 01:59:56]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 01:59:57]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 01:59:57]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 01:59:57]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 02:03:01]: [FINE] HailayLin logged in!
+[08-16 02:09:33]: [FINE] HailayLin logged in!
+[08-16 02:16:21]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 02:16:21]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 02:16:21]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 02:17:34]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 02:17:34]: [INFO] MySQL setup finished
+[08-16 02:17:34]: [INFO] Hooked into Vault!
+[08-16 02:17:34]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 02:17:34]: [INFO] Hooked successfully into Essentials
+[08-16 02:17:34]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 02:17:35]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 02:17:35]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 02:17:35]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 02:18:28]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 02:18:28]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 02:18:28]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 02:19:13]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 02:19:14]: [INFO] MySQL setup finished
+[08-16 02:19:14]: [INFO] Hooked into Vault!
+[08-16 02:19:14]: [INFO] Hooked successfully into Essentials
+[08-16 02:19:14]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 02:19:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 02:19:15]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 02:19:15]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 02:19:15]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 02:19:40]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 02:19:40]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 02:19:40]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 02:39:22]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 02:39:23]: [INFO] MySQL setup finished
+[08-16 02:39:23]: [INFO] Hooked into Vault!
+[08-16 02:39:23]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 02:39:23]: [INFO] Hooked successfully into Essentials
+[08-16 02:39:23]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 02:39:23]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 02:39:23]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 02:39:23]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 02:52:05]: [FINE] HailayLin logged in!
+[08-16 02:54:48]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 02:54:48]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 02:54:48]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 02:56:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 02:56:39]: [INFO] MySQL setup finished
+[08-16 02:56:40]: [INFO] Hooked into Vault!
+[08-16 02:56:40]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 02:56:40]: [INFO] Hooked successfully into Essentials
+[08-16 02:56:40]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 02:56:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 02:56:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 02:56:40]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 02:56:54]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 02:56:54]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 02:56:54]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 07:09:39]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 07:09:39]: [INFO] MySQL setup finished
+[08-16 07:09:39]: [INFO] Hooked into Vault!
+[08-16 07:09:39]: [INFO] Hooked successfully into Essentials
+[08-16 07:09:39]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 07:09:39]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 07:09:40]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 07:09:40]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 07:09:40]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 11:34:59]: [FINE] woshixxpp logged in!
+[08-16 12:45:50]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 12:45:50]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 12:45:50]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 12:46:47]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 12:46:47]: [INFO] MySQL setup finished
+[08-16 12:46:47]: [INFO] Hooked into Vault!
+[08-16 12:46:47]: [INFO] Hooked successfully into Essentials
+[08-16 12:46:47]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 12:46:47]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 12:46:47]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 12:46:47]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 12:46:47]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 14:01:00]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 14:01:00]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 14:01:00]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 14:01:41]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 14:01:41]: [INFO] MySQL setup finished
+[08-16 14:01:41]: [INFO] Hooked into Vault!
+[08-16 14:01:41]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 14:01:41]: [INFO] Hooked successfully into Essentials
+[08-16 14:01:41]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 14:01:41]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 14:01:41]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 14:01:41]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 14:10:39]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 14:10:39]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 14:10:39]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 14:11:34]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 14:11:34]: [INFO] MySQL setup finished
+[08-16 14:11:34]: [INFO] Hooked into Vault!
+[08-16 14:11:34]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 14:11:34]: [INFO] Hooked successfully into Essentials
+[08-16 14:11:34]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 14:11:34]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 14:11:34]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 14:11:34]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 14:11:46]: [FINE] WYF logged in!
+[08-16 14:12:25]: [FINE] Orange0JuIcE logged in!
+[08-16 14:13:02]: [FINE] Grasscraft logged in!
+[08-16 14:16:27]: [FINE] FYJL logged in!
+[08-16 15:05:54]: [FINE] The user Lp20 has 2 accounts:
+[08-16 15:05:54]: [FINE] §7jioke, §aLp20§7.
+[08-16 15:05:54]: [FINE] Lp20 logged in!
+[08-16 15:50:24]: [FINE] ssced logged in!
+[08-16 16:12:35]: [FINE] woshixxpp logged in!
+[08-16 16:15:59]: [FINE] The user HailayLin has 2 accounts:
+[08-16 16:15:59]: [FINE] §7hailay, §aHailayLin§7.
+[08-16 16:15:59]: [FINE] HailayLin logged in!
+[08-16 16:20:00]: [FINE] The user HailayLin has 2 accounts:
+[08-16 16:20:00]: [FINE] §7hailay, §aHailayLin§7.
+[08-16 16:20:00]: [FINE] HailayLin logged in!
+[08-16 16:22:02]: [FINE] 1025 logged in!
+[08-16 16:32:27]: [FINE] FYJL logged in!
+[08-16 16:35:37]: [FINE] The user Lp20 has 2 accounts:
+[08-16 16:35:37]: [FINE] §7jioke, §aLp20§7.
+[08-16 16:35:37]: [FINE] Lp20 logged in!
+[08-16 16:38:31]: [FINE] woshixxpp logged in!
+[08-16 16:40:58]: [FINE] jkd registered 106.114.216.27
+[08-16 16:40:58]: [FINE] jkd logged in!
+[08-16 17:00:53]: [FINE] Silver_Wolf registered 119.5.199.86
+[08-16 17:00:53]: [FINE] Silver_Wolf logged in!
+[08-16 17:37:54]: [FINE] De_Zhao logged in!
+[08-16 17:41:14]: [FINE] De_Zhao logged in!
+[08-16 17:43:33]: [FINE] Tinatinatina logged in!
+[08-16 17:58:36]: [FINE] Clement_Garfield logged in!
+[08-16 18:25:10]: [FINE] 1025 logged in!
+[08-16 18:27:03]: [FINE] woshixxpp logged in!
+[08-16 18:34:20]: [FINE] FYJL logged in!
+[08-16 19:21:10]: [FINE] ssced logged in!
+[08-16 19:32:06]: [FINE] biglod logged in!
+[08-16 19:40:23]: [FINE] FYJL logged in!
+[08-16 19:56:36]: [FINE] biglod logged in!
+[08-16 20:08:27]: [FINE] Orange0JuIcE logged in!
+[08-16 20:16:42]: [FINE] kid logged in!
+[08-16 20:38:16]: [FINE] biglod logged in!
+[08-16 20:40:47]: [FINE] Orange0JuIcE logged in!
+[08-16 20:44:30]: [INFO] Backup created successfully. (Using Windows = false)
+[08-16 20:44:30]: [INFO] A backup has been performed successfully. Cause of the backup: STOP
+[08-16 20:44:30]: [INFO] AuthMe 5.3.2-b1726 disabled!
+[08-16 20:45:26]: [INFO] Connection arguments loaded, Hikari ConnectionPool ready!
+[08-16 20:45:26]: [INFO] MySQL setup finished
+[08-16 20:45:26]: [INFO] Hooked into Vault!
+[08-16 20:45:26]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[08-16 20:45:26]: [INFO] Hooked successfully into Essentials
+[08-16 20:45:26]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 20:45:26]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[08-16 20:45:26]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[08-16 20:45:26]: [INFO] AuthMe 5.3.2 build n.1726 correctly enabled!
+[08-16 20:45:41]: [FINE] biglod logged in!
+[08-16 20:45:43]: [FINE] kid logged in!
+[08-16 20:45:51]: [FINE] The user Lp20 has 2 accounts:
+[08-16 20:45:51]: [FINE] §7jioke, §aLp20§7.
+[08-16 20:45:51]: [FINE] Lp20 logged in!
+[08-16 20:47:10]: [FINE] woshixxpp logged in!

@@ -1,9 +1,9 @@
 lastAccountName: xiaochao
 timestamps:
-  login: 1502091838309
-  logout: 1502092102473
+  login: 1502779406639
+  logout: 1502779847794
   lastteleport: 1501914874977
-ipAddress: 120.239.38.25
+ipAddress: 120.239.38.116
 lastlocation:
   world: world
   x: -255.30000001192096
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 52.349762
 logoutlocation:
   world: world
-  x: -208.67107099824156
-  y: 11.0
-  z: -1228.5733207847513
-  yaw: 204.94458
-  pitch: 10.500018
+  x: -242.5332758885741
+  y: 14.0
+  z: -1216.4846765576706
+  yaw: -96.25476
+  pitch: 25.349857
 afk: false
 homes:
   home:

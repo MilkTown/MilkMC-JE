@@ -272,7 +272,7 @@ player-commands:
   - xmpp
 
 # 当这个选项开启的时候, 只能用一次的工具包(例如. delay < 0)将会从/kit列表中删除
-skip-used-one-time-kits-from-kit-list: false
+skip-used-one-time-kits-from-kit-list: true
 
 # /kit快速工具命令,注意:所有物品后面必须写明数量!
 # 所有的kit物品最好容易获得, 在/costs中价格较低,权限要求较低.

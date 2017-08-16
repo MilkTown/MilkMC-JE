@@ -1,9 +1,9 @@
 lastAccountName: ty087
 timestamps:
-  login: 1502382248819
+  login: 1502435998718
   lastteleport: 1502386540138
-  logout: 1502387081493
-ipAddress: 211.162.237.237
+  logout: 1502437117954
+ipAddress: 211.162.237.198
 lastlocation:
   world: world
   x: -180.02330014119065
@@ -14,11 +14,11 @@ lastlocation:
 money: '10.0'
 logoutlocation:
   world: world
-  x: -3741.164346933934
-  y: 63.0
-  z: 1524.487164967314
-  yaw: 253.77887
-  pitch: 16.199997
+  x: -3698.512499988079
+  y: 69.0
+  z: 1515.365341031217
+  yaw: 343.92896
+  pitch: 10.049995
 homes:
   home:
     world: world

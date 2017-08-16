@@ -1,0 +1,29 @@
+lastAccountName: WYF
+timestamps:
+  login: 1502863899848
+  logout: 1502864912793
+  lastteleport: 1502864113251
+ipAddress: 183.202.19.159
+lastlocation:
+  world: world
+  x: -180.02330014119065
+  y: 76.0
+  z: 173.49329652899618
+  yaw: 270.30038
+  pitch: 7.049853
+logoutlocation:
+  world: world
+  x: 147.1677742861507
+  y: 81.0
+  z: -2582.3814681827544
+  yaw: 176.83203
+  pitch: 25.050037
+money: '2694.0'
+homes:
+  home:
+    world: world
+    x: 144.11008804211224
+    y: 65.0
+    z: -2570.1198664912595
+    yaw: -12.168597
+    pitch: 26.700006

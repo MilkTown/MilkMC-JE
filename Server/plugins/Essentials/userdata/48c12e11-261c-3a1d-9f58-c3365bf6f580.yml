@@ -1,24 +1,24 @@
 lastAccountName: '1025'
 timestamps:
-  login: 1502163485187
-  logout: 1502164635928
-  lastteleport: 1502115905289
-ipAddress: 223.73.232.28
+  login: 1502879101820
+  logout: 1502880041924
+  lastteleport: 1502879117887
+ipAddress: 223.73.143.249
 lastlocation:
-  world: zy
-  x: -71.66890159875415
-  y: 19.0
-  z: 222.20895696982475
-  yaw: -301.66666
-  pitch: 9.793187
-money: '1090.0'
+  world: world
+  x: 4813.533908695994
+  y: 78.0
+  z: 11856.339436187865
+  yaw: -214.49426
+  pitch: 26.849987
+money: '1774.0'
 logoutlocation:
   world: world
-  x: 116.47894395105429
-  y: 65.0
-  z: 2213.7851862836487
-  yaw: 236.6365
-  pitch: 17.849941
+  x: 7721.921541429502
+  y: 63.9375
+  z: 11132.839300240406
+  yaw: -11.799866
+  pitch: 4.9499993
 homes:
   jia:
     world: world
@@ -34,4 +34,11 @@ homes:
     z: 2253.0770270859575
     yaw: -54.36328
     pitch: 21.300049
+  c:
+    world: world
+    x: 4820.568116814145
+    y: 77.0
+    z: 11859.445847315528
+    yaw: -94.79562
+    pitch: 46.199978
 afk: false

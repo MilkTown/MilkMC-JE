@@ -1,25 +1,25 @@
 lastAccountName: Jioke
 timestamps:
-  login: 1502368639777
-  logout: 1502368660265
-  lastteleport: 1502360354252
+  login: 1502706444407
+  logout: 1502706732852
+  lastteleport: 1502706612433
   jail: 0
-ipAddress: 27.156.49.22
+ipAddress: 27.155.241.10
 lastlocation:
-  world: world
-  x: -503.75574244582685
-  y: 64.0
-  z: 649.2925992575733
-  yaw: 59.174286
-  pitch: 17.93967
+  world: world_nether
+  x: 365.4497196665652
+  y: 128.0
+  z: 356.69999998807907
+  yaw: -21.816742
+  pitch: 52.949936
 logoutlocation:
   world: world
-  x: 107.30724441350375
-  y: 16.0
-  z: 2209.173364218227
-  yaw: -48.217644
-  pitch: 42.44986
-money: '685.0'
+  x: 173.73450566386578
+  y: 63.0
+  z: 2210.411241085122
+  yaw: -89.017456
+  pitch: 0.14989577
+money: '0.00'
 homes:
   c:
     world: world
@@ -35,13 +35,13 @@ homes:
     z: 360.22890812407616
     yaw: 5.183516
     pitch: 13.04995
-  jj:
+  cz:
     world: world
-    x: -3742.4986035642287
-    y: 63.0
-    z: 1507.0127745369987
-    yaw: 353.0725
-    pitch: 32.549953
+    x: 4864.187778716545
+    y: 68.0
+    z: 11823.451557516535
+    yaw: -332.34473
+    pitch: 5.699961
 afk: false
 nickname: Jioke
 jailed: false

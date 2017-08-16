@@ -117,6 +117,60 @@ Residences:
         X2: -182
         Y2: 73
         Z2: 125
+  strick_cun:
+    LeaveMessage: 现在已离开 %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        36f31fca-efd9-3e69-9047-11a246eec88f:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        night: false
+        destroy: false
+        pvp: false
+        sun: true
+        animalkilling: false
+        nomobs: true
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        nmonsters: true
+        day: true
+        creeper: false
+        wspeed2: true
+      OwnerUUID: 36f31fca-efd9-3e69-9047-11a246eec88f
+      OwnerLastKnownName: strickczq
+    CreatedOn: 1502700751269
+    Areas:
+      main:
+        X1: -666
+        Y1: 67
+        Z1: -1976
+        X2: -674
+        Y2: 57
+        Z2: -1984
   zy:
     LeaveMessage: Now leaving %residence.
     TPLoc:

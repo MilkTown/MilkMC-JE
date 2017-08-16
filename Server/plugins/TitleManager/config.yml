@@ -306,7 +306,7 @@ announcer:
   #【这个公告不知道改成啥，好像没有什么用，所以先不改了】
   announcements:
     my-announcement:
-      interval: 3600
+      interval: 6000
       timings:
         fade-in: 20
         stay: 100

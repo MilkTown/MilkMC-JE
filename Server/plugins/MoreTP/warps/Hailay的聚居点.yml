@@ -19,5 +19,5 @@ glowing: false
 permission: moretp.warp.{warpname}
 item: BEACON
 data: 0
-location: world<>-3746.089349470027<>63.0<>1506.43244931851<>5.700092<>268.4732
+location: world<>-3744.153790198576<>63.0<>1506.4181195855779<>-1.5000602<>-87.77022
 slot: 18

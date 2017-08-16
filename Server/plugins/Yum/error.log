@@ -124,3 +124,435 @@ Aug 6, 2017 6:54:53 PM    位于 pw.yumc.Yum.inject.CommandInjector.onCommand(Co
 Aug 6, 2017 6:54:53 PM    位于 org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
 Aug 6, 2017 6:54:53 PM    位于 org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
 Aug 6, 2017 6:54:53 PM    位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:666)
+Aug 10, 2017 1:14:06 AM[Yum 命令监控] 玩家 Hailay 执行 PrefixManager 插件 prm reload 命令时发生异常!
+Aug 10, 2017 1:14:06 AM异常名称: java.lang.NoSuchMethodError
+Aug 10, 2017 1:14:06 AM异常说明: org.bukkit.Bukkit.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+Aug 10, 2017 1:14:06 AM简易错误信息如下:
+Aug 10, 2017 1:14:06 AM    位于 com.mcjtf.Prefix.commands.Commands.onCommand(Commands.java:40)
+Aug 10, 2017 1:14:06 AM    位于 pw.yumc.Yum.inject.CommandInjector.onCommand(CommandInjector.java:106)
+Aug 10, 2017 1:14:06 AM    位于 org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+Aug 10, 2017 1:14:06 AM    位于 org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:151)
+Aug 10, 2017 1:14:06 AM    位于 org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:666)
+Aug 10, 2017 1:16:19 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:19 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:19 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:19 AM简易错误信息如下:
+Aug 10, 2017 1:16:19 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:19 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:19 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:19 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:19 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:19 AM简易错误信息如下:
+Aug 10, 2017 1:16:19 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:19 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:19 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:20 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:20 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:20 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:20 AM简易错误信息如下:
+Aug 10, 2017 1:16:20 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:20 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:20 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:20 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:20 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:20 AM简易错误信息如下:
+Aug 10, 2017 1:16:20 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:20 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:20 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:21 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:21 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:21 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:21 AM简易错误信息如下:
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:21 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:21 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:21 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:21 AM简易错误信息如下:
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:21 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:21 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:21 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:21 AM简易错误信息如下:
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:21 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:21 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:21 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:21 AM简易错误信息如下:
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:21 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:21 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:22 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:22 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:22 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:22 AM简易错误信息如下:
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:22 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:22 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:22 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:22 AM简易错误信息如下:
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:22 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:22 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:22 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:22 AM简易错误信息如下:
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:22 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:22 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:23 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:23 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:23 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:23 AM简易错误信息如下:
+Aug 10, 2017 1:16:23 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:23 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:23 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:23 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:23 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:24 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:24 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:24 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:24 AM简易错误信息如下:
+Aug 10, 2017 1:16:24 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:24 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:24 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:24 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:24 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:16:58 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:16:58 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:16:58 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:16:58 AM简易错误信息如下:
+Aug 10, 2017 1:16:58 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:16:58 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:16:58 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:16:58 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:16:58 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:34 AM[Yum 事件监控] 插件 PrefixManager 处理 PlayerJoinEvent 事件时发生异常!
+Aug 10, 2017 1:17:34 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:34 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:34 AM简易错误信息如下:
+Aug 10, 2017 1:17:34 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:34 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:34 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:34 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:34 AM    位于 com.mcjtf.Prefix.Listener.PlayerListeners.onPlayerJoinEvent(PlayerListeners.java:21)
+Aug 10, 2017 1:17:44 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:44 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:44 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:44 AM简易错误信息如下:
+Aug 10, 2017 1:17:44 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:44 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:44 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:44 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:44 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:44 AM简易错误信息如下:
+Aug 10, 2017 1:17:44 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:44 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:44 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:45 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:45 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:45 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:45 AM简易错误信息如下:
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:45 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:45 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:45 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:45 AM简易错误信息如下:
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:45 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:45 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:45 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:45 AM简易错误信息如下:
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:45 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:45 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:46 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:46 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:46 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:46 AM简易错误信息如下:
+Aug 10, 2017 1:17:46 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:46 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:46 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:46 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:46 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:46 AM简易错误信息如下:
+Aug 10, 2017 1:17:46 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:46 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:46 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:47 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:47 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:47 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:47 AM简易错误信息如下:
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:47 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:47 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:47 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:47 AM简易错误信息如下:
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:17:47 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:17:47 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:17:47 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:17:47 AM简易错误信息如下:
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:17:47 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:17:47 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:18:00 AM[Yum 命令监控] 玩家 Hailay 执行 PrefixManager 插件 prm set Hailay p 0 命令时发生异常!
+Aug 10, 2017 1:18:00 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:18:00 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:18:00 AM简易错误信息如下:
+Aug 10, 2017 1:18:00 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:18:00 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:18:00 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:18:00 AM    位于 com.mcjtf.Prefix.Config.loadofflineplayer(Config.java:146)
+Aug 10, 2017 1:18:00 AM    位于 com.mcjtf.Prefix.PManager.loadplayer(PManager.java:83)
+Aug 10, 2017 1:18:02 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:18:02 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:18:02 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:18:02 AM简易错误信息如下:
+Aug 10, 2017 1:18:02 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:18:02 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:18:02 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:18:02 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:18:02 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:19:45 AM[Yum 事件监控] 插件 PrefixManager 处理 PlayerJoinEvent 事件时发生异常!
+Aug 10, 2017 1:19:45 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:19:45 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:19:45 AM简易错误信息如下:
+Aug 10, 2017 1:19:45 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:19:45 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:19:45 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:19:45 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:19:45 AM    位于 com.mcjtf.Prefix.Listener.PlayerListeners.onPlayerJoinEvent(PlayerListeners.java:21)
+Aug 10, 2017 1:19:51 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:19:51 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:19:51 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:19:51 AM简易错误信息如下:
+Aug 10, 2017 1:19:51 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:19:51 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:19:51 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:19:51 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:19:51 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:22:41 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:22:41 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:22:41 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:22:41 AM简易错误信息如下:
+Aug 10, 2017 1:22:41 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:22:41 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:22:41 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:22:41 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:22:41 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:23:27 AM[Yum 事件监控] 插件 PrefixManager 处理 PlayerJoinEvent 事件时发生异常!
+Aug 10, 2017 1:23:27 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:23:27 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:23:27 AM简易错误信息如下:
+Aug 10, 2017 1:23:27 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:23:27 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:23:27 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:23:27 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:23:27 AM    位于 com.mcjtf.Prefix.Listener.PlayerListeners.onPlayerJoinEvent(PlayerListeners.java:21)
+Aug 10, 2017 1:23:48 AM[Yum 事件监控] 插件 PrefixManager 处理 AsyncPlayerChatEvent 事件时发生异常!
+Aug 10, 2017 1:23:48 AM异常名称: java.lang.IndexOutOfBoundsException
+Aug 10, 2017 1:23:48 AM异常说明: Index: 4, Size: 1
+Aug 10, 2017 1:23:48 AM简易错误信息如下:
+Aug 10, 2017 1:23:48 AM    位于 java.util.ArrayList.rangeCheck(ArrayList.java:653)
+Aug 10, 2017 1:23:48 AM    位于 java.util.ArrayList.get(ArrayList.java:429)
+Aug 10, 2017 1:23:48 AM    位于 com.mcjtf.Prefix.Gamer.setuseprefix(Gamer.java:53)
+Aug 10, 2017 1:23:48 AM    位于 com.mcjtf.Prefix.Config.loadplayer(Config.java:106)
+Aug 10, 2017 1:23:48 AM    位于 com.mcjtf.Prefix.PrefixManager.LoadPlayer(PrefixManager.java:119)
+Aug 10, 2017 1:23:50 AM[Yum 事件监控] 插件 PrefixManager 处理 PlayerQuitEvent 事件时发生异常!
+Aug 10, 2017 1:23:50 AM异常名称: java.lang.NullPointerException
+Aug 10, 2017 1:23:50 AM异常说明: null
+Aug 10, 2017 1:23:50 AM简易错误信息如下:
+Aug 10, 2017 1:23:50 AM    位于 com.mcjtf.Prefix.Config.saveplayer(Config.java:182)
+Aug 10, 2017 1:23:50 AM    位于 com.mcjtf.Prefix.Listener.PlayerListeners.onPlayerQuitEvent(PlayerListeners.java:27)
+Aug 10, 2017 1:23:50 AM    位于 com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor278.execute(未知:-1)
+Aug 10, 2017 1:23:50 AM    位于 org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44)
+Aug 10, 2017 1:23:50 AM    位于 co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78)
+Aug 12, 2017 5:30:48 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 12, 2017 5:30:48 PM异常名称: java.lang.IllegalStateException
+Aug 12, 2017 5:30:48 PM异常说明: Asynchronous player tracker update!
+Aug 12, 2017 5:30:48 PM简易错误信息如下:
+Aug 12, 2017 5:30:48 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 12, 2017 5:30:48 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 12, 2017 5:30:48 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 12, 2017 5:30:48 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 12, 2017 5:30:48 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 12, 2017 5:31:19 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 12, 2017 5:31:19 PM异常名称: java.lang.IllegalStateException
+Aug 12, 2017 5:31:19 PM异常说明: Asynchronous player tracker update!
+Aug 12, 2017 5:31:19 PM简易错误信息如下:
+Aug 12, 2017 5:31:19 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 12, 2017 5:31:19 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 12, 2017 5:31:19 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 12, 2017 5:31:19 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 12, 2017 5:31:19 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 12, 2017 7:27:08 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 12, 2017 7:27:08 PM异常名称: java.lang.IllegalStateException
+Aug 12, 2017 7:27:08 PM异常说明: Asynchronous player tracker update!
+Aug 12, 2017 7:27:08 PM简易错误信息如下:
+Aug 12, 2017 7:27:08 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 12, 2017 7:27:08 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 12, 2017 7:27:08 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 12, 2017 7:27:08 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 12, 2017 7:27:08 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 12, 2017 8:20:56 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 12, 2017 8:20:56 PM异常名称: java.lang.IllegalStateException
+Aug 12, 2017 8:20:56 PM异常说明: Asynchronous player tracker update!
+Aug 12, 2017 8:20:56 PM简易错误信息如下:
+Aug 12, 2017 8:20:56 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 12, 2017 8:20:56 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 12, 2017 8:20:56 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 12, 2017 8:20:56 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 12, 2017 8:20:56 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 13, 2017 1:01:22 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 13, 2017 1:01:22 PM异常名称: java.lang.IllegalStateException
+Aug 13, 2017 1:01:22 PM异常说明: Asynchronous player tracker update!
+Aug 13, 2017 1:01:22 PM简易错误信息如下:
+Aug 13, 2017 1:01:22 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 13, 2017 1:01:22 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 13, 2017 1:01:22 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 13, 2017 1:01:22 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 13, 2017 1:01:22 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 13, 2017 10:10:43 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 13, 2017 10:10:43 PM异常名称: java.lang.IllegalStateException
+Aug 13, 2017 10:10:43 PM异常说明: Asynchronous player tracker update!
+Aug 13, 2017 10:10:43 PM简易错误信息如下:
+Aug 13, 2017 10:10:43 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 13, 2017 10:10:43 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 13, 2017 10:10:43 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 13, 2017 10:10:43 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 13, 2017 10:10:43 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 13, 2017 10:30:02 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 13, 2017 10:30:02 PM异常名称: java.lang.IllegalStateException
+Aug 13, 2017 10:30:02 PM异常说明: Asynchronous player tracker update!
+Aug 13, 2017 10:30:02 PM简易错误信息如下:
+Aug 13, 2017 10:30:02 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 13, 2017 10:30:02 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 13, 2017 10:30:02 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 13, 2017 10:30:02 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 13, 2017 10:30:02 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 14, 2017 9:49:38 AM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 14, 2017 9:49:38 AM异常名称: java.lang.IllegalStateException
+Aug 14, 2017 9:49:38 AM异常说明: Asynchronous player tracker update!
+Aug 14, 2017 9:49:38 AM简易错误信息如下:
+Aug 14, 2017 9:49:38 AM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 14, 2017 9:49:38 AM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 14, 2017 9:49:38 AM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 14, 2017 9:49:38 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 14, 2017 9:49:38 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 14, 2017 9:49:58 AM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 14, 2017 9:49:58 AM异常名称: java.lang.IllegalStateException
+Aug 14, 2017 9:49:58 AM异常说明: Asynchronous player tracker update!
+Aug 14, 2017 9:49:58 AM简易错误信息如下:
+Aug 14, 2017 9:49:58 AM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 14, 2017 9:49:58 AM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 14, 2017 9:49:58 AM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 14, 2017 9:49:58 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 14, 2017 9:49:58 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 14, 2017 9:51:20 AM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 14, 2017 9:51:20 AM异常名称: java.lang.IllegalStateException
+Aug 14, 2017 9:51:20 AM异常说明: Asynchronous player tracker update!
+Aug 14, 2017 9:51:20 AM简易错误信息如下:
+Aug 14, 2017 9:51:20 AM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 14, 2017 9:51:20 AM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 14, 2017 9:51:20 AM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 14, 2017 9:51:20 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 14, 2017 9:51:20 AM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 14, 2017 2:43:00 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 14, 2017 2:43:00 PM异常名称: java.lang.IllegalStateException
+Aug 14, 2017 2:43:00 PM异常说明: Asynchronous player tracker update!
+Aug 14, 2017 2:43:00 PM简易错误信息如下:
+Aug 14, 2017 2:43:00 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 14, 2017 2:43:00 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 14, 2017 2:43:00 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 14, 2017 2:43:00 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 14, 2017 2:43:00 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 15, 2017 3:02:55 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 15, 2017 3:02:55 PM异常名称: java.lang.IllegalStateException
+Aug 15, 2017 3:02:55 PM异常说明: Asynchronous player tracker update!
+Aug 15, 2017 3:02:55 PM简易错误信息如下:
+Aug 15, 2017 3:02:55 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 15, 2017 3:02:55 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 15, 2017 3:02:55 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 15, 2017 3:02:55 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 15, 2017 3:02:55 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 15, 2017 5:48:01 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 15, 2017 5:48:01 PM异常名称: java.lang.IllegalStateException
+Aug 15, 2017 5:48:01 PM异常说明: Asynchronous player tracker update!
+Aug 15, 2017 5:48:01 PM简易错误信息如下:
+Aug 15, 2017 5:48:01 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 15, 2017 5:48:01 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 15, 2017 5:48:01 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 15, 2017 5:48:01 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 15, 2017 5:48:01 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)
+Aug 15, 2017 7:30:05 PM[Yum 事件监控] 插件 Residence 处理 ResidenceChangedEvent 事件时发生异常!
+Aug 15, 2017 7:30:05 PM异常名称: java.lang.IllegalStateException
+Aug 15, 2017 7:30:05 PM异常说明: Asynchronous player tracker update!
+Aug 15, 2017 7:30:05 PM简易错误信息如下:
+Aug 15, 2017 7:30:05 PM    位于 org.spigotmc.AsyncCatcher.catchOp(AsyncCatcher.java:14)
+Aug 15, 2017 7:30:05 PM    位于 net.minecraft.server.v1_12_R1.EntityTrackerEntry.updatePlayer(EntityTrackerEntry.java:352)
+Aug 15, 2017 7:30:05 PM    位于 net.minecraft.server.v1_12_R1.EntityTracker.a(EntityTracker.java:219)
+Aug 15, 2017 7:30:05 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.G(EntityPlayer.java:1323)
+Aug 15, 2017 7:30:05 PM    位于 net.minecraft.server.v1_12_R1.EntityPlayer.updateAbilities(EntityPlayer.java:1168)

@@ -3,6 +3,12 @@ Seed: 3726392772671417699
 Residences:
   '0':
     LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: 391.5
+      Pitch: 0.0
+      Y: 70.0
+      Z: -158.5
+      Yaw: 0.0
     BlockSellPrice: 0.25
     EnterMessage: Welcome %player to %residence, owned by %owner.
     Permissions:
@@ -74,6 +80,18 @@ Residences:
           build: true
           vehicledestroy: true
           leash: true
+        3c8bba07-75a6-31c0-a418-3d80014af2ca:
+          container: true
+          move: true
+          beacon: true
+          mobkilling: true
+          shear: true
+          build: true
+          use: true
+          chat: true
+          tp: true
+          leash: true
+          animalkilling: true
       AreaFlags:
         container: false
         ignite: false
@@ -81,20 +99,32 @@ Residences:
         use: false
         animalkilling: false
         healing: true
+        iceform: true
         hook: false
         falldamage: false
         explode: false
+        cmonsters: true
+        snowtrail: false
         vehicledestroy: false
+        nmonsters: false
         day: true
         flow: true
         wspeed2: true
+        chorustp: false
+        move: true
         shear: false
+        nanimals: false
         firespread: false
+        night: false
         destroy: false
         pvp: false
         pressure: true
+        nomobs: true
+        enderpearl: false
         feed: true
+        canimals: true
         build: false
+        enchant: true
         witherspawn: true
         tnt: false
         leash: false
@@ -179,6 +209,54 @@ Residences:
         X2: -919
         Y2: 62
         Z2: 866
+  azure:
+    LeaveMessage: 现在已离开 %residence.
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        21b80d08-f081-3dcc-8a45-fd89ac5d4175:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 21b80d08-f081-3dcc-8a45-fd89ac5d4175
+      OwnerLastKnownName: Azure
+    CreatedOn: 1502529144675
+    Areas:
+      main:
+        X1: 5148
+        Y1: 71
+        Z1: -2877
+        X2: 5146
+        Y2: 68
+        Z2: -2880
   cl1:
     LeaveMessage: Now leaving %residence.
     TPLoc:
@@ -357,6 +435,114 @@ Residences:
         X2: -173
         Y2: 62
         Z2: 735
+  De_Zhao:
+    LeaveMessage: 现在已离开 %residence.
+    TPLoc:
+      X: -3930.3
+      Pitch: 42.45
+      Y: 63.0
+      Z: 1394.03
+      Yaw: -259.08
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        59d15473-b514-3f2c-860a-ad735695cc43:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 59d15473-b514-3f2c-860a-ad735695cc43
+      OwnerLastKnownName: De_Zhao
+    CreatedOn: 1502447926539
+    Areas:
+      main:
+        X1: -3927
+        Y1: 66
+        Z1: 1395
+        X2: -3931
+        Y2: 60
+        Z2: 1391
+  F:
+    LeaveMessage: 现在已离开 %residence.
+    TPLoc:
+      X: -456.5
+      Pitch: 0.0
+      Y: 58.0
+      Z: 300.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        1c0f5a05-5835-312d-9811-f3a073ddbdba:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 1c0f5a05-5835-312d-9811-f3a073ddbdba
+      OwnerLastKnownName: FFF
+    CreatedOn: 1502462637190
+    Areas:
+      main:
+        X1: -458
+        Y1: 56
+        Z1: 304
+        X2: -475
+        Y2: 46
+        Z2: 287
   FENGLIAOMKL:
     LeaveMessage: Now leaving %residence.
     TPLoc:
@@ -428,6 +614,12 @@ Residences:
         Z2: 352
   fyjl:
     LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -655.5
+      Pitch: 0.0
+      Y: 67.0
+      Z: 1262.5
+      Yaw: 0.0
     BlockSellPrice: 0.25
     EnterMessage: Welcome %player to %residence, owned by %owner.
     Permissions:
@@ -474,54 +666,6 @@ Residences:
         X2: -659
         Y2: 66
         Z2: 1259
-  FYJLcm:
-    LeaveMessage: Now leaving %residence.
-    BlockSellPrice: 0.25
-    EnterMessage: Welcome %player to %residence, owned by %owner.
-    Permissions:
-      PlayerFlags:
-        efa07376-991d-3b0f-b73a-a0d311dd8430:
-          container: true
-          ignite: true
-          move: true
-          shear: true
-          use: true
-          destroy: true
-          animalkilling: true
-          trade: true
-          mobkilling: true
-          build: true
-          vehicledestroy: true
-          leash: true
-      AreaFlags:
-        container: false
-        ignite: false
-        shear: false
-        firespread: false
-        use: false
-        destroy: false
-        pvp: false
-        animalkilling: false
-        hook: false
-        build: false
-        explode: false
-        vehicledestroy: false
-        tnt: false
-        leash: false
-        pistonprotection: true
-        tp: true
-        creeper: false
-      OwnerUUID: efa07376-991d-3b0f-b73a-a0d311dd8430
-      OwnerLastKnownName: FYJL
-    CreatedOn: 1502196484428
-    Areas:
-      main:
-        X1: -3577
-        Y1: 69
-        Z1: 1093
-        X2: -3583
-        Y2: 64
-        Z2: 1089
   Hailay_home:
     LeaveMessage: Now leaving %residence.
     TPLoc:
@@ -787,6 +931,324 @@ Residences:
         X2: -189
         Y2: 73
         Z2: -683
+  jh:
+    LeaveMessage: 现在已离开 %residence.
+    TPLoc:
+      X: 149.4
+      Pitch: -0.3
+      Y: 63.0
+      Z: 2192.65
+      Yaw: -178.2
+    BlockSellPrice: 0.3
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        48c12e11-261c-3a1d-9f58-c3365bf6f580:
+          container: true
+          bed: true
+          door: true
+          ignite: true
+          note: true
+          egg: true
+          use: true
+          anvil: true
+          admin: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          vehicledestroy: true
+          itempickup: true
+          place: true
+          subzone: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          destroy: true
+          lever: true
+          pressure: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          trade: true
+          mobkilling: true
+          itemdrop: true
+          build: true
+          chat: true
+          flowerpot: true
+          enchant: true
+          diode: true
+          tp: true
+          leash: true
+        3c8bba07-75a6-31c0-a418-3d80014af2ca:
+          container: true
+          move: true
+          beacon: true
+          mobkilling: true
+          shear: true
+          build: true
+          use: true
+          chat: true
+          tp: true
+          leash: true
+          animalkilling: true
+        aa89e1f1-9be0-31a4-bbc6-b40874d6cc2e:
+          container: true
+          bed: true
+          door: true
+          ignite: true
+          note: true
+          egg: true
+          use: true
+          anvil: true
+          admin: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          vehicledestroy: true
+          itempickup: true
+          place: true
+          subzone: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          destroy: true
+          lever: true
+          pressure: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          trade: true
+          mobkilling: true
+          itemdrop: true
+          build: true
+          chat: true
+          flowerpot: true
+          enchant: true
+          diode: true
+          tp: true
+          leash: true
+        b741858e-4ac8-31dc-9218-2cef4aebf7a0:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+        7d0bbbcc-fe8e-31b2-b614-a5d97294de2f:
+          bed: true
+          container: true
+          door: true
+          ignite: true
+          note: true
+          egg: true
+          anvil: true
+          use: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          vehicledestroy: true
+          itempickup: true
+          place: true
+          subzone: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          destroy: true
+          lever: true
+          pressure: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          trade: true
+          mobkilling: true
+          itemdrop: true
+          build: true
+          chat: true
+          flowerpot: true
+          enchant: true
+          diode: true
+          leash: true
+          tp: true
+        34ea380f-4d52-3007-bb02-453d72aa67ef:
+          bed: true
+          container: true
+          door: true
+          ignite: true
+          note: true
+          egg: true
+          anvil: true
+          use: true
+          admin: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          vehicledestroy: true
+          itempickup: true
+          place: true
+          subzone: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          destroy: true
+          lever: true
+          pressure: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          trade: true
+          itemdrop: true
+          mobkilling: true
+          build: true
+          chat: true
+          flowerpot: true
+          enchant: true
+          diode: true
+          leash: true
+          tp: true
+      AreaFlags:
+        container: false
+        bed: false
+        ignite: false
+        waterflow: true
+        door: true
+        egg: false
+        use: false
+        decay: true
+        healing: true
+        hook: false
+        explode: false
+        cake: false
+        vehicledestroy: false
+        flowinprotection: false
+        trample: false
+        animals: true
+        nmonsters: false
+        day: true
+        flow: true
+        wspeed2: true
+        rain: false
+        chorustp: true
+        witherdamage: false
+        grow: true
+        firespread: false
+        night: true
+        destroy: false
+        pvp: false
+        brew: false
+        nomobs: false
+        feed: true
+        beacon: false
+        canimals: false
+        dragongrief: false
+        witherspawn: true
+        diode: false
+        tnt: false
+        pistonprotection: false
+        creeper: false
+        anvil: false
+        riding: false
+        animalkilling: false
+        button: false
+        witherdestruction: false
+        cmonsters: false
+        subzone: false
+        table: true
+        coords: true
+        burn: true
+        move: true
+        shear: false
+        nanimals: true
+        piston: true
+        dye: false
+        trade: false
+        mobkilling: true
+        build: false
+        enchant: false
+        leash: false
+        tp: true
+      OwnerUUID: b741858e-4ac8-31dc-9218-2cef4aebf7a0
+      OwnerLastKnownName: Hailay
+    CreatedOn: 1502438097845
+    Areas:
+      main:
+        X1: 236
+        Y1: 114
+        Z1: 2279
+        X2: 45
+        Y2: 20
+        Z2: 2133
+  jia:
+    LeaveMessage: 现在已离开 %residence.
+    TPLoc:
+      X: -3767.5
+      Pitch: 0.0
+      Y: 63.0
+      Z: 1542.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        59d15473-b514-3f2c-860a-ad735695cc43:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        creeper: false
+      OwnerUUID: 59d15473-b514-3f2c-860a-ad735695cc43
+      OwnerLastKnownName: De_Zhao
+    CreatedOn: 1502528668672
+    Areas:
+      main:
+        X1: -3761
+        Y1: 70
+        Z1: 1548
+        X2: -3775
+        Y2: 56
+        Z2: 1536
   kid:
     LeaveMessage: Now leaving %residence.
     TPLoc:
@@ -897,6 +1359,12 @@ Residences:
         Z2: 2
   q:
     LeaveMessage: Now leaving %residence.
+    TPLoc:
+      X: -49.5
+      Pitch: 0.0
+      Y: 69.0
+      Z: 143.5
+      Yaw: 0.0
     BlockSellPrice: 0.25
     EnterMessage: Welcome %player to %residence, owned by %owner.
     Permissions:
@@ -943,6 +1411,102 @@ Residences:
         X2: -55
         Y2: 62
         Z2: 138
+  r:
+    LeaveMessage: 现在已离开 %residence.
+    TPLoc:
+      X: -3006.5
+      Pitch: 0.0
+      Y: 64.0
+      Z: 1613.5
+      Yaw: 0.0
+    BlockSellPrice: 0.25
+    EnterMessage: 欢迎 %player 来到 %residence, 主人为 %owner.
+    Permissions:
+      PlayerFlags:
+        0e1adbf3-f73b-36d5-83fd-f9b2cc5e712d:
+          container: true
+          ignite: true
+          move: true
+          shear: true
+          use: true
+          destroy: true
+          animalkilling: true
+          trade: true
+          mobkilling: true
+          build: true
+          vehicledestroy: true
+          leash: true
+        34ea380f-4d52-3007-bb02-453d72aa67ef:
+          bed: true
+          container: true
+          door: true
+          ignite: true
+          note: true
+          egg: true
+          anvil: true
+          use: true
+          admin: true
+          riding: true
+          animalkilling: true
+          button: true
+          cake: true
+          vehicledestroy: true
+          itempickup: true
+          place: true
+          subzone: true
+          table: true
+          chorustp: true
+          move: true
+          shear: true
+          destroy: true
+          lever: true
+          pressure: true
+          brew: true
+          enderpearl: true
+          dye: true
+          beacon: true
+          trade: true
+          itemdrop: true
+          mobkilling: true
+          build: true
+          chat: true
+          flowerpot: true
+          enchant: true
+          diode: true
+          leash: true
+          tp: true
+      AreaFlags:
+        container: false
+        ignite: false
+        shear: false
+        firespread: false
+        use: false
+        destroy: false
+        pvp: false
+        animalkilling: false
+        feed: true
+        hook: false
+        build: false
+        explode: false
+        vehicledestroy: false
+        tnt: false
+        leash: false
+        pistonprotection: true
+        tp: true
+        day: true
+        creeper: false
+        wspeed2: true
+      OwnerUUID: 0e1adbf3-f73b-36d5-83fd-f9b2cc5e712d
+      OwnerLastKnownName: ssced
+    CreatedOn: 1502699193847
+    Areas:
+      main:
+        X1: -3002
+        Y1: 66
+        Z1: 1618
+        X2: -3013
+        Y2: 64
+        Z2: 1607
   sc1:
     LeaveMessage: Now leaving %residence.
     TPLoc:
@@ -1192,6 +1756,9 @@ Residences:
     EnterMessage: Welcome %player to %residence, owned by %owner.
     Permissions:
       PlayerFlags:
+        0e1adbf3-f73b-36d5-83fd-f9b2cc5e712d:
+          build: true
+          destroy: true
         36f31fca-efd9-3e69-9047-11a246eec88f:
           container: true
           ignite: true
@@ -1222,7 +1789,10 @@ Residences:
         leash: false
         pistonprotection: true
         tp: true
+        wspeed1: false
+        day: true
         creeper: false
+        wspeed2: true
       OwnerUUID: 36f31fca-efd9-3e69-9047-11a246eec88f
       OwnerLastKnownName: strickczq
     CreatedOn: 1501469206434
@@ -1288,60 +1858,6 @@ Residences:
         X2: -51
         Y2: 63
         Z2: 184
-  superkid:
-    LeaveMessage: Now leaving %residence.
-    TPLoc:
-      X: 158.31
-      Pitch: 29.58
-      Y: 63.0
-      Z: 2242.3
-      Yaw: -68.71
-    BlockSellPrice: 0.25
-    EnterMessage: Welcome %player to %residence, owned by %owner.
-    Permissions:
-      PlayerFlags:
-        7d0bbbcc-fe8e-31b2-b614-a5d97294de2f:
-          container: true
-          ignite: true
-          move: true
-          shear: true
-          use: true
-          destroy: true
-          animalkilling: true
-          trade: true
-          mobkilling: true
-          build: true
-          vehicledestroy: true
-          leash: true
-      AreaFlags:
-        container: false
-        ignite: false
-        shear: false
-        firespread: false
-        use: false
-        destroy: false
-        pvp: false
-        animalkilling: false
-        hook: false
-        build: false
-        explode: false
-        vehicledestroy: false
-        tnt: false
-        leash: false
-        pistonprotection: true
-        tp: true
-        creeper: false
-      OwnerUUID: 7d0bbbcc-fe8e-31b2-b614-a5d97294de2f
-      OwnerLastKnownName: kid
-    CreatedOn: 1502173941557
-    Areas:
-      main:
-        X1: 158
-        Y1: 63
-        Z1: 2244
-        X2: 156
-        Y2: 60
-        Z2: 2242
   vl:
     LeaveMessage: Now leaving %residence.
     TPLoc:

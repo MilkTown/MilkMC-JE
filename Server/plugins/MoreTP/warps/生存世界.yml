@@ -14,7 +14,7 @@ description:
 - ''
 - '&8&m---------------------------'
 cooldown: 5
-cost: 0.0
+cost: 10.0
 glowing: false
 permission: moretp.warp.{warpname}
 item: GRASS

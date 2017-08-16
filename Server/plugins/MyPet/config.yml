@@ -9,7 +9,6 @@ MyPet:
     Consume: false
     AllowRanged: true
   OwnerCanAttackPet: false
-  #防止玩家与宠物之间的战斗
   DisablePetVersusPlayer: true
   RemovePetsAfterRelease: false
   FollowStartDistance: 7.0
@@ -51,7 +50,6 @@ MyPet:
     RandomAssignment: false
     InheritAlreadyInheritedSkills: false
     ChooseOnce: false
-    #开启后，宠物没有技能树不能获得经验
     PreventLevellingWithout: false
     SwitchFee:
       Fixed: 0.0

@@ -1,15 +1,15 @@
 lastlocation:
-  world: world
-  x: -2082.7466662223164
-  y: 64.0
-  z: -604.4965239632456
-  yaw: 231.54523
-  pitch: 15.149955
+  world: zy
+  x: 430.5503147381651
+  y: 11.0
+  z: -375.78800250833325
+  yaw: 238.04834
+  pitch: 19.500143
 lastAccountName: HuangXianS
 timestamps:
   login: 1502428738161
   logout: 1502023365425
-  lastteleport: 1502432167505
+  lastteleport: 1502434344998
 ipAddress: 183.211.116.142
 money: '90.0'
 logoutlocation:

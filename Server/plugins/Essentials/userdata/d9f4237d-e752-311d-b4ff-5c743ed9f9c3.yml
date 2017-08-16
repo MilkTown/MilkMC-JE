@@ -1,0 +1,36 @@
+lastAccountName: ryl
+timestamps:
+  login: 1502800398036
+  logout: 1502802765823
+  lastteleport: 1502801248674
+ipAddress: 112.10.138.124
+lastlocation:
+  world: world_nether
+  x: 884.0941799820798
+  y: 60.0
+  z: 379.6704154383814
+  yaw: 115.827065
+  pitch: 15.449999
+money: '3496.0'
+logoutlocation:
+  world: world_nether
+  x: 67.3895525528028
+  y: 81.0
+  z: 52.549537970758045
+  yaw: -355.19873
+  pitch: 48.150005
+homes:
+  home:
+    world: world
+    x: -3682.619154755694
+    y: 64.0
+    z: 343.247534364714
+    yaw: 89.85192
+    pitch: 16.500032
+  a:
+    world: world
+    x: 170.4256461612357
+    y: 87.0
+    z: 141.1030973290103
+    yaw: 344.2932
+    pitch: 31.050058

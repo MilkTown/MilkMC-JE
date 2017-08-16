@@ -19,5 +19,5 @@ glowing: false
 permission: moretp.warp.{warpname}
 item: SANDSTONE
 data: 0
-location: world_the_end<>100.87271031372111<>49.0<>0.6373041809698152<>0.6001192<>90.634155
-slot: 2
+location: world_the_end<>-45.028988573437054<>65.0<>36.611272765921896<>1.949967<>-90.60019
+slot: 1
