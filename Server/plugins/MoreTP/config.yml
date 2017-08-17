@@ -51,10 +51,10 @@ particle_teleport_pre-landing: true
 particle_teleport_landing: true
 #传送到达后是否启用粒子特效
 
-teleport_default_cooldown: 5
-#默认传送冷却时间 5秒
+teleport_default_cooldown: 60
+#默认传送冷却时间 5秒【现在改为60s】
 
-teleport_default_delay: 5
+teleport_default_delay: 10
 #默认传送延迟 5秒
 
 teleport_request_timeout: 120
@@ -109,8 +109,8 @@ quicktp_default_biome: RANDOM
 quicktp_default_radius: 1000
 #默认传送花费 100
 quicktp_default_cost: 100
-#默认传送冷却时间 5s
-quicktp_default_cooldown: 5
+#默认传送冷却时间 5s【现在改为10】
+quicktp_default_cooldown: 10
 
 randomtp_title: "&b&k||&r &1&l随机传送菜单 &b&k||" 
 randomtp_selected_option: "&8&l[ &b已选中 &8&l]"

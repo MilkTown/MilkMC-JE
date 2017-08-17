@@ -563,7 +563,7 @@ world-home-permissions: false
 # 查看更多信息,请访问 http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
   # 默认数量
-  default: 6
+  default: 1
   # VIP可以设置家的数量, 权限为 essentials.sethome.multiple.vip
   vip: 10
   staff: 10
@@ -821,7 +821,7 @@ protect:
   blacklist:
 
     # 阻止玩家放置以下方块
-    placement: 46
+    placement: 
 
     # 阻止玩家使用以下物品
     usage: 
