@@ -34,11 +34,11 @@ worlds:
     keepSpawnInMemory: 'true'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 780.1269107777796
-      y: 64.0
-      z: -1885.5006931340995
-      pitch: 1.1999743
-      yaw: -88.23094
+      x: -180.07367006594382
+      y: 76.0
+      z: 173.48296031175605
+      pitch: 1.6305984
+      yaw: -89.15385
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
@@ -98,10 +98,10 @@ worlds:
   zy_the_end:
     ==: MVWorld
     hidden: 'false'
-    alias: '&b资源&e末地'
+    alias: '&b资源&c末地'
     color: WHITE
     style: NORMAL
-    pvp: 'false'
+    pvp: 'true'
     scale: '16.0'
     respawnWorld: ''
     allowWeather: 'true'
@@ -130,16 +130,16 @@ worlds:
     keepSpawnInMemory: 'false'
     spawnLocation:
       ==: MVSpawnLocation
-      x: -23.068225766633812
-      y: 46.0
-      z: -106.53185173879653
-      pitch: 2.0999925
-      yaw: 270.59973
+      x: -4.2308646837820305
+      y: 64.0
+      z: 0.2751237579982409
+      pitch: 2.0999992
+      yaw: -87.44987
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
     environment: THE_END
-    seed: '0'
+    seed: '-3491083971017292850'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
@@ -197,7 +197,7 @@ worlds:
     alias: '&b资源&c地狱'
     color: WHITE
     style: NORMAL
-    pvp: 'false'
+    pvp: 'true'
     scale: '8.0'
     respawnWorld: ''
     allowWeather: 'true'
@@ -226,16 +226,16 @@ worlds:
     keepSpawnInMemory: 'false'
     spawnLocation:
       ==: MVSpawnLocation
-      x: 0.4381135657855459
-      y: 32.0
-      z: 0.0029616311197399048
-      pitch: 2.3999934
-      yaw: -176.70056
+      x: -8.600312955221124
+      y: 64.0
+      z: -1.5820372355537318
+      pitch: 0.8999864
+      yaw: 183.15012
     autoLoad: 'true'
     bedRespawn: 'true'
     worldBlacklist: []
     environment: NETHER
-    seed: '1780527842177565497'
+    seed: '4756356898661997205'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
