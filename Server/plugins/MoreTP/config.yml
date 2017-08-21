@@ -51,8 +51,8 @@ particle_teleport_pre-landing: true
 particle_teleport_landing: true
 #传送到达后是否启用粒子特效
 
-teleport_default_cooldown: 60
-#默认传送冷却时间 5秒【现在改为60s】
+teleport_default_cooldown: 30
+#默认传送冷却时间 5秒【现在改为60s】【60太大还是30吧】
 
 teleport_default_delay: 10
 #默认传送延迟 5秒
