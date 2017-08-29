@@ -1,0 +1,78 @@
+Monitor:
+  enable: true
+  ThreadLagWarning: true
+  PluginLagWarning:
+    enable: true
+    Period: 1000
+EntityClear:
+  enable: true
+  CheckInterval: 600
+  LimitCount: 1200
+  ClearEntityType:
+  - ZOMBIE
+  - SKELETON
+  - SPIDER
+  - CREEPER
+  - SHEEP
+  - PIG
+  - CHICKEN
+  ClearMessage: §a成功清除了过多的实体~~(@^_^@)~
+NooneRestart:
+  enable: true
+  TimeLong: 1200
+OverLoadMemoryRestart:
+  enable: true
+  Percent: 90
+  KickMessage: 抱歉！由于服务器内存过载，需要重启服务器！
+  WarnMessage: 服务器会在15秒后重启，请玩家不要游戏，耐心等待！ ╮(╯_╰)╭
+  DelayTime: 15
+ChunkUnloader:
+  Interval: 30
+  enable: true
+WaterFlowLimitor:
+  enable: true
+  PerChunkTimes: 2
+AntiRedstone:
+  enable: true
+  Times: 5
+  Message: §c检测到高频红石在 %location% ，插件已经将其清除，不许玩了！ (╰_╯)#
+  RemoveBlockList:
+  - REDSTONE_WIRE
+  - DIODE_BLOCK_ON
+  - DIODE_BLOCK_OFF
+  - REDSTONE_TORCH_ON
+  - REDSTONE_TORCH_OFF
+  - REDSTONE_BLOCK
+FireLimitor:
+  enable: true
+  Period: 3000
+TimerGc:
+  enable: false
+  Message: §e服务器清理内存中... ԅ(¯ㅂ¯ԅ)
+  Period: 600
+TeleportPreLoader:
+  enable: false
+ClearItem:
+  NoCleatDeath: true
+  NoClearTeleport: false
+  enable: true
+NoCrowdedEntity:
+  enable: true
+  TypeList:
+  - ZOMBIE
+  - SKELETON
+  - SPIDER
+  - CREEPER
+  - SHEEP
+  - PIG
+  - CHICKEN
+  PerChunkLimit: 30
+AutoSave:
+  Interval: 15
+  enable: true
+AutoSet:
+  enable: true
+ChunkKeeper:
+  enable: true
+NoSpawnChunks:
+  enable: true
