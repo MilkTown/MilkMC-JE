@@ -34,7 +34,7 @@ WaterFlowLimitor:
   PerChunkTimes: 2
 AntiRedstone:
   enable: true
-  Times: 5
+  Times: 70
   Message: §c检测到高频红石在 %location% ，插件已经将其清除，不许玩了！ (╰_╯)#
   RemoveBlockList:
   - REDSTONE_WIRE
@@ -71,7 +71,7 @@ AutoSave:
   Interval: 15
   enable: true
 AutoSet:
-  enable: true
+  enable: false
 ChunkKeeper:
   enable: true
 NoSpawnChunks:
