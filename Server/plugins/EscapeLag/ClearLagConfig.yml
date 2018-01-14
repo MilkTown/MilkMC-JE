@@ -17,8 +17,9 @@ EntityClear:
   - PIG
   - CHICKEN
   ClearMessage: §a成功清除了过多的实体~~(@^_^@)~
+#[无人重启]关闭
 NooneRestart:
-  enable: true
+  enable: false
   TimeLong: 1200
 OverLoadMemoryRestart:
   enable: true
@@ -30,7 +31,7 @@ ChunkUnloader:
   Interval: 30
   enable: true
 WaterFlowLimitor:
-  enable: true
+  enable: false
   PerChunkTimes: 2
 AntiRedstone:
   enable: true
@@ -75,4 +76,4 @@ AutoSet:
 ChunkKeeper:
   enable: true
 NoSpawnChunks:
-  enable: true
+  enable: false

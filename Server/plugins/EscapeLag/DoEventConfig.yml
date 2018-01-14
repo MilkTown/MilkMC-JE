@@ -1,7 +1,7 @@
 AntiSpam:
   enable: true
   Period:
-    Period: 1.5
+    Period: 1
     WarnMessage: §c请慢点说话，别激动嘛！ _(:з」∠)_
   Dirty:
     enable: true
