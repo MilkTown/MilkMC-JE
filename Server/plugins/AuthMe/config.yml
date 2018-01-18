@@ -4,12 +4,14 @@
 #    |   Hailay Change |
 #    ____2017_8_7________
 
+#    二改 2018.1.18
+
 DataSource:
     # What type of database do you want to use?
     # 您希望使用哪种数据库来储存
     # Valid values: SQLITE, MYSQL
     # 数据库类型: SQLITE(默认), MYSQL
-    backend: 'MySQL'
+    backend: 'SQLITE'
     # Enable database caching, should improve database performance
     # 是否启用数据库缓存
     caching: true
