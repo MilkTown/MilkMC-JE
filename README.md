@@ -15,7 +15,10 @@
 QQ群：189594977 
 ## 6)赞助方式
 支持支付宝和微信，最好支付宝啦
-![微信](http://flie.hailay.site/微信支付-Hailay.jpg) ![支付宝](http://flie.hailay.site/支付宝支付-Hailay.jpg) ![HC入群二维码](http://flie.hailay.site/Hailaycraft群二维码.jpg)
+
+![微信](http://flie.hailay.site/微信支付-Hailay.jpg) 
+![支付宝](http://flie.hailay.site/支付宝支付-Hailay.jpg) 
+![HC入群二维码](http://flie.hailay.site/Hailaycraft群二维码.jpg)
 
 
 # （历史）HailayCraft服务器(v0.8)
