@@ -46,9 +46,9 @@ HC有7个地图
 各世界均有地图大小限制。
 
 # 四、宣传贴
-+ Mcbbs: http://www.mcbbs.net/thread-779646-1-1.html 
-+ 服务器官网: http://mc.hailay.site(预览版)
-+ 百度贴吧：(旧)https://tieba.baidu.com/p/5253489405 （新）？
++ Mcbbs: [http://www.mcbbs.net/thread-779646-1-1.html](http://www.mcbbs.net/thread-779646-1-1.html "点击进入服务器宣传贴") 
++ 服务器官网: [http://mc.hailay.site](http://mc.hailay.site "点击进入官网")(预览版)
++ 百度贴吧：(旧)[https://tieba.baidu.com/p/5253489405](https://tieba.baidu.com/p/5253489405 "点击进入贴吧") （新）？
 
 # 五、一些价格
 ## 圈地
@@ -56,9 +56,9 @@ HC有7个地图
 ## 死亡掉落物品保护
 基准价格123.3元，最大价格233元
 ## 系统商店收购
-![](http://flie.hailay.site/HC-server-shop-price-table.png)
+![系统商店收购价格表](http://flie.hailay.site/HC-server-shop-price-table.png)
 ## 随机传送
-![](http://flie.hailay.site/HC-rtp-price-table.jpg)
+![随机传送价格表](http://flie.hailay.site/HC-rtp-price-table.jpg)
 
 传送-紧急回城100元/次，0冷却时间（只能在静止时传送）
 >不可预料的物品遗失/背包清空——请找管理员Grasscraft，尽量原价赔偿
@@ -98,7 +98,8 @@ HC有7个地图
 + 2018.2.6.  更改系统商店价格；更换登陆方式造成背包清空
 + 2018.2.15. 更换帮助文档的格式，转为.md
 
-Hailay写于2018/2/15 12:21:17
+>Hailay写于2018/2/15 12:21:17 
+
 -----------
 # （旧的介绍）HailayCraft服务器(v0.8)
 HailayCraft是我自己付费建立的公益服务器，在2017年8.7把服务器开服包放上GitHub，方便我管理。
