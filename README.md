@@ -2,7 +2,7 @@
 ![服务器宣传图](http://flie.hailay.site/Hailaycraft-small.jpg)
 ## 1)理念
 我们致力于建造一个和谐稳定流畅的服务器环境，创造一个友好的环境供各位爱好者交流与娱乐。
-![服务器贴图](http://tietu.zuimc.com/server.php?hostname=Hailaycraft%20[%E5%85%A5%E6%9C%8D%E5%8A%A0Q%E7%BE%A4189594977]&host=play.hailay.com&motd=%E7%BA%AF%E5%87%80%E7%94%9F%E5%AD%98%EF%BC%8C%E5%92%8C%E8%B0%90%E4%B9%8B%E8%88%8D%20|%E7%BA%A2%E7%9F%B3|%E5%BB%BA%E7%AD%91|%E5%9C%88%E5%9C%B0|%E6%B4%BB%E5%8A%A8|%E9%95%BF%E6%9C%9F|%E7%A8%B3%E5%AE%9A&line=3&srv=1)
+![服务器贴图](http://tietu.zuimc.com/server.php?hostname=Hailaycraft%20[入服请务必阅读新手手册]&host=play.hailay.com&motd=纯净生存,和谐之社  |红石|建筑|活动|长期|稳定|&line=3&srv=1)
 ## 2)初心
 为什么我要建立服务器呢？因为以前玩过很多服务器，建了许许多多的精致建筑与巧妙的红石机器，更与朋友们留下了极为美好的童年回忆。只可惜一个个服务器倒闭的倒闭、卡的卡、换周目的换周目，导致一些记忆就在这一次次地换服中丢失，这是多么遗憾的事情啊！所以，我就想自己做服务器，使“HailayCraft”永存。
 我们目前为公益模式，仅接受无偿赞助。但开服也需要钱，一个月近200元也是挺贵的，所以如有闲钱也可赞助一下，不然没钱了我也很无奈啊。 
@@ -36,7 +36,6 @@ QQ群：189594977
 >最终解释权归、Hailaycraft管理组所有
 
 # 三、地图设置
-HC有7个地图
 
 + 不刷新的 生存世界与下界、末地
 + 定期刷新 资源世界与下界、末地
@@ -52,15 +51,13 @@ HC有7个地图
 
 # 五、一些价格
 ## 圈地
-每个方块0.2元，最大圈地大小125*125*256（X,Z,Y）
+每个方块0.2元，最大圈地大小125*125*256
 ## 死亡掉落物品保护
 基准价格123.3元，最大价格233元
 ## 系统商店收购
 ![系统商店收购价格表](http://flie.hailay.site/HC-server-shop-price-table.png)
 ## 随机传送
-![随机传送价格表](http://flie.hailay.site/HC-rtp-price-table.jpg)
-
-传送-紧急回城100元/次，0冷却时间（只能在静止时传送）
+使用指令/rtp进行随机传送
 >不可预料的物品遗失/背包清空——请找管理员Grasscraft，尽量原价赔偿
 
 # 六、进服操作
@@ -70,7 +67,7 @@ HC有7个地图
 [http://mc.hailay.site/Hailaycraft客户端_ver1.3.zip](http://mc.hailay.site/Hailaycraft客户端_ver1.3.zip "点击下载") 
 
 ## 2）启动环境配置
-1. 下载最新java [https://www.java.com/zh_CN/download/](https://www.java.com/zh_CN/download/ "点击官网下载")
+1. 下载最新Java [https://www.java.com/zh_CN/download/](https://www.java.com/zh_CN/download/ "点击官网下载")
 2. 安装最新显卡驱动
 ## 3）注册登陆
 （熟练可跳过）启动客户端后进入服务器后输入`/register [密码] [密码]`注册；输入`/login [密码]`登陆
@@ -81,10 +78,12 @@ HC有7个地图
 
 # 七、指令操作
 + 去生存世界建筑、生存
- `/cmd —> 世界传送菜单 ——> 生存世界`
+ 输入`/cmd`选择`—> 世界传送菜单 ——> 生存世界`
 + 随机传送
- `/cmd ——> 随机传送菜单 ——> 选择确认`
-+ 切换计分板
+ 输入`/cmd`选择`——> 随机传送菜单 ——> 选择确认`
++ 开启/关闭计分板
+ 输入`/tm sb toggle`
++ 开启/关闭死亡自动恢复物品
  输入`/tm sb toggle`
 
 # 八、版本
@@ -99,7 +98,7 @@ HC有7个地图
 + 2018.2.15. 更换帮助文档的格式，转为.md
 + 2018.2.17. 主菜单命令更改
 
->Hailay写于2018/2/15 12:21:17 
+>Grasscraft更新于2018/03/21 13:00
 
 -----------
 # （旧的介绍）HailayCraft服务器(v0.8)
