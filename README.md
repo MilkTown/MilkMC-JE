@@ -1,3 +1,6 @@
+最新的服务器手册见[HCPM](https://github.com/Hailaycraft/HailaycraftServerPlayerManual/blob/master/HelpManual.md)
+
+
 # 一、服务器介绍
 ![服务器宣传图](http://flie.hailay.site/Hailaycraft-small.jpg)
 ## 1)理念
