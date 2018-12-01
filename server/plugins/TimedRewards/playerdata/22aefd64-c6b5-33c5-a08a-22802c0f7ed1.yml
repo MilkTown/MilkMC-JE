@@ -1,0 +1,11 @@
+name: Accelerator
+uuid: 22aefd64-c6b5-33c5-a08a-22802c0f7ed1
+rewards:
+  hourly:
+    claim-time: 1530941105251
+  daily:
+    claim-time: 1530941105251
+  weekly:
+    claim-time: 1530941105251
+  monthly:
+    claim-time: 1530941105251

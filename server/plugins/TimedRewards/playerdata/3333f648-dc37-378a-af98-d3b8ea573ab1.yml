@@ -1,0 +1,11 @@
+name: GreenGrass115
+uuid: 3333f648-dc37-378a-af98-d3b8ea573ab1
+rewards:
+  hourly:
+    claim-time: 1531713702014
+  daily:
+    claim-time: 1531713698542
+  weekly:
+    claim-time: 1531713694692
+  monthly:
+    claim-time: 1530601951374

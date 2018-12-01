@@ -1,0 +1,91 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&1主菜单'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed. few seconds
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: BLOCK_CHEST_OPEN-1-1.'
+  
+  # This command command will be execute when the menu is closed.
+  # Supports all the icon command types.
+  close-action: 'sound: BLOCK_CHEST_CLOSE-1-1.'
+
+  
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+0:
+  id: '160:0'
+  name: '&9'
+  hide-attribute: true
+  lore:
+  - '&9&m-------------'
+  - '&e&l华丽的分割线'
+  - '&9&m-------------'
+  slot-copy: [1,2,3,4,5,6,7,8,45,46,47,48,49,50,51,52,53]
+
+10:
+  id: grass
+  name: '&9世界传送'
+  lore:
+  - '&6前往其他世界'
+  - '&9生存世界发展城镇'
+  - '&9资源世界收集资源'
+  command: 'taboomenu open worlds.yml {player}'
+
+12:
+  id: beacon
+  name: '&9领取奖励'
+  lore:
+  - '&6领取在线奖励'
+  - '&6'
+  command: 'rewards'
+
+14:
+  id: observer
+  name: '&9管理领地'
+  lore:
+  - '&6管理领地权限'
+  - '&6必须站在领地脚下'
+  - '&6只是公共领地权限'
+  command: 'res set'
+
+16:
+  id: commmand
+  name: '&9命令辅助'
+  lore:
+  - '&6执行封锁命令'
+  - '&6开关死亡物品恢复'
+  - '&6及开关右侧记分榜'
+  command: 'taboomenu open commands.yml {player}'
+  
+28:
+  id: workbench
+  name: '&9随身合成'
+  lore:
+  - '&6随时进行合成'
+  - '&6红石建筑组可打开'
+  - '&6你可以申请加入组'
+  command: 'workbench'
+  permission: essentials.workbench
+  permission-message: '&a你没有打开随身合成界面的权限!'

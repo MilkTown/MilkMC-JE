@@ -1,0 +1,11 @@
+name: poi
+uuid: 39604308-66b8-3c6e-af7d-5dd78f42b57d
+rewards:
+  hourly:
+    claim-time: 1532433359739
+  daily:
+    claim-time: 1532433364484
+  weekly:
+    claim-time: 1531966812812
+  monthly:
+    claim-time: 1530929395552

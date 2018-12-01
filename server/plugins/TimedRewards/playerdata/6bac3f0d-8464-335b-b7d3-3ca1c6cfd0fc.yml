@@ -1,0 +1,11 @@
+name: PrinSuparat
+uuid: 6bac3f0d-8464-335b-b7d3-3ca1c6cfd0fc
+rewards:
+  hourly:
+    claim-time: 1531554837786
+  daily:
+    claim-time: 1531554833338
+  weekly:
+    claim-time: 1531383534002
+  monthly:
+    claim-time: 1531383534002

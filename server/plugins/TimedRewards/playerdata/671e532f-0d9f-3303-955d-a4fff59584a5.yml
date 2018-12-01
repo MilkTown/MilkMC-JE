@@ -1,0 +1,11 @@
+name: SOG
+uuid: 671e532f-0d9f-3303-955d-a4fff59584a5
+rewards:
+  hourly:
+    claim-time: 1531463127033
+  daily:
+    claim-time: 1531463123732
+  weekly:
+    claim-time: 1530965161502
+  monthly:
+    claim-time: 1529112750766

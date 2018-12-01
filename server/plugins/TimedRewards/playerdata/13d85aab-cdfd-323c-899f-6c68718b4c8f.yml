@@ -1,0 +1,11 @@
+name: Dog
+uuid: 13d85aab-cdfd-323c-899f-6c68718b4c8f
+rewards:
+  hourly:
+    claim-time: 1528117876335
+  daily:
+    claim-time: 1528117876335
+  weekly:
+    claim-time: 1528117876335
+  monthly:
+    claim-time: 1528117876335

@@ -1,0 +1,11 @@
+name: Guen
+uuid: f6ed5333-c693-3577-9dcf-86de17b7d487
+rewards:
+  hourly:
+    claim-time: 1529410411681
+  daily:
+    claim-time: 1529410408731
+  weekly:
+    claim-time: 1529410405729
+  monthly:
+    claim-time: 1529410401779

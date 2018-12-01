@@ -1,0 +1,11 @@
+name: AE86
+uuid: c859dbda-45f3-3b8a-a6f2-b4042891af08
+rewards:
+  hourly:
+    claim-time: 1526694754851
+  daily:
+    claim-time: 1526694750600
+  weekly:
+    claim-time: 1526694738743
+  monthly:
+    claim-time: 1526694731092

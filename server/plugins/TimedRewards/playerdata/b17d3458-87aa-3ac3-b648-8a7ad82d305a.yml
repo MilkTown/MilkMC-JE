@@ -1,0 +1,11 @@
+name: GreenGrass
+uuid: b17d3458-87aa-3ac3-b648-8a7ad82d305a
+rewards:
+  hourly:
+    claim-time: 1525490442096
+  daily:
+    claim-time: 1525490447100
+  weekly:
+    claim-time: 1524919597740
+  monthly:
+    claim-time: 1523787644348

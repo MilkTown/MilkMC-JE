@@ -1,0 +1,11 @@
+name: ROCKY
+uuid: 07c5c6ec-afa9-3929-b59f-b94cd16d6c7c
+rewards:
+  hourly:
+    claim-time: 1531596734955
+  daily:
+    claim-time: 1531596734956
+  weekly:
+    claim-time: 1531596734956
+  monthly:
+    claim-time: 1531596734956

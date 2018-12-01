@@ -1,0 +1,44 @@
+general:
+  level: 0
+  warpLocationX: 0
+  warpLocationY: 0
+  warpLocationZ: 0
+  warpActive: false
+  regionVersion: 13 zh_CN
+  schematicName: default
+  locked: false
+  warpYaw: 34.514774
+  warpPitch: 55.37062
+blocks:
+  leafBreaks: 0
+  hopperCount: 0
+version: 3
+log:
+- 1541313421546;The island has been created.
+- 1541313421384;The island has been created.
+- 1541308523170;§b{0}§d unlocked the island.;StanlyFAL
+- 1541307586408;§b{0}§d changed the island warp location.;StanlyFAL
+- 1541307564108;§b{0}§d locked the island.;StanlyFAL
+- 1541307310087;The island has been created.
+- 1541307309919;The island has been created.
+- 1541307139996;The island has been created.
+- 1541307139766;The island has been created.
+- 1541307047698;The island has been created.
+party:
+  leader: StanlyFAL
+  leader-uuid: 36e26128-41ab-392d-b695-0277c4bfd658
+  members:
+    36e26128-41ab-392d-b695-0277c4bfd658:
+      canChangeBiome: true
+      canToggleLock: true
+      canChangeWarp: true
+      canToggleWarp: true
+      canInviteOthers: true
+      canKickOthers: true
+      canBanOthers: true
+      name: StanlyFAL
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+  currentSize: 1

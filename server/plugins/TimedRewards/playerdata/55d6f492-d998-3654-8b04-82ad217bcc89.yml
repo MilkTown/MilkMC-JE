@@ -1,0 +1,11 @@
+name: xuan_han
+uuid: 55d6f492-d998-3654-8b04-82ad217bcc89
+rewards:
+  hourly:
+    claim-time: 1531635094560
+  daily:
+    claim-time: 1531635090605
+  weekly:
+    claim-time: 1531546023629
+  monthly:
+    claim-time: 1529218573075

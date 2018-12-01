@@ -1,0 +1,11 @@
+name: MedChai
+uuid: 0beb77d8-69f0-365f-bcfb-47280566cfb7
+rewards:
+  hourly:
+    claim-time: 1530761186546
+  daily:
+    claim-time: 1530746765235
+  weekly:
+    claim-time: 1530438331274
+  monthly:
+    claim-time: 1530438331274

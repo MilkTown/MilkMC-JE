@@ -1,0 +1,11 @@
+name: air
+uuid: af34c437-00f8-3017-a2c3-a4cb2365d104
+rewards:
+  hourly:
+    claim-time: 1523092749374
+  daily:
+    claim-time: 1523010888717
+  weekly:
+    claim-time: 1523010888717
+  monthly:
+    claim-time: 1523010888717

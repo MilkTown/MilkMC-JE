@@ -1,0 +1,11 @@
+name: hg111
+uuid: 116aa566-6011-31a1-b4ce-0c535450093a
+rewards:
+  hourly:
+    claim-time: 1541386468641
+  daily:
+    claim-time: 1541341410079
+  weekly:
+    claim-time: 1541341410079
+  monthly:
+    claim-time: 1541341410079

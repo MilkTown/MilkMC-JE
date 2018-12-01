@@ -1,0 +1,11 @@
+name: HIIGO
+uuid: 82766f23-06a0-375b-867f-9deb0cf5e4d0
+rewards:
+  hourly:
+    claim-time: 1527522330211
+  daily:
+    claim-time: 1527522333312
+  weekly:
+    claim-time: 1526983763302
+  monthly:
+    claim-time: 1526117873333

@@ -1,0 +1,11 @@
+name: BiuAS
+uuid: 0346313c-5a74-3889-8ad7-2013eaf3ce08
+rewards:
+  hourly:
+    claim-time: 1526803689456
+  daily:
+    claim-time: 1526803685306
+  weekly:
+    claim-time: 1526714412338
+  monthly:
+    claim-time: 1526017779097

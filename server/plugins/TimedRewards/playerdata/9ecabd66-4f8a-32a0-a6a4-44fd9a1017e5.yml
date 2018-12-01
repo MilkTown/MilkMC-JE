@@ -1,0 +1,11 @@
+name: STR_A
+uuid: 9ecabd66-4f8a-32a0-a6a4-44fd9a1017e5
+rewards:
+  hourly:
+    claim-time: 1531456077561
+  daily:
+    claim-time: 1531456077561
+  weekly:
+    claim-time: 1531456077561
+  monthly:
+    claim-time: 1531456077561

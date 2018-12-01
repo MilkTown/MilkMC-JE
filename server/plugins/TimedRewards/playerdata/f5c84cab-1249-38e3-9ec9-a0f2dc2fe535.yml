@@ -1,0 +1,11 @@
+name: Sandman
+uuid: f5c84cab-1249-38e3-9ec9-a0f2dc2fe535
+rewards:
+  hourly:
+    claim-time: 1526126561358
+  daily:
+    claim-time: 1526126561358
+  weekly:
+    claim-time: 1526126561358
+  monthly:
+    claim-time: 1526126561358

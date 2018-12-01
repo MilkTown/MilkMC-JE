@@ -1,0 +1,11 @@
+name: Rock
+uuid: 426d187c-ff09-321c-a0e1-00ffff49ea67
+rewards:
+  hourly:
+    claim-time: 1526092418671
+  daily:
+    claim-time: 1526092418671
+  weekly:
+    claim-time: 1526092418671
+  monthly:
+    claim-time: 1526092418671

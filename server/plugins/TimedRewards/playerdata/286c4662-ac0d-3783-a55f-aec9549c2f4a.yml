@@ -1,0 +1,11 @@
+name: AE66
+uuid: 286c4662-ac0d-3783-a55f-aec9549c2f4a
+rewards:
+  hourly:
+    claim-time: 1525691166648
+  daily:
+    claim-time: 1525615262020
+  weekly:
+    claim-time: 1525691177965
+  monthly:
+    claim-time: 1523781641512

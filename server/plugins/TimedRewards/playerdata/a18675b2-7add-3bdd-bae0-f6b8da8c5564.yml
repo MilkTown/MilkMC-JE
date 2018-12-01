@@ -1,0 +1,11 @@
+name: Yailay
+uuid: a18675b2-7add-3bdd-bae0-f6b8da8c5564
+rewards:
+  hourly:
+    claim-time: 1524486626951
+  daily:
+    claim-time: 1524486641296
+  weekly:
+    claim-time: 1524487251754
+  monthly:
+    claim-time: 1523797901919

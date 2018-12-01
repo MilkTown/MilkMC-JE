@@ -1,0 +1,15 @@
+
+amountRegex: '1,2,4,8,16,32,64'
+ignoreColoredDisplay: true
+
+iconsLore:
+- '&c左键单击 &6- 购买, &c右键单击&6 - 出售'
+- '&e出售价格: &a{buy_price}'
+- '&e收购价格: &c{sell_price}'
+
+extraIcon:
+  enable: true
+  slot: 53
+  id: iron_ingot
+  name: '&e改变交易数量'
+  lore: []

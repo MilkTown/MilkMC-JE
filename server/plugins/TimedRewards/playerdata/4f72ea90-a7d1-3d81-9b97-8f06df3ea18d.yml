@@ -1,0 +1,11 @@
+name: Xenon
+uuid: 4f72ea90-a7d1-3d81-9b97-8f06df3ea18d
+rewards:
+  hourly:
+    claim-time: 1531891370544
+  daily:
+    claim-time: 1531891366091
+  weekly:
+    claim-time: 1531891359140
+  monthly:
+    claim-time: 1530346112692

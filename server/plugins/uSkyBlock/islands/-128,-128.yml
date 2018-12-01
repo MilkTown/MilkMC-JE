@@ -1,0 +1,33 @@
+general:
+  level: 0
+  warpLocationX: 0
+  warpLocationY: 0
+  warpLocationZ: 0
+  warpActive: false
+  regionVersion: 13 zh_CN
+  schematicName: default
+blocks:
+  leafBreaks: 0
+  hopperCount: 0
+version: 3
+log:
+- 1541312606390;The island has been created.
+- 1541312606177;The island has been created.
+party:
+  leader: MIKUO
+  leader-uuid: 32532e80-b678-3432-8d65-6aa1b1659b6e
+  members:
+    32532e80-b678-3432-8d65-6aa1b1659b6e:
+      canChangeBiome: true
+      canToggleLock: true
+      canChangeWarp: true
+      canToggleWarp: true
+      canInviteOthers: true
+      canKickOthers: true
+      canBanOthers: true
+      name: MIKUO
+      maxAnimals: 48
+      maxMonsters: 50
+      maxVillagers: 16
+      maxGolems: 5
+  currentSize: 1

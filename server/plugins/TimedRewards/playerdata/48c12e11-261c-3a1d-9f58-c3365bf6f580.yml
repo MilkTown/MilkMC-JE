@@ -1,0 +1,11 @@
+name: '1025'
+uuid: 48c12e11-261c-3a1d-9f58-c3365bf6f580
+rewards:
+  hourly:
+    claim-time: 1532424248499
+  daily:
+    claim-time: 1532424252899
+  weekly:
+    claim-time: 1532101383102
+  monthly:
+    claim-time: 1530260924834

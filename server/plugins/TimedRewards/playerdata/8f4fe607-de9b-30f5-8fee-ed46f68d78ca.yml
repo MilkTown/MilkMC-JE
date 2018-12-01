@@ -1,0 +1,11 @@
+name: kiss
+uuid: 8f4fe607-de9b-30f5-8fee-ed46f68d78ca
+rewards:
+  hourly:
+    claim-time: 1526133195965
+  daily:
+    claim-time: 1526133206765
+  weekly:
+    claim-time: 1526133212211
+  monthly:
+    claim-time: 1524995703738

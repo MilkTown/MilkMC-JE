@@ -1,0 +1,11 @@
+name: FOVO
+uuid: 077ed2e7-8724-39ff-9fdf-7f1d15e9d406
+rewards:
+  hourly:
+    claim-time: 1526094674324
+  daily:
+    claim-time: 1526094674324
+  weekly:
+    claim-time: 1526094674324
+  monthly:
+    claim-time: 1526094674324

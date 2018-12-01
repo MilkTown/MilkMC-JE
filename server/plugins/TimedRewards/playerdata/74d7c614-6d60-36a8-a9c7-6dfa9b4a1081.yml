@@ -1,0 +1,11 @@
+name: Reaper
+uuid: 74d7c614-6d60-36a8-a9c7-6dfa9b4a1081
+rewards:
+  hourly:
+    claim-time: 1524917530481
+  daily:
+    claim-time: 1524917534892
+  weekly:
+    claim-time: 1524566349341
+  monthly:
+    claim-time: 1523705899074

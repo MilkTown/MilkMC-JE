@@ -1,0 +1,21 @@
+#This check will force players to refresh the server list before joining the server.
+#This will prevent players from using direct connections.
+RefreshCheck:
+
+  #Do you want to open this check?
+  enable: true
+  
+  #When the player is intercepted, what information will be prompted?
+  message: '请在加入服务器之前刷新服务器列表.'
+  
+  #Title set
+  title:
+    
+    #When detecting that the player has not refreshed, does it send the title to the OP?
+    enable: true
+    
+    #Main title
+    main_title: '§b[§aWatchCat§b]'
+    
+    #Sub title
+    sub_title: '玩家 %player% 在进入服务器之前没有刷新. 已被被禁止连接.'

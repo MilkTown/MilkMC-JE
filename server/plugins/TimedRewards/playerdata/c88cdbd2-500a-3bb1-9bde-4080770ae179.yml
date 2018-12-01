@@ -1,0 +1,11 @@
+name: Ender
+uuid: c88cdbd2-500a-3bb1-9bde-4080770ae179
+rewards:
+  hourly:
+    claim-time: 1524060065950
+  daily:
+    claim-time: 1524060065951
+  weekly:
+    claim-time: 1524060065951
+  monthly:
+    claim-time: 1524060065951

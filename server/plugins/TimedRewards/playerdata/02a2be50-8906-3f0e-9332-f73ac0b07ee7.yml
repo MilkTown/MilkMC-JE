@@ -1,0 +1,11 @@
+name: LZQ
+uuid: 02a2be50-8906-3f0e-9332-f73ac0b07ee7
+rewards:
+  hourly:
+    claim-time: 1526146042327
+  daily:
+    claim-time: 1526106987138
+  weekly:
+    claim-time: 1525971818491
+  monthly:
+    claim-time: 1526146032785

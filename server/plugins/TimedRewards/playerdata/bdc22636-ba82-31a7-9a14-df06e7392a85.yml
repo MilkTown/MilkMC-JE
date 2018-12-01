@@ -1,0 +1,11 @@
+name: sk10145
+uuid: bdc22636-ba82-31a7-9a14-df06e7392a85
+rewards:
+  hourly:
+    claim-time: 1543468281513
+  daily:
+    claim-time: 1543468275813
+  weekly:
+    claim-time: 1543468270813
+  monthly:
+    claim-time: 1541566718987

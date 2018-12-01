@@ -1,0 +1,11 @@
+name: Grasscraft
+uuid: 816e2903-dd3f-3324-b9f5-5d8aff16d2a9
+rewards:
+  hourly:
+    claim-time: 1530509188205
+  daily:
+    claim-time: 1530509192054
+  weekly:
+    claim-time: 1530509195555
+  monthly:
+    claim-time: 1530509199959

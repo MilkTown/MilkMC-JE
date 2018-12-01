@@ -1,0 +1,11 @@
+name: The_Lovely
+uuid: 08ce51e6-3f56-3c8a-bde5-78581ce7bfdc
+rewards:
+  hourly:
+    claim-time: 1532247114568
+  daily:
+    claim-time: 1532247118271
+  weekly:
+    claim-time: 1532010274080
+  monthly:
+    claim-time: 1532010274080

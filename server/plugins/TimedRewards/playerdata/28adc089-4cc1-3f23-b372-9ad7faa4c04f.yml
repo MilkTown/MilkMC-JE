@@ -1,0 +1,11 @@
+name: GhostShark
+uuid: 28adc089-4cc1-3f23-b372-9ad7faa4c04f
+rewards:
+  hourly:
+    claim-time: 0
+  daily:
+    claim-time: 0
+  weekly:
+    claim-time: 0
+  monthly:
+    claim-time: 0

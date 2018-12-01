@@ -1,0 +1,11 @@
+name: BL_007
+uuid: 71dcae88-80d9-3b91-9d1a-312e31ca45cd
+rewards:
+  hourly:
+    claim-time: 1532423654207
+  daily:
+    claim-time: 1532423650604
+  weekly:
+    claim-time: 1532306702678
+  monthly:
+    claim-time: 1532306698877
