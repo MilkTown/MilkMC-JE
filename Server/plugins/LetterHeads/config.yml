@@ -1,7 +1,0 @@
-# LetterHeads by Alexander Neuschl
-LetterHeads:
-  PricePerHead: 10
-  DropPlayerHeadOnDeath: false
-  LogPlayerHeads: false
-  MaxHeads: false
-  MaxAmount: 10

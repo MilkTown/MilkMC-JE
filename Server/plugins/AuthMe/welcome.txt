@@ -1,2 +1,0 @@
-欢迎 {PLAYER} 登陆 &bHailayCraft 服务器！
-

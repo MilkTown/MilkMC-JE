@@ -13,22 +13,15 @@
 config-version: 11
 commands:
   tab-complete: 0
-  log: true
+  log: false
   spam-exclusions:
   - /skill
-  silent-commandblock-console: false
+  silent-commandblock-console: true
   replace-commands:
   - setblock
   - summon
   - testforblock
   - tellraw
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 settings:
   save-user-cache-on-stop-only: false
   bungeecord: false
@@ -39,7 +32,7 @@ settings:
   user-cache-size: 1000
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
+  moved-too-quickly-multiplier: '20.0'
   item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
@@ -47,12 +40,19 @@ settings:
   netty-threads: 4
   attribute:
     maxHealth:
-      max: 2048.0
+      max: 2000000000
     movementSpeed:
-      max: 2048.0
+      max: 2000000000
     attackDamage:
-      max: 2048.0
+      max: 2000000000
   debug: false
+messages:
+  whitelist: 你没有加入服务器的白名单！请寻找腐竹求助。
+  unknown-command: 未知的命令，请输入"/help"寻找帮助。
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 advancements:
   disable-saving: false
   disabled:
@@ -63,6 +63,25 @@ stats:
 world-settings:
   default:
     verbose: true
+    random-light-updates: false
+    save-structure-info: false
+    dragon-death-sound-radius: 0
+    seed-village: 10387312
+    seed-feature: 14357617
+    seed-monument: 10387313
+    seed-slime: 987234911
+    hunger:
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: '6.0'
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: '0.0'
+    max-tnt-per-tick: 20
+    max-tick-time:
+      tile: 8
+      entity: 18
     mob-spawn-range: 4
     growth:
       cactus-modifier: 100
@@ -76,50 +95,35 @@ world-settings:
       vine-modifier: 100
       cocoa-modifier: 100
     entity-activation-range:
-      animals: 12
-      monsters: 24
+      animals: 10
+      monsters: 20
       misc: 2
+      tick-inactive-villagers: true
     entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 48
+      players: 40
+      animals: 40
+      monsters: 40
+      misc: 12
+      other: 32
     ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
+      hopper-transfer: 7
+      hopper-check: 7
     hopper-amount: 1
-    random-light-updates: false
-    save-structure-info: false
-    dragon-death-sound-radius: 0
-    seed-village: 10387312
-    seed-feature: 14357617
-    seed-monument: 10387313
-    seed-slime: 987234911
-    hunger:
-      jump-walk-exhaustion: 0.05
-      jump-sprint-exhaustion: 0.2
-      combat-exhaustion: 0.1
-      regen-exhaustion: 6.0
-      swim-multiplier: 0.01
-      sprint-multiplier: 0.1
-      other-multiplier: 0.0
-    max-tnt-per-tick: 20
-    max-tick-time:
-      tile: 10
-      entity: 20
     item-despawn-rate: 6000
     merge-radius:
-      item: 2.5
-      exp: 3.0
-    arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
+      item: 4.0
+      exp: '6.0'
+    arrow-despawn-rate: 120
+    enable-zombie-pigmen-portal-spawns: false
     wither-spawn-sound-radius: 0
-    view-distance: 10
+    view-distance: 5
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
-    max-entity-collisions: 2
-    chunks-per-tick: 150
+    max-entity-collisions: 8
+    squid-spawn-range:
+      min: 45.0
+    max-bulk-chunks: 15
+    chunks-per-tick: 400
 EscapeLag:
   Changed: 如果Config的AutoSet开启，该参数会被改变。
