@@ -1,0 +1,31 @@
+lastAccountName: Dawn
+timestamps:
+  login: 1541673775032
+  logout: 1541673992097
+  lastteleport: 1541592624497
+ipAddress: 223.146.113.116
+lastlocation:
+  world: world
+  x: -422.97742264929
+  y: 63.0
+  z: -2050.955443816489
+  yaw: 93.2652
+  pitch: 32.399822
+logoutlocation:
+  world: world
+  x: -2862.2685965532123
+  y: 71.0
+  z: -198.03665684870916
+  yaw: 272.91333
+  pitch: 44.42036
+homes:
+  home:
+    world: world
+    x: -421.87936363698446
+    y: 63.0
+    z: -2053.519427215808
+    yaw: 351.115
+    pitch: 7.049849
+mail:
+- §6[§rStanlyFAL§6] §r那棵大树就别砍了吧，感觉挺好看的
+afk: false

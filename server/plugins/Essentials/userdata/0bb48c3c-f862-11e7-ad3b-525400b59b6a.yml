@@ -1,0 +1,23 @@
+lastAccountName: XhuaiRLin
+timestamps:
+  login: 1516539754976
+  logout: 1516540279529
+  lastteleport: 1516346854418
+ipAddress: 223.73.198.198
+logoutlocation:
+  world: world
+  x: -124.59891176959192
+  y: 85.49139956778419
+  z: 167.29123917269266
+  yaw: 222.24469
+  pitch: 20.099977
+afk: false
+lastlocation:
+  world: zc
+  x: 16.914544981095055
+  y: 59.0
+  z: -4.701083100365288
+  yaw: 172.05005
+  pitch: -8.250001
+money: '90.0'
+godmode: true

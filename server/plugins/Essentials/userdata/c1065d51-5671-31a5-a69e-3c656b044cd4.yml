@@ -1,0 +1,28 @@
+lastAccountName: Nightamr
+timestamps:
+  login: 1523712520694
+  logout: 1523713264595
+  lastteleport: 1523712620124
+ipAddress: 117.179.177.237
+lastlocation:
+  world: spawn
+  x: 16.012665122913873
+  y: 59.0
+  z: -7.487082382124442
+  yaw: 161.55026
+  pitch: 27.149979
+logoutlocation:
+  world: world
+  x: 1501.4535179171362
+  y: 6.0
+  z: 1334.3408668497757
+  yaw: 181.3512
+  pitch: 31.500042
+homes:
+  home:
+    world: world
+    x: 1502.2232769831703
+    y: 6.0
+    z: 1336.699999988079
+    yaw: 90.45114
+    pitch: 28.200043

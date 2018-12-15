@@ -1,0 +1,44 @@
+lastAccountName: AE66
+timestamps:
+  login: 1525872587997
+  lastteleport: 1525693261065
+  logout: 1525873715463
+ipAddress: 125.119.222.194
+lastlocation:
+  world: world
+  x: -15266.501538092947
+  y: 69.0
+  z: -173.03758422234802
+  yaw: -103.208984
+  pitch: 17.510859
+homes:
+  home:
+    world: world
+    x: -15047.953320773202
+    y: 67.0
+    z: -307.30000001192093
+    yaw: -33.032654
+    pitch: 50.609932
+  b:
+    world: world
+    x: -3169.1741651371067
+    y: 81.0
+    z: -4105.403166976289
+    yaw: 197.23326
+    pitch: 62.283127
+  c:
+    world: world
+    x: -15056.699999988079
+    y: 34.0
+    z: -266.48148358637434
+    yaw: 171.27625
+    pitch: 19.479939
+logoutlocation:
+  world: world
+  x: -15037.547217875635
+  y: 64.0
+  z: -202.68301768400664
+  yaw: -80.98779
+  pitch: -0.49549785
+money: '35686.79999999999964'
+afk: false

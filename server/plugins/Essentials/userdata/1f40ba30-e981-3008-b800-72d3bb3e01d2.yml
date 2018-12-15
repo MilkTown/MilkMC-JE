@@ -1,0 +1,20 @@
+lastAccountName: clar
+timestamps:
+  login: 1502161195906
+  logout: 1502161555063
+ipAddress: 111.78.54.76
+lastlocation:
+  world: world
+  x: -177.35336482277404
+  y: 76.0
+  z: 174.3015558332121
+  yaw: 105.149506
+  pitch: 1.7642975E-6
+money: '100.0'
+logoutlocation:
+  world: zy
+  x: -277.85846250840694
+  y: 65.0
+  z: 220.21156104121872
+  yaw: 2.1003006
+  pitch: 7.6499352

@@ -1,0 +1,37 @@
+lastAccountName: Kiou
+timestamps:
+  login: 1532171008211
+  lastteleport: 1530596116883
+  logout: 1532171192448
+ipAddress: 36.106.190.162
+lastlocation:
+  world: world
+  x: -547.53085768172
+  y: 70.0
+  z: -51.975773438279376
+  yaw: -181.65076
+  pitch: 50.70001
+logoutlocation:
+  world: world
+  x: 6227.791378165974
+  y: 72.0
+  z: 6112.81590031388
+  yaw: 275.99255
+  pitch: 26.69992
+money: '21233.500000001'
+homes:
+  home2:
+    world: world_the_end
+    x: 4617.112265550818
+    y: 60.0
+    z: 1106.3696315536208
+    yaw: -334.94504
+    pitch: 3.8999002
+  home3:
+    world: resources
+    x: 823.3000000119209
+    y: 64.5625
+    z: 145.76235890711493
+    yaw: -74.00162
+    pitch: 41.54995
+afk: false

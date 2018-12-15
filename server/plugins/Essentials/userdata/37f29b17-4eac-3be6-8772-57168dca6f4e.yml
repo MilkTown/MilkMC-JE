@@ -1,0 +1,29 @@
+lastAccountName: niannian
+timestamps:
+  login: 1503503904746
+  logout: 1503505286378
+  lastteleport: 1503505199764
+ipAddress: 36.100.107.64
+lastlocation:
+  world: world
+  x: -180.5
+  y: 61.0
+  z: 173.5
+  yaw: -178.97955
+  pitch: 2.2500234
+logoutlocation:
+  world: zy
+  x: -375.5
+  y: 63.0
+  z: -26.5
+  yaw: -12.782379
+  pitch: 28.487085
+money: '6.0'
+homes:
+  home:
+    world: zy
+    x: -376.69999998807907
+    y: 62.0
+    z: -26.699999988079078
+    yaw: -223.92114
+    pitch: 71.546104

@@ -1,0 +1,31 @@
+lastAccountName: Polarbear
+timestamps:
+  login: 1542819153903
+  logout: 1542820387368
+  lastteleport: 1542819788980
+ipAddress: 114.240.133.173
+lastlocation:
+  world: world
+  x: -3548.300000011921
+  y: 70.0
+  z: 1488.922068487629
+  yaw: -23.551178
+  pitch: 6.449905
+logoutlocation:
+  world: world
+  x: 4137.471598392838
+  y: 67.0
+  z: 4285.363881419433
+  yaw: -221.62103
+  pitch: 42.62422
+afk: false
+homes:
+  home:
+    world: world
+    x: 4137.471598392838
+    y: 67.0
+    z: 4285.363881419433
+    yaw: -221.62103
+    pitch: 42.62422
+money: '70'
+godmode: false

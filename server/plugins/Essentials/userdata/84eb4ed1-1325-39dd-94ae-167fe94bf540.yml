@@ -1,0 +1,65 @@
+lastAccountName: Lystro
+timestamps:
+  login: 1531824362785
+  logout: 1531825381476
+  lastteleport: 1531824577350
+ipAddress: 120.2.100.105
+lastlocation:
+  world: world
+  x: 731.4424321061141
+  y: 65.0
+  z: 1758.300000011921
+  yaw: 180.74983
+  pitch: 6.8999834
+money: '44327.329015077783046'
+logoutlocation:
+  world: world_the_end
+  x: -3.3000000119209325
+  y: 30.0
+  z: 283.48406020634474
+  yaw: 268.77155
+  pitch: 19.049963
+homes:
+  a:
+    world: world
+    x: 856.8253069021939
+    y: 5.0
+    z: 5407.465447760398
+    yaw: -1.0892417
+    pitch: 25.649822
+  b:
+    world: world
+    x: 794.6999999880791
+    y: 21.0
+    z: 1580.699999988079
+    yaw: 351.45435
+    pitch: -54.750015
+  c:
+    world: world
+    x: -563.577205797251
+    y: 69.0
+    z: 656.7668513657661
+    yaw: 203.6997
+    pitch: 10.349937
+  d:
+    world: zy_nether
+    x: 1180.3765615448267
+    y: 67.0
+    z: 94.86078837170032
+    yaw: 178.5
+    pitch: 26.249989
+  e:
+    world: zy_nether
+    x: 1686.699999988079
+    y: 74.0
+    z: -569.6999999880791
+    yaw: 341.67847
+    pitch: 20.40009
+  f:
+    world: zy_the_end
+    x: -11.45385735145397
+    y: 101.0
+    z: -38.384719744074424
+    yaw: -105.89988
+    pitch: 82.65004
+afk: false

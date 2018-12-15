@@ -1,0 +1,30 @@
+lastAccountName: Q2159
+timestamps:
+  login: 1542675012099
+  lastteleport: 1542676865080
+  logout: 1542677635124
+ipAddress: 36.149.167.118
+lastlocation:
+  world: resources
+  x: 574.6999999880791
+  y: 23.0
+  z: 258.69999998807907
+  yaw: 208.79431
+  pitch: 90.0
+afk: false
+homes:
+  home:
+    world: resources
+    x: 562.1531264468105
+    y: 64.0
+    z: 328.2021084944784
+    yaw: 16.498962
+    pitch: 23.100002
+money: '3576.7'
+logoutlocation:
+  world: resources
+  x: 576.5799789419688
+  y: 69.0
+  z: 273.39351059686817
+  yaw: 315.1258
+  pitch: 18.899765

@@ -1,0 +1,22 @@
+lastAccountName: GTX1080TI
+timestamps:
+  login: 1521908876621
+  lastteleport: 1521908888772
+  logout: 1521908937751
+ipAddress: 59.50.165.192
+lastlocation:
+  world: world
+  x: -216.66971017701002
+  y: 80.0
+  z: 312.73878979441656
+  yaw: -174.75008
+  pitch: 6.000028
+money: '6100'
+afk: false
+logoutlocation:
+  world: zc
+  x: 17.077999269454626
+  y: 67.0
+  z: -38.279148797265826
+  yaw: 78.45
+  pitch: -0.74995345

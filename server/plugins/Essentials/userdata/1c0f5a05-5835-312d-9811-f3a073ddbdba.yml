@@ -1,0 +1,30 @@
+lastAccountName: FFF
+timestamps:
+  login: 1503537741614
+  logout: 1503538805894
+  lastteleport: 1502972890476
+ipAddress: 183.202.19.193
+lastlocation:
+  world: world
+  x: 147.85988585250425
+  y: 64.0
+  z: -2564.2250580943473
+  yaw: 110.69943
+  pitch: 29.249931
+logoutlocation:
+  world: world
+  x: 146.03948397926004
+  y: 64.0
+  z: -2569.9815557084303
+  yaw: 98.7001
+  pitch: 6.300075
+money: '0.34838124999994'
+afk: false
+homes:
+  home:
+    world: world
+    x: -465.3125006590666
+    y: 48.0
+    z: 295.5096996854038
+    yaw: 9.654083
+    pitch: 10.350149

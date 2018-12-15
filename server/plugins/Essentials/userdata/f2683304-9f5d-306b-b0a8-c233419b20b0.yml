@@ -1,0 +1,29 @@
+lastAccountName: Shrimp
+timestamps:
+  login: 1507118042506
+  lastteleport: 1507115065216
+  logout: 1507121482173
+ipAddress: 183.214.23.63
+lastlocation:
+  world: world
+  x: -185.30000001192093
+  y: 73.0
+  z: 172.58187298300143
+  yaw: 93.483376
+  pitch: 30.449997
+money: '4857.0'
+logoutlocation:
+  world: world
+  x: -14688.927642755534
+  y: 77.0
+  z: -61.62019286764096
+  yaw: 221.90431
+  pitch: 68.69973
+homes:
+  home:
+    world: world
+    x: -14688.867226549874
+    y: 77.0
+    z: -64.41511591732244
+    yaw: -8.49707
+    pitch: 20.999996

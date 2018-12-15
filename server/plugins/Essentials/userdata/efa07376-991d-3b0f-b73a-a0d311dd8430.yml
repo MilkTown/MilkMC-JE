@@ -1,0 +1,51 @@
+lastAccountName: FYJL
+timestamps:
+  login: 1519197528017
+  logout: 1519198007662
+  lastteleport: 1519037770319
+ipAddress: 117.82.126.242
+lastlocation:
+  world: world_nether
+  x: -471.2056766620386
+  y: 60.0
+  z: 234.69999998807907
+  yaw: -104.56999
+  pitch: 31.987623
+logoutlocation:
+  world: world
+  x: -3748.496457479841
+  y: 63.0
+  z: 1479.8500495172727
+  yaw: 0.4185791
+  pitch: 38.71886
+homes:
+  hcy1:
+    world: world
+    x: -16345.041755365348
+    y: 68.0
+    z: -1907.8902253593317
+    yaw: -174.79169
+    pitch: 11.882784
+  home:
+    world: world
+    x: -14882.784922749193
+    y: 73.0625
+    z: 300.666396717414
+    yaw: -140.14438
+    pitch: 18.240877
+  hcy2:
+    world: world
+    x: -3767.0456690401857
+    y: 63.0
+    z: 1498.6793158188734
+    yaw: -269.9588
+    pitch: 6.928156
+  hcy3:
+    world: world
+    x: -3788.5
+    y: 53.0
+    z: 1487.5
+    yaw: 293.24112
+    pitch: 9.712604
+money: '71582.7199999999999876'
+afk: false

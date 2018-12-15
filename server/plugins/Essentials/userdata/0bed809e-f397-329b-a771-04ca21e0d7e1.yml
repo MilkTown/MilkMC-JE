@@ -1,0 +1,57 @@
+lastAccountName: Dita
+timestamps:
+  login: 1527899304332
+  lastteleport: 1527898380502
+  logout: 1527928078801
+ipAddress: 115.60.87.166
+lastlocation:
+  world: world
+  x: 736.6999999880791
+  y: 120.0
+  z: -19667.330591669812
+  yaw: 13.147308
+  pitch: 13.200002
+logoutlocation:
+  world: world
+  x: 717.7026158001762
+  y: 131.0
+  z: -19660.299993704684
+  yaw: 134.62866
+  pitch: 0.0
+homes:
+  mega:
+    world: world
+    x: 653.7940411452171
+    y: 80.0
+    z: -17287.86852137056
+    yaw: 31.898935
+    pitch: 14.709907
+  fuel:
+    world: world_nether
+    x: 40.883037635708064
+    y: 32.0
+    z: -2321.585944288985
+    yaw: -86.45316
+    pitch: 16.050524
+  birch:
+    world: resources
+    x: 8185.083688231377
+    y: 69.0
+    z: 289.6930780480019
+    yaw: -90.15042
+    pitch: 15.449992
+  jungle:
+    world: resources
+    x: 24378.80645223638
+    y: 63.0
+    z: 516.5
+    yaw: -86.541985
+    pitch: 5.6963377
+  v:
+    world: world
+    x: 713.3680360115834
+    y: 131.0
+    z: -19655.73451516398
+    yaw: 176.35002
+    pitch: 41.09997
+afk: false

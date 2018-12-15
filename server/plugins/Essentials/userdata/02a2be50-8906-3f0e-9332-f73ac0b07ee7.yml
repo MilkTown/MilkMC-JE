@@ -1,0 +1,30 @@
+lastAccountName: LZQ
+timestamps:
+  login: 1526146000253
+  lastteleport: 1525711738645
+  logout: 1526146988041
+ipAddress: 183.24.97.92
+lastlocation:
+  world: world
+  x: -3283.3222803129274
+  y: 80.23152379758702
+  z: -4015.525243152323
+  yaw: -259.78662
+  pitch: 17.328636
+homes:
+  home:
+    world: world
+    x: -4894.457863237906
+    y: 69.0
+    z: 18193.074892915694
+    yaw: -151.79759
+    pitch: 11.999959
+logoutlocation:
+  world: world
+  x: -4038.5218790311037
+  y: 64.0
+  z: -4047.8316267832206
+  yaw: -245.40356
+  pitch: 4.3500023
+afk: false
+money: '31362.974999999999667'

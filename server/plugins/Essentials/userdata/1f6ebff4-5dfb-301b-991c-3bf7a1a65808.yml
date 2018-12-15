@@ -1,0 +1,44 @@
+lastAccountName: VWater_CowV
+timestamps:
+  login: 1531819441529
+  lastteleport: 1531819777281
+  logout: 1531819815213
+ipAddress: 171.222.80.87
+lastlocation:
+  world: world_the_end
+  x: 270.8950760473097
+  y: 11.0
+  z: 1.3992466018216065
+  yaw: -22.216064
+  pitch: 23.15772
+logoutlocation:
+  world: world
+  x: -1078.2755144198602
+  y: 72.0
+  z: -2240.6437813138105
+  yaw: 105.79562
+  pitch: 23.858105
+homes:
+  gk:
+    world: world
+    x: -1078.2737119380467
+    y: 72.0
+    z: -2238.6457726845747
+    yaw: 88.20836
+    pitch: 21.789013
+  bs:
+    world: world
+    x: -1227.39241649809
+    y: 63.0
+    z: -2545.2440865114636
+    yaw: 271.86905
+    pitch: 6.61572
+  lyr:
+    world: world_nether
+    x: 63.390137113307745
+    y: 77.0
+    z: -271.30000001192093
+    yaw: 161.96387
+    pitch: 25.386274
+afk: false
+money: '9817.30000000000005'

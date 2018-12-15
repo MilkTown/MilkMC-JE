@@ -1,0 +1,58 @@
+lastAccountName: You_at_play_me
+timestamps:
+  login: 1531190950801
+  lastteleport: 1531191025492
+  logout: 1531191110450
+ipAddress: 123.166.174.195
+lastlocation:
+  world: resources
+  x: 837.0619066595605
+  y: 73.0
+  z: 300.4789147501921
+  yaw: 134.20862
+  pitch: 17.395527
+logoutlocation:
+  world: resources
+  x: 842.3656735901297
+  y: 72.0
+  z: 301.0869734071322
+  yaw: -80.48602
+  pitch: 28.881975
+afk: false
+homes:
+  home:
+    world: world
+    x: -121.57367615436004
+    y: 23.0
+    z: -120.3000000119209
+    yaw: 191.63232
+    pitch: 18.152866
+  two:
+    world: world
+    x: -121.57367615436004
+    y: 23.0
+    z: -120.3000000119209
+    yaw: 191.63232
+    pitch: 18.152866
+  spawn:
+    world: world
+    x: -225.5
+    y: 64.0
+    z: 14.5
+    yaw: -88.951164
+    pitch: -0.300002
+  chest:
+    world: resources
+    x: 840.7948990262552
+    y: 72.0
+    z: 300.6205168026648
+    yaw: 340.75122
+    pitch: 16.158537
+  xiagu:
+    world: resources
+    x: 894.6926217356657
+    y: 19.0
+    z: 189.69999998807907
+    yaw: 110.012115
+    pitch: -8.556312
+money: '183.7'

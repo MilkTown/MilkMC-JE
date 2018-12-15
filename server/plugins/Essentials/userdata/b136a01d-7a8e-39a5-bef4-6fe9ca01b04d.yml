@@ -1,0 +1,30 @@
+lastAccountName: aWonderWorld
+timestamps:
+  login: 1523777316873
+  lastteleport: 1523779820553
+  logout: 1523780533725
+ipAddress: 125.120.20.64
+lastlocation:
+  world: world
+  x: -3868.31111029502
+  y: 64.0
+  z: 1536.7891154920828
+  yaw: 4.9465714
+  pitch: 39.150074
+money: '22.14'
+homes:
+  a:
+    world: resources
+    x: 2096.385518563514
+    y: 18.0
+    z: -1948.3548400636582
+    yaw: 179.54346
+    pitch: 24.300077
+logoutlocation:
+  world: world
+  x: -218.0
+  y: 71.0
+  z: 13.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false

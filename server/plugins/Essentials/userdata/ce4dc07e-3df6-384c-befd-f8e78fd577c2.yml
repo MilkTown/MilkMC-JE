@@ -1,0 +1,20 @@
+lastAccountName: GGball
+timestamps:
+  login: 1531114438896
+  logout: 1531114628800
+ipAddress: 183.226.78.22
+lastlocation:
+  world: world
+  x: -188.40099564517462
+  y: 79.0
+  z: 243.13211858046756
+  yaw: -359.10706
+  pitch: 14.400029
+logoutlocation:
+  world: world
+  x: -325.6049624862719
+  y: 64.0
+  z: -167.89776571623014
+  yaw: -190.79956
+  pitch: 8.700019
+money: '0'

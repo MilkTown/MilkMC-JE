@@ -1,0 +1,30 @@
+lastAccountName: sevenhead
+timestamps:
+  login: 1525709755871
+  logout: 1525714865270
+  lastteleport: 1525714858414
+ipAddress: 183.24.97.36
+lastlocation:
+  world: world
+  x: -3270.0743011654768
+  y: 91.0
+  z: -3984.056555586243
+  yaw: 127.41907
+  pitch: -17.992294
+logoutlocation:
+  world: world
+  x: -1390.5
+  y: 65.0
+  z: -663.5
+  yaw: -305.60272
+  pitch: 22.79995
+afk: false
+homes:
+  home:
+    world: world
+    x: -1419.764613637077
+    y: 64.0
+    z: -673.8932150668787
+    yaw: -96.35278
+    pitch: 38.999985
+money: '3853.4'

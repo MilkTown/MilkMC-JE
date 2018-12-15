@@ -1,0 +1,20 @@
+lastAccountName: UDOO
+timestamps:
+  login: 1524115108775
+  lastteleport: 1524115557134
+  logout: 1524115619969
+ipAddress: 58.255.230.159
+lastlocation:
+  world: resources
+  x: -149.5593715832591
+  y: 52.0
+  z: 167.0884757894263
+  yaw: -87.76072
+  pitch: -41.54999
+logoutlocation:
+  world: resources
+  x: 228.5
+  y: 69.0
+  z: 260.5
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,20 @@
+lastAccountName: zzz
+timestamps:
+  login: 1505654015814
+  logout: 1505654134753
+ipAddress: 110.84.165.250
+lastlocation:
+  world: world
+  x: -180.07367006594382
+  y: 76.0
+  z: 173.48296031175605
+  yaw: -89.15385
+  pitch: 1.6305984
+money: '95.0'
+logoutlocation:
+  world: world
+  x: -165.36430162832292
+  y: 78.0
+  z: 249.5585681042901
+  yaw: -89.60403
+  pitch: 37.800045

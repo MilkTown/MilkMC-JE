@@ -1,0 +1,20 @@
+lastAccountName: _Nameless
+timestamps:
+  login: 1522553559237
+  lastteleport: 1522554297373
+  logout: 1522554300178
+ipAddress: 27.200.205.17
+lastlocation:
+  world: resources
+  x: -104.5381518294278
+  y: 81.0
+  z: 100.2950776988232
+  yaw: -130.64587
+  pitch: 45.600002
+logoutlocation:
+  world: spawn
+  x: 16.5
+  y: 59.0
+  z: -4.5
+  yaw: 186.45024
+  pitch: -6.300026

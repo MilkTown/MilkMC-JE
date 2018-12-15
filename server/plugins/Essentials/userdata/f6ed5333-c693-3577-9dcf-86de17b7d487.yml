@@ -1,0 +1,65 @@
+lastAccountName: Guen
+timestamps:
+  login: 1529650419338
+  lastteleport: 1529411609533
+  logout: 1529650422646
+ipAddress: 218.19.99.199
+lastlocation:
+  world: world
+  x: -4113.228234455699
+  y: 64.0
+  z: 1491.855068388886
+  yaw: 193.04996
+  pitch: 34.5
+homes:
+  a:
+    world: world
+    x: -15021.893929240561
+    y: 63.0
+    z: -42.73182176003273
+    yaw: 94.395996
+    pitch: 13.050026
+  c:
+    world: world
+    x: 10062.613559151889
+    y: 64.0
+    z: 800.58800416437
+    yaw: 2.4702759
+    pitch: 22.050005
+  sand:
+    world: world
+    x: 10071.856216153135
+    y: 71.0
+    z: 2283.1043762043887
+    yaw: -178.29802
+    pitch: 23.400232
+  ae:
+    world: world
+    x: -15053.5
+    y: 66.0
+    z: -309.5
+    yaw: 180.34367
+    pitch: -1.0496835
+  ys:
+    world: world_nether
+    x: 1631.300000011921
+    y: 5.0
+    z: 132.69999998807907
+    yaw: 186.29799
+    pitch: 17.100082
+  b:
+    world: world
+    x: -15127.110896900074
+    y: 90.0
+    z: -201.47801823257083
+    yaw: 336.1481
+    pitch: 44.250008
+logoutlocation:
+  world: world
+  x: -184.33905049895452
+  y: 76.0
+  z: 29.75394270310592
+  yaw: -230.70102
+  pitch: -1.2000064
+money: '80961.74999999999357'
+afk: false

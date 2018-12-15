@@ -1,0 +1,30 @@
+lastAccountName: Amallwei
+timestamps:
+  login: 1517566995393
+  lastteleport: 1517454266315
+  logout: 1517567141510
+ipAddress: 27.29.224.132
+lastlocation:
+  world: zc
+  x: 4.823659612594913
+  y: 67.0
+  z: -48.958216971197515
+  yaw: 36.900276
+  pitch: 33.299915
+money: '1503.5474999999997902'
+logoutlocation:
+  world: world
+  x: -1382.9884243915806
+  y: 90.0
+  z: 2069.7945724672586
+  yaw: -167.86926
+  pitch: 19.050013
+homes:
+  home:
+    world: world
+    x: -1387.0932668415553
+    y: 87.24918707874468
+    z: 2070.9190162644236
+    yaw: -98.420044
+    pitch: 24.900002
+afk: false

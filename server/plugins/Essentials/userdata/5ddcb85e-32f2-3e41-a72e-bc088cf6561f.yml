@@ -1,0 +1,30 @@
+lastAccountName: Carter
+timestamps:
+  login: 1531716282933
+  logout: 1531716531648
+  lastteleport: 1531716301274
+ipAddress: 221.229.206.180
+lastlocation:
+  world: world
+  x: 2585.62649984676
+  y: 65.0
+  z: -795.5547975385477
+  yaw: 206.05086
+  pitch: 4.350004
+logoutlocation:
+  world: world
+  x: -125.40684005003135
+  y: 69.0
+  z: -118.92500001192093
+  yaw: 122.26076
+  pitch: 31.349985
+afk: false
+homes:
+  home:
+    world: world
+    x: -124.99029668681086
+    y: 69.0
+    z: -122.36239218068476
+    yaw: 64.8114
+    pitch: 13.9499035
+money: '290.0'

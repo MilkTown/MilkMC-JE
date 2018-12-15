@@ -1,0 +1,37 @@
+lastAccountName: Noctis
+timestamps:
+  login: 1532333425476
+  lastteleport: 1532309779834
+  logout: 1532333477069
+ipAddress: 123.65.106.112
+lastlocation:
+  world: world
+  x: 25.977913672543263
+  y: 63.0
+  z: -545.4363588679935
+  yaw: -48.450317
+  pitch: 18.44997
+money: '14594.412499999999044968'
+afk: false
+logoutlocation:
+  world: world
+  x: 2571.3166971425626
+  y: 66.0
+  z: -797.8296755647306
+  yaw: -338.90176
+  pitch: 10.649992
+homes:
+  home:
+    world: world
+    x: 552.7012325546381
+    y: 63.0
+    z: -626.3238969725483
+    yaw: -95.551025
+    pitch: 18.299965
+  z:
+    world: world
+    x: 101.45396371113937
+    y: 38.0
+    z: -595.4317164375736
+    yaw: -192.15576
+    pitch: 10.050027

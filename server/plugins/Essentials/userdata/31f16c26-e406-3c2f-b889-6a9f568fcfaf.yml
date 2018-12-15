@@ -1,0 +1,30 @@
+lastAccountName: Thors
+timestamps:
+  login: 1521870422441
+  logout: 1521871144788
+  lastteleport: 1521870730734
+ipAddress: 119.135.207.223
+lastlocation:
+  world: world
+  x: -2847.83100583
+  y: 107.0
+  z: -512.4576341713808
+  yaw: -53.699646
+  pitch: 39.749947
+logoutlocation:
+  world: world
+  x: -145.68471984333678
+  y: 56.0
+  z: -573.2875958910847
+  yaw: -71.902954
+  pitch: 23.549963
+money: '12661.87694852317478'
+afk: false
+homes:
+  home:
+    world: world
+    x: -149.0746916512474
+    y: 56.0
+    z: -574.4677604813589
+    yaw: -113.003914
+    pitch: 30.299957

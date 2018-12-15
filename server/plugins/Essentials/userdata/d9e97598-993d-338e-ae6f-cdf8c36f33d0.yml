@@ -1,0 +1,30 @@
+lastAccountName: TheJohan
+timestamps:
+  login: 1525788562408
+  logout: 1525789452132
+  lastteleport: 1525789310088
+ipAddress: 120.230.178.219
+logoutlocation:
+  world: world
+  x: -3429.0516787240936
+  y: 63.5
+  z: 655.8471342623221
+  yaw: -90.72418
+  pitch: 20.849915
+homes:
+  home:
+    world: world
+    x: -3424.4338280723555
+    y: 63.5
+    z: 665.4382038648109
+    yaw: -164.97437
+    pitch: 11.849849
+lastlocation:
+  world: world
+  x: -3421.699999988079
+  y: 66.0
+  z: 623.042649671607
+  yaw: -224.68475
+  pitch: -6.300008
+afk: false
+money: '7238.7'

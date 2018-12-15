@@ -1,0 +1,30 @@
+lastAccountName: HailayLuo
+timestamps:
+  login: 1505569722464
+  logout: 1505575227048
+  lastteleport: 1505573635658
+ipAddress: 223.192.19.37
+lastlocation:
+  world: world
+  x: -208.39760492160244
+  y: 74.0
+  z: 496.43836186462045
+  yaw: 215.26947
+  pitch: 24.899973
+money: '369.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -3692.7277749726586
+  y: 64.0
+  z: 1330.9417805023188
+  yaw: 25.183838
+  pitch: 1.3500115
+homes:
+  home:
+    world: world
+    x: -3696.526655839467
+    y: 64.0
+    z: 1322.6567214702713
+    yaw: 25.788513
+    pitch: 35.099983

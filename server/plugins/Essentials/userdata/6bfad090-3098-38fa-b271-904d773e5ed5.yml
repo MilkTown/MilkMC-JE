@@ -1,0 +1,51 @@
+lastAccountName: Element_Ray
+timestamps:
+  login: 1525257137487
+  lastteleport: 1524126883316
+  logout: 1525257856807
+ipAddress: 223.72.70.30
+lastlocation:
+  world: world
+  x: -812.597497854535
+  y: 111.5
+  z: -15.702830463337293
+  yaw: -232.66736
+  pitch: 49.66177
+logoutlocation:
+  world: world
+  x: -786.5269853251665
+  y: 62.0
+  z: -43.329234597059326
+  yaw: -4.8148804
+  pitch: -7.8071876
+money: '7508.2'
+afk: false
+homes:
+  home:
+    world: world
+    x: -828.8877273127772
+    y: 67.0
+    z: -58.610461054746665
+    yaw: -285.14368
+    pitch: 27.56091
+  fm:
+    world: world
+    x: -3722.6584313180438
+    y: 65.0
+    z: 1505.6126538276576
+    yaw: 268.49957
+    pitch: 28.26147
+  dy:
+    world: resources_nether
+    x: 195.83273052226812
+    y: 94.0
+    z: 107.94858110521763
+    yaw: -111.12695
+    pitch: 2.4082887
+  lll:
+    world: world
+    x: -1354.3800536038086
+    y: 83.0
+    z: 2149.5245137497122
+    yaw: -226.21309
+    pitch: 12.937822

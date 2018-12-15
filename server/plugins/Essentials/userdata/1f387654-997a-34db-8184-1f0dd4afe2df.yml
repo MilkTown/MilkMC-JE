@@ -1,0 +1,30 @@
+lastAccountName: fantastic_baby
+timestamps:
+  login: 1531131841774
+  lastteleport: 1531132194522
+  logout: 1531132280544
+ipAddress: 223.102.223.222
+lastlocation:
+  world: world
+  x: -11501.177576537795
+  y: 66.0
+  z: -1137.4209671058172
+  yaw: 58.64978
+  pitch: -17.54997
+logoutlocation:
+  world: world
+  x: -2417.4679333008266
+  y: 65.0
+  z: 3672.116625390999
+  yaw: 348.5914
+  pitch: 12.150015
+homes:
+  home:
+    world: world
+    x: -266.0966197138331
+    y: 69.0
+    z: 144.37566237479126
+    yaw: -172.53986
+    pitch: 6.7500167
+afk: false
+money: '1883.5'

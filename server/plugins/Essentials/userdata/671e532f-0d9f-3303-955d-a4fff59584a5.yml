@@ -1,0 +1,30 @@
+lastAccountName: SOG
+timestamps:
+  login: 1531559720183
+  lastteleport: 1531463373056
+  logout: 1531560093726
+ipAddress: 111.14.98.241
+lastlocation:
+  world: world
+  x: 38.4020679945563
+  y: 74.0
+  z: -746.9250000119209
+  yaw: 188.82979
+  pitch: 14.699974
+money: '7234.4'
+logoutlocation:
+  world: world
+  x: -9.358268272357826
+  y: 70.0
+  z: -739.3474579313856
+  yaw: 241.63367
+  pitch: 18.899988
+afk: false
+homes:
+  home:
+    world: world
+    x: 13.026215784767121
+    y: 70.0
+    z: -686.1420409578823
+    yaw: 280.02954
+    pitch: 34.499996

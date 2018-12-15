@@ -1,0 +1,22 @@
+lastAccountName: zyk
+timestamps:
+  login: 1526989848303
+  lastteleport: 1526736982544
+  logout: 1526990117305
+ipAddress: 183.250.166.228
+lastlocation:
+  world: world
+  x: -208.56103241101172
+  y: 64.0
+  z: 20.053521720891602
+  yaw: -70.95117
+  pitch: 19.349981
+logoutlocation:
+  world: resources
+  x: 1197.44278210272
+  y: 67.0
+  z: 934.5106936847275
+  yaw: 236.31726
+  pitch: 44.099983
+afk: false
+money: '250'

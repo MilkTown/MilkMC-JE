@@ -1,0 +1,44 @@
+lastAccountName: Reaper
+timestamps:
+  login: 1525063470780
+  lastteleport: 1525064393225
+  logout: 1525064410679
+ipAddress: 111.18.44.166
+lastlocation:
+  world: world
+  x: 12395.234505043149
+  y: 74.0
+  z: 963.2811616481933
+  yaw: 38.266716
+  pitch: 13.650072
+logoutlocation:
+  world: world
+  x: 12288.699999988079
+  y: 46.0625
+  z: 1022.4587238560284
+  yaw: 14.675358
+  pitch: 18.600016
+money: '4440.3'
+homes:
+  home:
+    world: world
+    x: 12283.98929860615
+    y: 70.0625
+    z: 1027.068121241419
+    yaw: 292.35013
+    pitch: 18.15003
+  zf:
+    world: world
+    x: 12286.778284939564
+    y: 46.0625
+    z: 1023.1164805068695
+    yaw: -9.924606
+    pitch: 23.400013
+  js:
+    world: world
+    x: 12330.476506038507
+    y: 72.0
+    z: 922.3000000119209
+    yaw: -58.824894
+    pitch: 22.049978
+afk: false

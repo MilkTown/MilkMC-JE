@@ -1,0 +1,21 @@
+lastAccountName: woshiWIN10
+timestamps:
+  login: 1517915851592
+  logout: 1517908181475
+  lastteleport: 1517907030455
+ipAddress: 115.153.163.96
+lastlocation:
+  world: world
+  x: -3807.544941992231
+  y: 63.0
+  z: 1491.7217468712
+  yaw: -352.22766
+  pitch: 75.600006
+logoutlocation:
+  world: world
+  x: -40.96374073876638
+  y: 63.0
+  z: 102.69999998807909
+  yaw: 290.9096
+  pitch: 6.000043
+money: '100.0'

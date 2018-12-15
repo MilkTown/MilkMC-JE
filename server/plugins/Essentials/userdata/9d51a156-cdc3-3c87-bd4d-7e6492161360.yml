@@ -1,0 +1,65 @@
+lastAccountName: hei777
+timestamps:
+  login: 1541315475888
+  logout: 1541319469544
+  lastteleport: 1541319426926
+ipAddress: 183.211.98.106
+logoutlocation:
+  world: world
+  x: -1378.699999988079
+  y: 106.5
+  z: 2021.841524267491
+  yaw: 96.14993
+  pitch: 25.049997
+lastlocation:
+  world: world
+  x: -1374.5
+  y: 104.5
+  z: 2034.5
+  yaw: 74.55
+  pitch: 3.3
+afk: false
+homes:
+  a:
+    world: world
+    x: -55.977733550876835
+    y: 85.0
+    z: 6.370600796105454
+    yaw: 54.299866
+    pitch: 70.65002
+  cm:
+    world: world
+    x: 877.0380049708475
+    y: 68.0
+    z: -259.27371232695396
+    yaw: 322.09555
+    pitch: 16.350006
+  xb:
+    world: world
+    x: -14755.574329629906
+    y: 86.0625
+    z: 1.1095286072371806
+    yaw: 58.170204
+    pitch: 0.600011
+  md:
+    world: world_the_end
+    x: 7415.036429525499
+    y: 109.0
+    z: 3661.8188724233996
+    yaw: -5.2348747
+    pitch: 21.17978
+  dy:
+    world: world_nether
+    x: -1092.300000011921
+    y: 60.0
+    z: -334.61419358240164
+    yaw: -256.06073
+    pitch: 7.650019
+  hdsd:
+    world: world
+    x: 19666.69999998808
+    y: 48.5
+    z: 20223.69999998808
+    yaw: 103.88144
+    pitch: 23.399986
+money: '23238.3879999999999999'

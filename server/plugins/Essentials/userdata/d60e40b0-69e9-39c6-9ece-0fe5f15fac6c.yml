@@ -1,0 +1,30 @@
+lastAccountName: Ender_jarman_von
+timestamps:
+  login: 1532419573159
+  logout: 1532422604442
+  lastteleport: 1532421550571
+ipAddress: 123.65.71.5
+logoutlocation:
+  world: world
+  x: -2370.934201492457
+  y: 66.5
+  z: 3548.1821141366086
+  yaw: 251.7225
+  pitch: 11.400009
+lastlocation:
+  world: world
+  x: -222.470484965248
+  y: 71.0
+  z: 108.09718656475883
+  yaw: 92.250206
+  pitch: 5.850079
+homes:
+  home:
+    world: world_the_end
+    x: 47.305445775056135
+    y: 64.0
+    z: 50.44983356217767
+    yaw: 161.85083
+    pitch: 26.699978
+money: '6316.90000000000003'
+afk: false

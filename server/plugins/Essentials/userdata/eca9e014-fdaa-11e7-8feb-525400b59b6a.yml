@@ -1,0 +1,30 @@
+lastAccountName: Defiger
+timestamps:
+  login: 1517024445933
+  logout: 1517028111095
+  lastteleport: 1517028020338
+ipAddress: 112.94.97.62
+lastlocation:
+  world: world
+  x: -14317.7737405519
+  y: 210.0
+  z: 334.382310863431
+  yaw: 92.321045
+  pitch: 22.949667
+logoutlocation:
+  world: world
+  x: -14345.540802461272
+  y: 186.0
+  z: 330.5822530739744
+  yaw: 356.91577
+  pitch: 38.550037
+money: '100.0'
+homes:
+  home:
+    world: world
+    x: -14345.786032441414
+    y: 186.0
+    z: 330.5
+    yaw: 170.76562
+    pitch: 33.150036
+afk: false

@@ -1,0 +1,21 @@
+lastAccountName: huliguan
+timestamps:
+  login: 1503808728858
+  logout: 1503808760898
+  lastteleport: 1503558902382
+ipAddress: 123.138.168.247
+lastlocation:
+  world: zy
+  x: -264.20829919780243
+  y: 71.0
+  z: 218.14083894819296
+  yaw: -173.54982
+  pitch: 31.499968
+money: '100.0'
+logoutlocation:
+  world: zy
+  x: -325.09056732109485
+  y: 11.0
+  z: 132.37620689659033
+  yaw: -61.799408
+  pitch: -44.550014

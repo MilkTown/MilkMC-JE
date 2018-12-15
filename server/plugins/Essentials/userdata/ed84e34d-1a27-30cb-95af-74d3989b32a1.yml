@@ -1,0 +1,29 @@
+lastAccountName: zhan_mr
+timestamps:
+  login: 1527502893166
+  lastteleport: 1523795020703
+  logout: 1527503021483
+ipAddress: 120.43.172.236
+lastlocation:
+  world: resources
+  x: -3.8284379394624146
+  y: 31.0
+  z: 21.995820333491306
+  yaw: 137.8505
+  pitch: 61.35
+afk: false
+homes:
+  home:
+    world: spawn
+    x: 16.75506004060066
+    y: 59.0
+    z: -6.221078227332135
+    yaw: 179.85048
+    pitch: 7.4999914
+logoutlocation:
+  world: resources
+  x: 614.7300874046277
+  y: 68.0
+  z: 331.33719203865996
+  yaw: 32.550537
+  pitch: 14.099909

@@ -1,0 +1,28 @@
+lastAccountName: Reful
+timestamps:
+  login: 1541514956912
+  lastteleport: 1541517485607
+  logout: 1541519274288
+ipAddress: 106.47.106.153
+lastlocation:
+  world: world
+  x: 4069.277386971794
+  y: 66.0
+  z: 3947.2505497181774
+  yaw: 190.37221
+  pitch: 16.90133
+homes:
+  home:
+    world: world
+    x: 4131.9957207892085
+    y: 67.0
+    z: 4287.283134412324
+    yaw: 128.50012
+    pitch: 16.948923
+logoutlocation:
+  world: world
+  x: -234.40739560001538
+  y: 60.0
+  z: 465.2007076400306
+  yaw: 215.49878
+  pitch: 19.815546

@@ -1,0 +1,22 @@
+lastAccountName: cool
+timestamps:
+  login: 1516513343243
+  lastteleport: 1516466168236
+  logout: 1516514041382
+ipAddress: 42.49.223.186
+lastlocation:
+  world: world
+  x: -180.20823411206422
+  y: 71.0
+  z: 173.55234641125816
+  yaw: 270.63324
+  pitch: 1.2000134
+money: '116.69999999999999'
+logoutlocation:
+  world: world
+  x: -3689.810026936436
+  y: 72.0
+  z: 1482.3961247112197
+  yaw: 109.24646
+  pitch: -2.5320325
+afk: false

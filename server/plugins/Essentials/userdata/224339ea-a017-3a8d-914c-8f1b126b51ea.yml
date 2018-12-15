@@ -1,0 +1,29 @@
+lastAccountName: mcQIME
+timestamps:
+  login: 1532006078385
+  lastteleport: 1530851403518
+  logout: 1532006106642
+ipAddress: 117.13.157.55
+lastlocation:
+  world: resources
+  x: 894.7065616606179
+  y: 64.0
+  z: 227.12672779655855
+  yaw: -85.95
+  pitch: 14.8499975
+logoutlocation:
+  world: world
+  x: 2547.725043606612
+  y: 68.875
+  z: -814.8769209215357
+  yaw: -65.75199
+  pitch: 9.600015
+homes:
+  home:
+    world: resources
+    x: 824.7695206072023
+    y: 64.0
+    z: 147.5976895225915
+    yaw: -358.84717
+    pitch: 24.599998
+money: '5364.69999999899999'

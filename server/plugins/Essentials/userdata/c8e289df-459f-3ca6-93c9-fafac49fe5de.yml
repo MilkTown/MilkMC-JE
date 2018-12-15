@@ -1,0 +1,21 @@
+lastAccountName: xihe
+timestamps:
+  login: 1526700427025
+  logout: 1526702292797
+  lastteleport: 1526699569562
+ipAddress: 223.73.119.163
+logoutlocation:
+  world: world
+  x: -4078.699999988078
+  y: 63.0
+  z: 1280.237500011921
+  yaw: -43.956055
+  pitch: 15.749993
+lastlocation:
+  world: world
+  x: -3697.871571971866
+  y: 64.0
+  z: 1571.4554299946133
+  yaw: -267.9012
+  pitch: -0.14999597
+afk: false

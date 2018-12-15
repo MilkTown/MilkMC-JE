@@ -1,0 +1,29 @@
+lastAccountName: mine
+timestamps:
+  login: 1531110849468
+  lastteleport: 1531119975922
+  logout: 1531120813080
+ipAddress: 223.102.214.11
+lastlocation:
+  world: world
+  x: -263.77913178125664
+  y: 69.0
+  z: 151.9059090648784
+  yaw: 331.52478
+  pitch: 7.049999
+logoutlocation:
+  world: world
+  x: -247.2997116943288
+  y: 72.0
+  z: 180.4986007110718
+  yaw: 168.89925
+  pitch: 15.8999195
+money: '106.8'
+homes:
+  home:
+    world: world
+    x: -236.86165996730972
+    y: 69.0
+    z: 158.26261214695205
+    yaw: 157.91016
+    pitch: 15.750013

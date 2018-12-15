@@ -1,0 +1,22 @@
+lastAccountName: lonely_beat
+timestamps:
+  login: 1519820820920
+  logout: 1519820854338
+  lastteleport: 1519023200616
+ipAddress: 111.2.137.205
+lastlocation:
+  world: world
+  x: -80.11449521056525
+  y: 67.0
+  z: 145.9528027635034
+  yaw: -303.44943
+  pitch: 22.65005
+money: '2537.2324999999999229'
+logoutlocation:
+  world: world
+  x: -79.08925386632681
+  y: 67.875
+  z: 144.60948337381407
+  yaw: -169.80072
+  pitch: 39.750042
+afk: false

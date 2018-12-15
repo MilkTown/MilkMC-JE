@@ -1,0 +1,22 @@
+lastAccountName: Angelina
+timestamps:
+  login: 1532191677487
+  lastteleport: 1532182226759
+  logout: 1532191678660
+ipAddress: 61.48.31.80
+lastlocation:
+  world: world
+  x: -87.41949071608568
+  y: 67.0
+  z: 2016.3041620216402
+  yaw: -52.9469
+  pitch: 12.4499855
+logoutlocation:
+  world: world
+  x: 140.5
+  y: 64.0
+  z: 2214.5
+  yaw: -152.40009
+  pitch: 22.349977
+money: '8117.2'
+afk: false

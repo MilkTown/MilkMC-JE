@@ -1,0 +1,30 @@
+lastAccountName: two_yi
+timestamps:
+  login: 1517400883166
+  lastteleport: 1517404613343
+  logout: 1517404631311
+ipAddress: 122.141.178.135
+lastlocation:
+  world: world
+  x: -1310.6749277804047
+  y: 65.5
+  z: 2107.525518570571
+  yaw: 17.650257
+  pitch: 11.400116
+money: '118.5'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1381.7965690163257
+    y: 86.0
+    z: 2070.3614811037646
+    yaw: -182.45145
+    pitch: -5.5499015
+logoutlocation:
+  world: world
+  x: -1382.699999988079
+  y: 86.0
+  z: 2074.266148826851
+  yaw: 12.998525
+  pitch: 18.150097

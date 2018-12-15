@@ -1,0 +1,20 @@
+lastAccountName: Fanjian
+timestamps:
+  login: 1522559536684
+  lastteleport: 1522559814567
+  logout: 1522559825374
+ipAddress: 60.180.8.42
+lastlocation:
+  world: spawn
+  x: 2.76588542855331
+  y: 60.5
+  z: 0.43928517713257187
+  yaw: -120.32203
+  pitch: 5.619329
+logoutlocation:
+  world: spawn
+  x: 17.590109876313367
+  y: 59.0
+  z: 3.104616507741622
+  yaw: 294.662
+  pitch: 34.19188

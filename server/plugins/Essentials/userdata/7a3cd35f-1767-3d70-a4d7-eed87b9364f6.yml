@@ -1,0 +1,22 @@
+lastAccountName: 404Notfounder
+timestamps:
+  login: 1531618397594
+  lastteleport: 1531572346028
+  logout: 1531619929982
+ipAddress: 123.65.232.88
+lastlocation:
+  world: resources
+  x: 591.4335814537075
+  y: 67.0
+  z: 255.16503918507402
+  yaw: -19.499847
+  pitch: 2.0999334
+afk: false
+logoutlocation:
+  world: world
+  x: -46.173336397093024
+  y: 63.0
+  z: -104.066035989974
+  yaw: -60.035156
+  pitch: 53.999977
+money: '1336.9'

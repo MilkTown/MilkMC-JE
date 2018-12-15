@@ -1,0 +1,20 @@
+lastAccountName: ZERO
+timestamps:
+  login: 1523803663453
+  logout: 1523804922872
+  lastteleport: 1523804859581
+ipAddress: 112.11.40.16
+lastlocation:
+  world: world
+  x: -15044.553976256106
+  y: 1.0
+  z: -301.4736211350764
+  yaw: 144.90161
+  pitch: -13.05
+logoutlocation:
+  world: world
+  x: -153.72043285696535
+  y: 70.0
+  z: 21.9638828801775
+  yaw: -80.55124
+  pitch: 6.0000067

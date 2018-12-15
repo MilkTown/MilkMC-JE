@@ -1,0 +1,30 @@
+lastAccountName: Miu_
+timestamps:
+  login: 1531889968281
+  lastteleport: 1531898380118
+  logout: 1531898810824
+ipAddress: 59.47.37.14
+lastlocation:
+  world: world
+  x: 2555.5052057729963
+  y: 66.0
+  z: -818.3355357624669
+  yaw: -35.451538
+  pitch: 32.549984
+money: '125642.1999068556835685'
+logoutlocation:
+  world: world
+  x: -2566.0229077534887
+  y: 125.16248441704195
+  z: 628.300371802036
+  yaw: 260.96722
+  pitch: 38.700054
+homes:
+  home:
+    world: world
+    x: -2287.166208868094
+    y: 65.11959582118013
+    z: 3880.682270433515
+    yaw: 255.31544
+    pitch: 58.55581
+afk: false

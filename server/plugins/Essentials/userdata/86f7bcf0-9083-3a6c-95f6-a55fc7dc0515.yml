@@ -1,0 +1,20 @@
+lastAccountName: Spirit
+timestamps:
+  login: 1529118484464
+  logout: 1529119864449
+  lastteleport: 1529119143300
+ipAddress: 1.56.246.132
+lastlocation:
+  world: world
+  x: -333.79571133935383
+  y: 64.0
+  z: -356.83733910686334
+  yaw: -2.7019653
+  pitch: 27.749962
+logoutlocation:
+  world: world
+  x: -225.36706876682035
+  y: 64.0625
+  z: 14.390005902505456
+  yaw: -89.10118
+  pitch: 2.9999897

@@ -1,0 +1,20 @@
+lastAccountName: Lacey
+timestamps:
+  login: 1518496518959
+  logout: 1518496535367
+  lastteleport: 1518495192171
+ipAddress: 120.239.75.216
+lastlocation:
+  world: zc
+  x: 18.497914852278008
+  y: 59.0
+  z: -4.982738171909209
+  yaw: 179.99982
+  pitch: 80.54996
+logoutlocation:
+  world: zc
+  x: 16.933235706124247
+  y: 60.0
+  z: 6.519272484975208
+  yaw: 163.49991
+  pitch: 28.05001

@@ -1,0 +1,43 @@
+lastAccountName: Mcideln
+timestamps:
+  login: 1518612142830
+  logout: 1518616589215
+  lastteleport: 1518613544295
+ipAddress: 27.186.173.199
+lastlocation:
+  world: world_nether
+  x: -1381.5472584135423
+  y: 67.0
+  z: -71.19204112281425
+  yaw: 124.56348
+  pitch: 90.0
+money: '1631.8'
+logoutlocation:
+  world: world_nether
+  x: -1372.0024815443492
+  y: 72.0
+  z: -48.21254410927691
+  yaw: -173.70016
+  pitch: 23.250032
+homes:
+  home:
+    world: zy
+    x: 107.22602887131565
+    y: 64.0
+    z: 350.597209628709
+    yaw: 353.81134
+    pitch: 23.699987
+  a:
+    world: world
+    x: -14753.999821356309
+    y: 64.0
+    z: 36.82935797259407
+    yaw: 288.1443
+    pitch: 26.85
+  b:
+    world: world
+    x: -14744.690460095126
+    y: 64.0
+    z: 38.30000001192093
+    yaw: -22.38013
+    pitch: 58.04999

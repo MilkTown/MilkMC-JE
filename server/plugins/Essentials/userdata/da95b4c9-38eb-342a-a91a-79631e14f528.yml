@@ -1,0 +1,21 @@
+logoutlocation:
+  world: world
+  x: 879.2681860326022
+  y: 70.0
+  z: -2022.9861807715256
+  yaw: 277.31616
+  pitch: 19.649939
+timestamps:
+  logout: 1502439135044
+  login: 1502437766377
+  lastteleport: 1502438819197
+lastAccountName: bruce0422
+ipAddress: 36.224.241.229
+lastlocation:
+  world: world
+  x: 833.5129267578542
+  y: 22.0
+  z: -2030.0788117621955
+  yaw: 108.41696
+  pitch: 28.649897
+money: '100.0'

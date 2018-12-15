@@ -1,0 +1,30 @@
+lastAccountName: air
+timestamps:
+  login: 1523092669243
+  lastteleport: 1523096632571
+  logout: 1523096656527
+ipAddress: 220.170.126.92
+lastlocation:
+  world: world
+  x: -111.62075706319503
+  y: 86.0
+  z: -91.94405362844905
+  yaw: 172.19952
+  pitch: 18.749842
+money: '4386.685'
+homes:
+  home:
+    world: resources
+    x: 2424.2845509162935
+    y: 64.0
+    z: 689.3086033023459
+    yaw: 73.80004
+    pitch: 10.04999
+afk: false
+logoutlocation:
+  world: world
+  x: -3724.537321841684
+  y: 63.0
+  z: 1539.6525786840205
+  yaw: -112.50116
+  pitch: -4.1999855

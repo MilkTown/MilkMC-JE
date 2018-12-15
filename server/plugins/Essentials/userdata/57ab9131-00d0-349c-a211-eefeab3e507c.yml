@@ -1,0 +1,30 @@
+lastAccountName: zky
+timestamps:
+  login: 1527256519119
+  lastteleport: 1527259844295
+  logout: 1527259967018
+ipAddress: 183.251.92.87
+lastlocation:
+  world: world
+  x: -3905.1198652534563
+  y: 65.17675927506424
+  z: 1468.5693951934677
+  yaw: -261.1494
+  pitch: 30.750008
+money: '1387.7'
+logoutlocation:
+  world: resources
+  x: 1203.4588021544687
+  y: 65.0
+  z: 895.6371136244936
+  yaw: -35.85
+  pitch: -0.6
+homes:
+  home:
+    world: resources
+    x: 1199.9785411734915
+    y: 65.0
+    z: 892.764957672356
+    yaw: 302.30603
+    pitch: 32.100086
+afk: false

@@ -1,0 +1,29 @@
+lastAccountName: xiaoxingGG
+timestamps:
+  login: 1526643407423
+  logout: 1526643425192
+  lastteleport: 1526636460830
+ipAddress: 61.52.47.66
+lastlocation:
+  world: world
+  x: -196.12886516004488
+  y: 68.0
+  z: 5.300000011920929
+  yaw: 96.59881
+  pitch: 18.000015
+logoutlocation:
+  world: world
+  x: 2808.2782236511925
+  y: 27.0
+  z: -2904.9193002603647
+  yaw: 246.1624
+  pitch: 18.449924
+money: '11360.2'
+homes:
+  home:
+    world: world
+    x: -739.9668746061407
+    y: 67.0
+    z: 323.67204684839146
+    yaw: 1.1665039
+    pitch: 21.899986

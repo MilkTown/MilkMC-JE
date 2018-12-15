@@ -1,0 +1,22 @@
+lastAccountName: banshouren
+timestamps:
+  login: 1528034112775
+  logout: 1528034142636
+  lastteleport: 1527598366775
+ipAddress: 120.210.179.144
+lastlocation:
+  world: world
+  x: -2225.907794796599
+  y: 61.0
+  z: -462.732787152025
+  yaw: -310.65
+  pitch: -28.349998
+logoutlocation:
+  world: world
+  x: -2207.7228940527116
+  y: 70.0
+  z: -455.6702908151071
+  yaw: 53.54939
+  pitch: 4.1999846
+money: '4662.299999999999299'
+afk: false

@@ -1,0 +1,37 @@
+lastAccountName: poi_0608
+timestamps:
+  login: 1526107960906
+  logout: 1526108128646
+  lastteleport: 1521376688234
+ipAddress: 36.149.88.77
+lastlocation:
+  world: world
+  x: -3121.9485164494827
+  y: 69.0
+  z: 1592.2401257846516
+  yaw: -303.5307
+  pitch: -5.8498774
+logoutlocation:
+  world: world
+  x: -217.5
+  y: 71.0
+  z: 13.5
+  yaw: 39.148804
+  pitch: -24.599995
+money: '16969.4957952758493'
+homes:
+  a:
+    world: activity
+    x: -182.74266065700033
+    y: 70.0
+    z: 721.8082414060991
+    yaw: 20.550598
+    pitch: 21.749964
+  b:
+    world: world
+    x: -3002.788047269637
+    y: 64.0
+    z: 1604.0662808286145
+    yaw: -18.53084
+    pitch: 22.050055
+afk: false

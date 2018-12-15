@@ -1,0 +1,37 @@
+lastAccountName: Chiya_Sama
+timestamps:
+  login: 1529322181840
+  lastteleport: 1529323483444
+  logout: 1529323584256
+ipAddress: 113.101.32.241
+lastlocation:
+  world: world
+  x: 2015.0508184553
+  y: 72.0
+  z: 2429.2604914676554
+  yaw: 86.81547
+  pitch: 9.537529
+afk: false
+homes:
+  zyd:
+    world: resources
+    x: -776.5
+    y: 64.0
+    z: 460.5
+    yaw: -174.79639
+    pitch: 16.798597
+  jia:
+    world: world
+    x: 2015.8880949099012
+    y: 72.0
+    z: 2428.6941043192633
+    yaw: 179.55096
+    pitch: 9.126288
+money: '126.7'
+logoutlocation:
+  world: resources
+  x: -778.6999999880791
+  y: 65.0
+  z: 451.30000001192093
+  yaw: -219.50262
+  pitch: 11.863721

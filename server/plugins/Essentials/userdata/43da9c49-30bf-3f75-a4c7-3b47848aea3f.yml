@@ -1,0 +1,30 @@
+lastAccountName: Eiranst
+timestamps:
+  login: 1526889357051
+  lastteleport: 1526895990169
+  logout: 1526897646866
+ipAddress: 120.11.175.152
+money: '86.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -293.5
+    y: 64.0
+    z: -11495.5
+    yaw: 107.81992
+    pitch: 7.950023
+lastlocation:
+  world: world
+  x: -2076.055406597684
+  y: 10.0
+  z: -970.916285489055
+  yaw: 29.935669
+  pitch: -12.8999405
+logoutlocation:
+  world: world
+  x: -284.02021273322066
+  y: 63.0
+  z: -11494.378208496128
+  yaw: 192.11865
+  pitch: 18.899982

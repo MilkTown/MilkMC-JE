@@ -1,0 +1,51 @@
+lastAccountName: syp233
+timestamps:
+  login: 1529328514420
+  lastteleport: 1529328602808
+  logout: 1529328830257
+ipAddress: 121.236.55.180
+lastlocation:
+  world: world
+  x: -14760.363708101144
+  y: 66.0
+  z: 43.70476971366256
+  yaw: -143.27849
+  pitch: 6.29997
+money: '962.7'
+homes:
+  home:
+    world: resources
+    x: -933.3108228252369
+    y: 72.9375
+    z: -1815.9948870680282
+    yaw: 61.801987
+    pitch: 23.099949
+  s:
+    world: resources
+    x: -902.1581356861374
+    y: 53.0
+    z: -2020.4672632843055
+    yaw: 65.85309
+    pitch: 49.64991
+  e:
+    world: world
+    x: 7.654189292535546
+    y: 71.0
+    z: -1911.563504710359
+    yaw: -132.60168
+    pitch: 12.59991
+  sy:
+    world: world
+    x: 3797.203361423592
+    y: 119.0
+    z: -6316.4729943019875
+    yaw: 25.482025
+    pitch: 16.80005
+logoutlocation:
+  world: world
+  x: -4117.176363390401
+  y: 60.0
+  z: 1330.8438919403548
+  yaw: -99.75304
+  pitch: 23.400034
+afk: false

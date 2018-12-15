@@ -1,0 +1,20 @@
+lastAccountName: yanwen
+timestamps:
+  login: 1518594012555
+  logout: 1518594015345
+ipAddress: 223.90.226.13
+lastlocation:
+  world: world
+  x: -174.2476467653997
+  y: 71.0
+  z: 176.1515350904088
+  yaw: -35.90386
+  pitch: 90.0
+money: '80.0'
+logoutlocation:
+  world: world
+  x: 165.64484519619808
+  y: 65.0
+  z: 779.5517124582153
+  yaw: -97.950005
+  pitch: 25.80004

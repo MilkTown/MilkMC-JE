@@ -1,0 +1,28 @@
+lastAccountName: zsk123321
+timestamps:
+  login: 1543331562156
+  lastteleport: 1543331365421
+  logout: 1543331669696
+ipAddress: 183.31.121.43
+lastlocation:
+  world: resources
+  x: 595.0703854311994
+  y: 68.0
+  z: 272.25954172544044
+  yaw: 38.40007
+  pitch: 38.09991
+logoutlocation:
+  world: resources
+  x: 820.0817361518166
+  y: 63.0
+  z: 164.18999608084783
+  yaw: -106.20116
+  pitch: -6.899855
+homes:
+  home:
+    world: resources
+    x: 829.4649550779518
+    y: 64.0
+    z: 167.7505564979614
+    yaw: -343.35205
+    pitch: 14.100042

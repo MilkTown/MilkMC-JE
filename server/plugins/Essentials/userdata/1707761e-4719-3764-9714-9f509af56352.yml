@@ -1,0 +1,35 @@
+lastAccountName: XiaoZe
+timestamps:
+  login: 1526887150035
+  lastteleport: 1526895505114
+  logout: 1526896678221
+ipAddress: 106.8.212.229
+lastlocation:
+  world: world
+  x: -2053.737908418898
+  y: 78.0
+  z: -1012.9346783128326
+  yaw: -201.31836
+  pitch: 36.899715
+homes:
+  tree:
+    world: world
+    x: -2052.699999988079
+    y: 74.0
+    z: -1024.6838479038463
+    yaw: -319.56195
+    pitch: 7.9498124
+  home:
+    world: world
+    x: -286.2837846648384
+    y: 63.0
+    z: -11491.967911350654
+    yaw: -222.6289
+    pitch: 26.70028
+logoutlocation:
+  world: world
+  x: -283.65752051063475
+  y: 63.0
+  z: -11499.206688290886
+  yaw: -327.02344
+  pitch: 2.2500148

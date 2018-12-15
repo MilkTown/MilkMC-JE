@@ -1,0 +1,29 @@
+lastAccountName: Rhubarb666
+timestamps:
+  login: 1502961857917
+  logout: 1502962371266
+  lastteleport: 1502961959561
+ipAddress: 183.208.177.19
+lastlocation:
+  world: world
+  x: 781.4612256113172
+  y: 63.0
+  z: -1846.699999988079
+  yaw: 47.968025
+  pitch: 25.199974
+money: '90.0'
+logoutlocation:
+  world: world
+  x: 811.4624496276564
+  y: 67.0
+  z: -1872.947358493941
+  yaw: 320.06918
+  pitch: 25.199917
+homes:
+  home:
+    world: world
+    x: 179.43645920217642
+    y: 63.0
+    z: -1274.3590552823425
+    yaw: 164.84929
+    pitch: 19.949924

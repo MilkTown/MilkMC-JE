@@ -1,0 +1,30 @@
+lastAccountName: xuan_han
+timestamps:
+  login: 1531634321734
+  lastteleport: 1531572508658
+  logout: 1531637004501
+ipAddress: 116.52.200.79
+lastlocation:
+  world: world
+  x: -2286.5698822603536
+  y: 70.0
+  z: 3868.115971604896
+  yaw: -119.94351
+  pitch: 24.20582
+logoutlocation:
+  world: world
+  x: -2681.8406671380426
+  y: 79.27025176137555
+  z: -12874.945458359944
+  yaw: -218.6875
+  pitch: 26.700022
+homes:
+  home:
+    world: world
+    x: -14706.005509798924
+    y: 63.0
+    z: 11.733233252943926
+    yaw: -250.08081
+    pitch: 10.949994
+money: '113541.7742496066636167'
+afk: false

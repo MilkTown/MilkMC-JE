@@ -1,0 +1,30 @@
+lastAccountName: woshixxpp
+timestamps:
+  login: 1543555127886
+  lastteleport: 1531192638344
+  logout: 1543555544019
+ipAddress: 59.52.111.159
+lastlocation:
+  world: world
+  x: -3821.025883149974
+  y: 67.0
+  z: 1499.0125814120336
+  yaw: -32.849674
+  pitch: 5.699969
+money: '14905.599999999999996'
+homes:
+  home:
+    world: resources
+    x: 1109.216003197443
+    y: 9.0
+    z: 360.9014838628501
+    yaw: -82.78723
+    pitch: 48.450047
+logoutlocation:
+  world: world
+  x: -3812.8582691412203
+  y: 63.0
+  z: 1496.8953180012984
+  yaw: -91.77972
+  pitch: -1.0392486
+afk: false

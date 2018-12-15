@@ -1,0 +1,65 @@
+lastAccountName: MIKUO
+timestamps:
+  login: 1541310504618
+  lastteleport: 1541318525540
+  logout: 1541318605860
+ipAddress: 180.97.206.222
+lastlocation:
+  world: world
+  x: -4092.5
+  y: 58.0
+  z: 1469.5
+  yaw: 287.2537
+  pitch: 8.019258
+homes:
+  home:
+    world: world
+    x: 9954.5
+    y: 63.0
+    z: -10021.5
+    yaw: -187.50095
+    pitch: 11.185087
+  a:
+    world: world
+    x: -2102.5
+    y: 73.6875
+    z: -1856.0999755859375
+    yaw: -154.94975
+    pitch: 73.049995
+  b:
+    world: world
+    x: -1324.8657308163376
+    y: 79.0
+    z: 2037.0387261764934
+    yaw: -149.11778
+    pitch: 21.809631
+  c:
+    world: world
+    x: -209.0102528696065
+    y: 62.0
+    z: 149.76249998807907
+    yaw: -356.8359
+    pitch: 46.53623
+  d:
+    world: resources
+    x: 4628.334334933572
+    y: 66.0
+    z: -2978.629902440427
+    yaw: -178.24957
+    pitch: 9.066654
+  f:
+    world: world
+    x: 4036.6829144797375
+    y: 64.0
+    z: -3453.238961559732
+    yaw: -212.77219
+    pitch: 17.741226
+money: '19876.70000000000008'
+logoutlocation:
+  world: world
+  x: -4087.36
+  y: 63.0
+  z: 1471.13
+  yaw: 88.97
+  pitch: 31.23
+afk: false

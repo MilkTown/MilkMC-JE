@@ -1,0 +1,29 @@
+lastAccountName: Abandon
+timestamps:
+  login: 1531997889560
+  lastteleport: 1531998566447
+  logout: 1532000938457
+ipAddress: 42.226.96.38
+lastlocation:
+  world: resources
+  x: 800.124671460247
+  y: 64.0
+  z: 448.912546591626
+  yaw: 69.90564
+  pitch: -14.250025
+afk: false
+homes:
+  home:
+    world: world
+    x: 666.148174868784
+    y: 66.0
+    z: 666.6081846484367
+    yaw: -180.0429
+    pitch: 10.199918
+logoutlocation:
+  world: world
+  x: 666.6773928429839
+  y: 66.0
+  z: 666.4836258295483
+  yaw: -2.7428033
+  pitch: 2.3999438

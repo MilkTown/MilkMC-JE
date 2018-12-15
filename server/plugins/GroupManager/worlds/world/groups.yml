@@ -1,0 +1,164 @@
+# Group inheritance
+#
+# Any inherited groups prefixed with a g: are global groups
+# and are inherited from the GlobalGroups.yml.
+#
+# Groups without the g: prefix are groups local to this world
+# and are defined in the this groups.yml file.
+#
+# Local group inheritances define your promotion tree when using 'manpromote/mandemote'
+
+groups:
+  Moderator:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      build: true
+      prefix: '&f'
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - '*'
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&f'
+      suffix: ''
+  Builder:
+    default: false
+    permissions: []
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&f'
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - essentials.fly
+    - essentials.workbench
+    - pm.everyone
+    - world
+    inheritance:
+    - moderator
+    - g:groupmanager_admin
+    - g:bukkit_admin
+    - g:essentials_admin
+    - g:towny_admin
+    - g:vanish_admin
+    info:
+      build: true
+      prefix: '&f&l[&9管理&f&l]&f'
+      suffix: ''
+  Default:
+    default: true
+    permissions:
+    - cmd
+    - coreprotect.help
+    - coreprotect.inspect
+    - deluxemenus.open
+    - deluxemenus.open.bypass
+    - essentials.build
+    - essentials.me
+    - essentials.world.*
+    - essentials.worlds.*
+    - minecraft.seed
+    - pm.receive
+    - pm.use
+    - quickshop.create.buy
+    - quickshop.create.changeprice
+    - quickshop.create.double
+    - quickshop.create.sell
+    - quickshop.find
+    - quickshop.use
+    - reports.report
+    - residence.chatcolor
+    - residence.chatkick
+    - residence.compass
+    - residence.contract
+    - residence.contract.subzone
+    - residence.create
+    - residence.create.subzone
+    - residence.delete
+    - residence.delete.subzone
+    - residence.expand
+    - residence.expand.subzone
+    - residence.pset
+    - residence.randomtp
+    - residence.rename
+    - residence.resize
+    - residence.select
+    - residence.set
+    - scavenger.level
+    - scavenger.scavenge
+    - scavenger.self.off
+    - scavenger.self.on
+    - taboomenu.command.open
+    - timedrewards.monthly
+    - titlemanager.command.scoreboard
+    - "titlemanager.command.scoreboard\t"
+    inheritance:
+    - g:groupmanager_default
+    - g:bukkit_default
+    - g:essentials_default
+    - g:towny_default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&f&l[&a玩家&f&l]&f'
+      suffix: ''
+  ServerBuilder:
+    default: false
+    permissions:
+    - essentials.gamemode
+    - minecraft.gamemode
+    inheritance:
+    - default
+    - g:essentials_builder
+    - g:towny_builder
+    info:
+      build: true
+      prefix: '&f&l[&c建筑&f&l]&f'
+      suffix: ''
+  PlayerRedstoner:
+    default: false
+    permissions:
+    - essentials.fly
+    - essentials.teleport.timer.bypass
+    - essentials.teleport.timer.move
+    - essentials.workbench
+    - world
+    inheritance:
+    - default
+    info:
+      build: false
+      prefix: '&f&l[&4红石&f&l]&f'
+      suffix: ''
+  PlayerBuilder:
+    default: false
+    permissions:
+    - essentials.fly
+    - essentials.teleport.timer.bypass
+    - essentials.teleport.timer.move
+    - essentials.workbench
+    inheritance:
+    - default
+    info:
+      build: false
+      prefix: '&f&l[&e建筑&f&l]&f'
+      suffix: ''

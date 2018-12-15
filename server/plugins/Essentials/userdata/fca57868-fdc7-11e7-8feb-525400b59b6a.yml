@@ -1,0 +1,30 @@
+lastAccountName: baggage
+timestamps:
+  login: 1517722339028
+  logout: 1517722411471
+  lastteleport: 1517033092646
+ipAddress: 171.36.227.221
+lastlocation:
+  world: world
+  x: 206.9602009106006
+  y: 64.125
+  z: 2178.631556147122
+  yaw: -281.24948
+  pitch: 28.35
+money: '100.0'
+logoutlocation:
+  world: world
+  x: -14335.779548330174
+  y: 194.0
+  z: 328.2650549687403
+  yaw: -76.73346
+  pitch: 4.65004
+homes:
+  home:
+    world: world
+    x: -14348.074544000921
+    y: 185.0
+    z: 330.1684834955605
+    yaw: -281.48312
+    pitch: 37.350063
+afk: false

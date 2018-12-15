@@ -1,0 +1,30 @@
+lastAccountName: BiuAS
+timestamps:
+  login: 1526803078959
+  logout: 1526808971236
+  lastteleport: 1526807144139
+ipAddress: 183.151.43.151
+logoutlocation:
+  world: world
+  x: 149.84012516762073
+  y: 46.0
+  z: 419.6169591185462
+  yaw: 26.057129
+  pitch: 65.550644
+lastlocation:
+  world: world
+  x: -3823.172590385812
+  y: 62.0
+  z: 1550.213443070657
+  yaw: 4.8302
+  pitch: -17.55001
+homes:
+  home:
+    world: world
+    x: 151.5632009917066
+    y: 64.0
+    z: 401.48383733287966
+    yaw: 162.6167
+    pitch: 19.49998
+money: '6696.70000000000003'
+afk: false

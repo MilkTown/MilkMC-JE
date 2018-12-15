@@ -1,0 +1,21 @@
+lastAccountName: 0v0
+timestamps:
+  login: 1501518474671
+  logout: 1501518613979
+ipAddress: 223.73.198.9
+lastlocation:
+  world: world
+  x: -175.4324869371883
+  y: 74.25220334025373
+  z: 168.9322702674462
+  yaw: 323.4003
+  pitch: 32.39983
+logoutlocation:
+  world: world
+  x: -79.87556636742181
+  y: 63.0
+  z: 71.50603998768486
+  yaw: -133.19806
+  pitch: 8.249911
+money: '100.0'
+afk: false

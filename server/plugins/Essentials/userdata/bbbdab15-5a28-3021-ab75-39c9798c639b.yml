@@ -1,0 +1,30 @@
+lastAccountName: Jie_M
+timestamps:
+  login: 1531708998534
+  lastteleport: 1531656700481
+  logout: 1531709957586
+ipAddress: 182.242.170.222
+lastlocation:
+  world: world
+  x: -47.735965949036085
+  y: 71.0
+  z: 7.853098275332648
+  yaw: -270.0017
+  pitch: 2.6999729
+money: '158087.996450984442129'
+logoutlocation:
+  world: world
+  x: -2311.716563653008
+  y: 64.0
+  z: 100.80342819316357
+  yaw: -201.76172
+  pitch: 29.400053
+homes:
+  home:
+    world: world
+    x: -2317.560156582247
+    y: 64.0
+    z: 91.88424234477496
+    yaw: -11.245605
+    pitch: 70.650024
+afk: false

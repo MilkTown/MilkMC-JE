@@ -1,0 +1,3 @@
+protectALL: false
+kick_message: "&c登陆IP异常,禁止登陆."
+debug: false

@@ -1,0 +1,22 @@
+lastAccountName: 77ninety_nine
+timestamps:
+  login: 1527941551901
+  logout: 1527944376639
+  lastteleport: 1527943237703
+ipAddress: 113.101.94.186
+lastlocation:
+  world: world
+  x: 2523.1840687395065
+  y: 82.0
+  z: -737.0900630668473
+  yaw: -96.91382
+  pitch: -7.999331
+afk: false
+logoutlocation:
+  world: world
+  x: -3703.5165191263145
+  y: 69.0
+  z: 1495.7750210647205
+  yaw: -263.8803
+  pitch: -12.492231
+money: '3200.0'

@@ -1,0 +1,44 @@
+lastAccountName: NRG500
+timestamps:
+  login: 1527495749354
+  lastteleport: 1526298888057
+  logout: 1527495760537
+ipAddress: 59.59.40.228
+lastlocation:
+  world: world
+  x: -133.7540002399179
+  y: 72.5
+  z: 104.69760309431977
+  yaw: -23.250275
+  pitch: 73.5
+logoutlocation:
+  world: world
+  x: 2597.2466764033
+  y: 66.0
+  z: -828.4958108253777
+  yaw: -231.50192
+  pitch: 13.65
+afk: false
+money: '355.5'
+homes:
+  home:
+    world: world_nether
+    x: 443.44544145319804
+    y: 53.0
+    z: -37.08580743552638
+    yaw: 183.43256
+    pitch: 9.060639
+  sm:
+    world: world
+    x: 898.0113950257723
+    y: 69.0
+    z: 319.10978063250775
+    yaw: -50.17263
+    pitch: 19.210108
+  cz:
+    world: world
+    x: 1647.7292688899315
+    y: 68.0
+    z: 146.45857912326892
+    yaw: 72.488846
+    pitch: 31.950005

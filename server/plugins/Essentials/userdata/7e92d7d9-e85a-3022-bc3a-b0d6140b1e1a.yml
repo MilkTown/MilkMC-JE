@@ -1,0 +1,43 @@
+lastAccountName: Ancisimu
+timestamps:
+  login: 1527510983636
+  logout: 1527510989912
+  lastteleport: 1525950338197
+ipAddress: 58.152.252.156
+lastlocation:
+  world: world_the_end
+  x: -10.81544220563565
+  y: 29.5
+  z: 283.30000001192093
+  yaw: -25.355982
+  pitch: -0.684395
+logoutlocation:
+  world: world
+  x: -15053.53283193242
+  y: 66.0
+  z: -313.02494546401675
+  yaw: 2.122435
+  pitch: 14.784212
+money: '20745.0889999999997'
+homes:
+  b:
+    world: resources
+    x: 35.59108106577484
+    y: 11.0
+    z: 4781.255229718541
+    yaw: 180.76074
+    pitch: 34.10868
+  a:
+    world: world
+    x: -15085.612756393753
+    y: 71.0
+    z: -325.2568844046732
+    yaw: -3.330799
+    pitch: 0.038616896
+  c:
+    world: resources
+    x: 784.0481119495381
+    y: 72.0
+    z: 495.30000001192093
+    yaw: -135.0544
+    pitch: 21.187183

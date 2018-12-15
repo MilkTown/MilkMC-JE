@@ -1,0 +1,21 @@
+lastAccountName: next_door
+timestamps:
+  login: 1532154232833
+  lastteleport: 1532154306576
+  logout: 1532154364553
+ipAddress: 121.33.145.125
+lastlocation:
+  world: world
+  x: -501.92500001192104
+  y: 64.0
+  z: 635.0029412913714
+  yaw: -92.568535
+  pitch: 19.199999
+logoutlocation:
+  world: world
+  x: 2606.66413032225
+  y: 66.0
+  z: -784.9239578609601
+  yaw: -65.45172
+  pitch: 18.449995
+money: '0.0039999999999999'

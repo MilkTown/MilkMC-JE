@@ -1,0 +1,30 @@
+lastAccountName: lkl123
+timestamps:
+  login: 1526646641110
+  logout: 1526647444819
+  lastteleport: 1526645575677
+ipAddress: 183.93.99.9
+logoutlocation:
+  world: world
+  x: -285.23750001192093
+  y: 64.0
+  z: -125.64211117265172
+  yaw: 81.97525
+  pitch: 13.049961
+lastlocation:
+  world: world
+  x: -221.6311229671986
+  y: 64.0
+  z: 14.9716671142065
+  yaw: -231.30113
+  pitch: 5.0999904
+money: '535.7'
+afk: false
+homes:
+  home:
+    world: world
+    x: -285.5
+    y: 64.0
+    z: -125.5
+    yaw: 0.0
+    pitch: 0.0

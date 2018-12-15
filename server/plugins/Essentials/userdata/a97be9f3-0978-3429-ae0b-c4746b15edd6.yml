@@ -1,0 +1,19 @@
+lastAccountName: Sinon
+timestamps:
+  login: 1503732367815
+  logout: 1503732379760
+ipAddress: 121.227.129.204
+lastlocation:
+  world: world
+  x: -180.07367006594382
+  y: 76.0
+  z: 173.48296031175605
+  yaw: -89.15385
+  pitch: 1.6305984
+logoutlocation:
+  world: world
+  x: -180.00599979726687
+  y: 76.0
+  z: 173.4441056768534
+  yaw: -90.52652
+  pitch: 14.608581

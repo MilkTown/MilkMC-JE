@@ -1,0 +1,31 @@
+lastAccountName: StanlyFAL
+timestamps:
+  login: 1542558083497
+  logout: 1542558346014
+  lastteleport: 1542558335058
+ipAddress: 101.206.171.189
+lastlocation:
+  world: world
+  x: -603.7165251363167
+  y: 81.10845568893549
+  z: -1970.229253778059
+  yaw: 38.62998
+  pitch: 26.068623
+homes:
+  home:
+    world: world
+    x: -434.9577663335788
+    y: 67.0
+    z: -2061.2404760394443
+    yaw: 85.2528
+    pitch: 21.170406
+logoutlocation:
+  world: world
+  x: -155.28177767942492
+  y: 100.28457996802027
+  z: 47.41628165857689
+  yaw: -51.443676
+  pitch: 21.617
+money: '101773.4'
+afk: false
+nickname: RBQ_FAL

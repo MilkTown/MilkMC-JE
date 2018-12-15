@@ -1,0 +1,30 @@
+lastAccountName: sfsfqa
+timestamps:
+  login: 1530936288505
+  lastteleport: 1530937303703
+  logout: 1530938871343
+ipAddress: 106.47.77.11
+lastlocation:
+  world: world_the_end
+  x: 270.97694240732653
+  y: 1.0
+  z: 1.1475851117556746
+  yaw: -155.77005
+  pitch: -71.82167
+afk: false
+homes:
+  home:
+    world: resources
+    x: 825.4523454465414
+    y: 64.0
+    z: 148.34095545051358
+    yaw: -344.83368
+    pitch: 12.45718
+money: '4654.19999999999997'
+logoutlocation:
+  world: world
+  x: 6268.282201511884
+  y: 67.0
+  z: 6170.260067598037
+  yaw: -172.1482
+  pitch: 21.19718

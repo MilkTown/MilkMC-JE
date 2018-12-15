@@ -1,0 +1,37 @@
+lastAccountName: TonyBlue
+timestamps:
+  login: 1543632596433
+  lastteleport: 1532425321722
+  logout: 1543632658441
+ipAddress: 121.33.144.76
+lastlocation:
+  world: world
+  x: -225.36706876682035
+  y: 64.0625
+  z: 14.390005902505456
+  yaw: -89.40118
+  pitch: -2.2500103
+money: '44898.001499999999460335'
+homes:
+  home:
+    world: world
+    x: 2439.0630747241134
+    y: 72.0
+    z: -751.5704671610245
+    yaw: -261.675
+    pitch: 45.28844
+  a:
+    world: world
+    x: 165.07499998807907
+    y: 87.0
+    z: 145.77127116519347
+    yaw: -3.880378
+    pitch: 2.7000253
+logoutlocation:
+  world: world
+  x: -269.6368255117557
+  y: 69.0
+  z: 165.89398923348296
+  yaw: 236.09991
+  pitch: 66.1501
+afk: false

@@ -1,0 +1,29 @@
+lastAccountName: Twats
+timestamps:
+  login: 1517215356586
+  logout: 1517217544494
+  lastteleport: 1517151334926
+ipAddress: 182.42.212.14
+lastlocation:
+  world: world
+  x: -1392.140254553968
+  y: 91.0
+  z: 2071.246998212814
+  yaw: 125.68069
+  pitch: 22.049824
+logoutlocation:
+  world: world
+  x: 44.52125200517791
+  y: 67.0
+  z: -1932.1006810879828
+  yaw: 0.23492432
+  pitch: 33.570187
+money: '100.0'
+homes:
+  jia:
+    world: world
+    x: 8.433150875781497
+    y: 68.0
+    z: -1911.144777037018
+    yaw: 27.262268
+    pitch: 26.999945

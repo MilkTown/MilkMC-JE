@@ -1,0 +1,28 @@
+lastAccountName: WeIRul
+timestamps:
+  login: 1541421389900
+  lastteleport: 1541428515237
+  logout: 1541428864412
+ipAddress: 222.210.39.239
+lastlocation:
+  world: world
+  x: -67.12373884864043
+  y: 65.0
+  z: 17.826902620735527
+  yaw: 290.539
+  pitch: 8.249955
+logoutlocation:
+  world: world
+  x: -2268.535667732376
+  y: 64.0
+  z: -155.47305100257003
+  yaw: -37.87451
+  pitch: 18.900003
+homes:
+  home:
+    world: world
+    x: -69.37401500658686
+    y: 65.0
+    z: 16.690193994176084
+    yaw: 279.1392
+    pitch: 24.449951

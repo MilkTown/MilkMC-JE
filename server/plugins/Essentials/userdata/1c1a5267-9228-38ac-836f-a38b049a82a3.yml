@@ -1,0 +1,44 @@
+lastAccountName: Xi_Luo
+timestamps:
+  login: 1526907090775
+  lastteleport: 1526907436404
+  logout: 1526907445272
+ipAddress: 14.114.211.53
+lastlocation:
+  world: world
+  x: -728.1546552375078
+  y: 29.0
+  z: -1112.8957007921044
+  yaw: -188.66402
+  pitch: 25.034468
+money: '4506.0'
+homes:
+  home:
+    world: world
+    x: 41.06632978726984
+    y: 64.0
+    z: 280.41683893931537
+    yaw: 0.71118164
+    pitch: 29.153875
+  home2:
+    world: world
+    x: 34.47353360403055
+    y: 64.0
+    z: 291.36911510000465
+    yaw: 0.47702026
+    pitch: 41.64484
+  home3:
+    world: world
+    x: -729.5453470770203
+    y: 30.0
+    z: -1120.1723032338002
+    yaw: 23.713032
+    pitch: 30.893007
+logoutlocation:
+  world: world
+  x: 44.65081903525106
+  y: 64.0
+  z: 283.8175747327343
+  yaw: 309.80362
+  pitch: 8.529445
+afk: false

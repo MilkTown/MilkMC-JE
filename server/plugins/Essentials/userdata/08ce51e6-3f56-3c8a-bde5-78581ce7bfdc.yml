@@ -1,0 +1,30 @@
+lastAccountName: The_Lovely
+timestamps:
+  login: 1532258274982
+  lastteleport: 1532184999310
+  logout: 1532259028726
+ipAddress: 119.186.176.9
+lastlocation:
+  world: world
+  x: -1965.6840207967334
+  y: 78.0
+  z: -133.7718327297372
+  yaw: -356.48822
+  pitch: 8.250028
+logoutlocation:
+  world: world
+  x: -1940.9995588964757
+  y: 66.0
+  z: -443.82264315786455
+  yaw: -118.88513
+  pitch: -3.750028
+money: '1098.4'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1920.5495423573643
+    y: 71.0
+    z: -445.1081449132658
+    yaw: 25.41301
+    pitch: 32.250046

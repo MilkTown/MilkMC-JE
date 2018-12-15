@@ -1,0 +1,28 @@
+lastAccountName: _Hintion_
+timestamps:
+  login: 1528345039459
+  lastteleport: 1528343702529
+  logout: 1528345059544
+ipAddress: 125.121.214.14
+lastlocation:
+  world: world
+  x: -189.94282588068472
+  y: 68.0
+  z: 18.41869916270192
+  yaw: -239.85107
+  pitch: -3.750002
+logoutlocation:
+  world: world
+  x: -2929.119195606056
+  y: 63.0
+  z: 1903.3359135333512
+  yaw: -182.13332
+  pitch: 29.250038
+homes:
+  a:
+    world: world
+    x: -2944.737091520173
+    y: 64.0
+    z: 1897.986728992124
+    yaw: -70.383354
+    pitch: 24.300037

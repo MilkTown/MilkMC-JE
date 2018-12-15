@@ -1,0 +1,58 @@
+lastAccountName: renqiu
+timestamps:
+  login: 1530953274369
+  logout: 1530961262158
+  lastteleport: 1530960328730
+ipAddress: 183.199.159.54
+lastlocation:
+  world: world
+  x: 1761.4404636808622
+  y: 67.0
+  z: -4487.04756177543
+  yaw: 68.22461
+  pitch: -8.249988
+logoutlocation:
+  world: world
+  x: 1672.050000011921
+  y: 70.5
+  z: -4561.699999988079
+  yaw: -48.481445
+  pitch: -20.699987
+money: '3808.2'
+homes:
+  c:
+    world: world
+    x: -5598.44654349824
+    y: 65.0
+    z: -1200.6470035211864
+    yaw: 234.41422
+    pitch: 13.04992
+  cm:
+    world: world
+    x: -3604.3692275204776
+    y: 70.0
+    z: 1112.6606326864153
+    yaw: -90.8909
+    pitch: 13.35
+  maer:
+    world: world
+    x: -2513.8167485663766
+    y: 64.0
+    z: 325.2347694404382
+    yaw: -179.54095
+    pitch: 13.950091
+  slm:
+    world: resources
+    x: 2263.465373897699
+    y: 64.0
+    z: -3736.4487854661397
+    yaw: -157.43121
+    pitch: 27.600054
+  b:
+    world: world
+    x: 1715.2713228906584
+    y: 64.0
+    z: -4570.788067839255
+    yaw: -266.42456
+    pitch: 8.550028
+afk: false

@@ -1,0 +1,22 @@
+lastAccountName: qaz
+timestamps:
+  login: 1526898572826
+  logout: 1526905971424
+  lastteleport: 1526742025663
+ipAddress: 183.250.166.228
+logoutlocation:
+  world: resources
+  x: 1197.3308068495962
+  y: 67.0
+  z: 934.5336575709414
+  yaw: -134.33273
+  pitch: 37.499992
+lastlocation:
+  world: resources
+  x: 598.599221984162
+  y: 68.0
+  z: 271.52497214878423
+  yaw: 268.65018
+  pitch: -3.4500988
+afk: false
+money: '1200'

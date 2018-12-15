@@ -1,0 +1,22 @@
+lastAccountName: Marvin_ghost
+timestamps:
+  login: 1524667103779
+  lastteleport: 1524558148883
+  logout: 1524667767071
+ipAddress: 112.10.131.193
+lastlocation:
+  world: world
+  x: -17058.609130036693
+  y: 69.0
+  z: -729.2858100755996
+  yaw: 324.1507
+  pitch: 14.249992
+logoutlocation:
+  world: world
+  x: -634.604116857638
+  y: 74.0
+  z: 517.398773369435
+  yaw: -107.88706
+  pitch: 2.399928
+money: '1106.8'
+afk: false

@@ -1,0 +1,20 @@
+lastAccountName: SSprite
+timestamps:
+  login: 1518006232896
+  logout: 1518006698037
+ipAddress: 123.152.242.142
+lastlocation:
+  world: zc
+  x: 16.770544430646357
+  y: 59.0
+  z: -5.199528702641782
+  yaw: 141.6002
+  pitch: 73.19998
+money: '100.0'
+logoutlocation:
+  world: zy
+  x: -112.41714590511464
+  y: 69.0
+  z: 131.26736282157577
+  yaw: -179.69891
+  pitch: 13.500008

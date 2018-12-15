@@ -1,0 +1,28 @@
+lastAccountName: StarCrack
+timestamps:
+  login: 1523942353172
+  lastteleport: 1523942420404
+  logout: 1523942560730
+ipAddress: 122.242.52.91
+lastlocation:
+  world: resources
+  x: -256.5265045614557
+  y: 19.0
+  z: 232.30000001192093
+  yaw: -20.999695
+  pitch: 79.499985
+logoutlocation:
+  world: resources
+  x: -155.00518307947397
+  y: 66.0
+  z: 288.8071047487694
+  yaw: -220.94995
+  pitch: 8.400015
+homes:
+  a:
+    world: world
+    x: -385.80393918957344
+    y: 51.0
+    z: -1460.699999988079
+    yaw: -45.9057
+    pitch: 66.299995

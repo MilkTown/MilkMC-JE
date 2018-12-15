@@ -1,0 +1,20 @@
+lastAccountName: YYNJ
+timestamps:
+  login: 1502432693365
+  logout: 1502433219160
+ipAddress: 222.242.36.208
+lastlocation:
+  world: world
+  x: -75.81021121977813
+  y: 11.0
+  z: 157.00250932581108
+  yaw: -130.32489
+  pitch: 8.053707
+logoutlocation:
+  world: world
+  x: -3782.9813122807864
+  y: 63.0
+  z: 1503.927518160945
+  yaw: -76.66455
+  pitch: 16.032175
+money: '100.0'

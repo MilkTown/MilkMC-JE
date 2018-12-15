@@ -1,0 +1,22 @@
+lastAccountName: kaige666
+timestamps:
+  login: 1530750958004
+  logout: 1530750964673
+  lastteleport: 1530749059434
+ipAddress: 121.35.181.98
+lastlocation:
+  world: world_nether
+  x: -435.8086664045569
+  y: 74.0
+  z: 529.8304797658363
+  yaw: 221.76128
+  pitch: 13.933971
+logoutlocation:
+  world: world
+  x: -2421.5
+  y: 59.0
+  z: 3693.5
+  yaw: 133.54652
+  pitch: 72.61881
+money: '1.0839999999999998'
+afk: false

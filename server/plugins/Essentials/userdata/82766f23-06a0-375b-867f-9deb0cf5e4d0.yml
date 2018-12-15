@@ -1,0 +1,30 @@
+lastAccountName: HIIGO
+timestamps:
+  login: 1527522320045
+  lastteleport: 1525762739574
+  logout: 1527522367567
+ipAddress: 183.24.97.56
+lastlocation:
+  world: world
+  x: -3324.407939936444
+  y: 70.0
+  z: -3943.691006566319
+  yaw: -132.88559
+  pitch: 14.5963125
+logoutlocation:
+  world: world
+  x: -4296.66953682004
+  y: 69.5
+  z: -3753.7775311189716
+  yaw: 129.55556
+  pitch: 6.432118
+homes:
+  home:
+    world: world
+    x: -4308.2966689346
+    y: 70.0
+    z: -3741.0249446025737
+    yaw: 242.01372
+    pitch: 13.164268
+money: '74498.8109999999981025'
+afk: false

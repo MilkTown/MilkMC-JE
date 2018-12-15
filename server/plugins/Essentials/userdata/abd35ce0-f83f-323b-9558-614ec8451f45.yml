@@ -1,0 +1,29 @@
+lastAccountName: RNA_191364461
+timestamps:
+  login: 1502163210547
+  lastteleport: 1502113431015
+  logout: 1502163259669
+ipAddress: 218.77.94.74
+lastlocation:
+  world: world_nether
+  x: -465.58035639246515
+  y: 27.252169473849037
+  z: -112.7069867499857
+  yaw: -108.16441
+  pitch: -22.792494
+money: '219.95'
+logoutlocation:
+  world: world_nether
+  x: 0.36240414203322047
+  y: 73.0
+  z: 0.8279898834312291
+  yaw: 190.92822
+  pitch: 14.30419
+homes:
+  home:
+    world: world
+    x: -27.955637990158053
+    y: 63.0
+    z: 31.232533555646583
+    yaw: -156.44196
+    pitch: 16.265789

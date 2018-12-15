@@ -1,0 +1,20 @@
+lastAccountName: YuSuan
+timestamps:
+  login: 1503499031044
+  logout: 1503499442374
+ipAddress: 114.36.59.202
+lastlocation:
+  world: world
+  x: -180.07367006594382
+  y: 76.0
+  z: 173.48296031175605
+  yaw: -89.15385
+  pitch: 1.6305984
+afk: false
+logoutlocation:
+  world: world
+  x: -130.77175095301246
+  y: 64.0
+  z: 207.36863860196692
+  yaw: 184.44617
+  pitch: 21.880587

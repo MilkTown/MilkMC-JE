@@ -1,0 +1,19 @@
+lastAccountName: woshihai
+timestamps:
+  login: 1522570384549
+  logout: 1522570398285
+ipAddress: 112.233.170.19
+lastlocation:
+  world: world
+  x: -183.0
+  y: 71.0
+  z: 172.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: spawn
+  x: 16.5
+  y: 59.0
+  z: -4.5
+  yaw: 186.45024
+  pitch: -6.150026

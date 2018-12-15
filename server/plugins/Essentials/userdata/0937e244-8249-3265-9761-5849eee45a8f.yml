@@ -1,0 +1,29 @@
+lastAccountName: KongLing
+timestamps:
+  login: 1524543445059
+  lastteleport: 1524545083725
+  logout: 1524545579136
+ipAddress: 106.115.95.114
+lastlocation:
+  world: world
+  x: 256.7188050749936
+  y: 78.0
+  z: 411.16816281010864
+  yaw: 167.02344
+  pitch: 34.35008
+homes:
+  home1:
+    world: world
+    x: 255.74980916183574
+    y: 73.0
+    z: 406.77218530051806
+    yaw: 346.72552
+    pitch: -4.649918
+afk: false
+logoutlocation:
+  world: world
+  x: 249.69999998807904
+  y: 71.0
+  z: 407.69999998807907
+  yaw: -38.924103
+  pitch: 66.29999

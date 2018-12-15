@@ -1,0 +1,30 @@
+lastAccountName: STR_D
+timestamps:
+  login: 1532155281534
+  lastteleport: 1531983142839
+  logout: 1532155530540
+ipAddress: 106.114.210.58
+lastlocation:
+  world: world
+  x: 90.78198334050474
+  y: 68.0
+  z: -584.4638572761074
+  yaw: -9.343018
+  pitch: 16.386915
+afk: false
+logoutlocation:
+  world: world
+  x: -18.262943252332217
+  y: 64.5
+  z: -98.92714031085244
+  yaw: -173.14899
+  pitch: 3.1498842
+money: '2695.7424999999999993'
+homes:
+  home:
+    world: world_nether
+    x: -1890.3905855677942
+    y: 66.0
+    z: 1033.2008435373345
+    yaw: -240.35205
+    pitch: 22.617079

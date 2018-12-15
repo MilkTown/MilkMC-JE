@@ -1,0 +1,20 @@
+lastAccountName: mc_jane
+timestamps:
+  login: 1531139730798
+  lastteleport: 1531139837372
+  logout: 1531140037268
+ipAddress: 171.110.208.213
+lastlocation:
+  world: world
+  x: -214.1571856772504
+  y: 65.0
+  z: 11.318350218171767
+  yaw: -109.90608
+  pitch: 20.654877
+logoutlocation:
+  world: resources
+  x: 602.5682102202219
+  y: 68.0
+  z: 269.0952794022768
+  yaw: -154.18903
+  pitch: 24.001919

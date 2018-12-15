@@ -1,0 +1,22 @@
+lastAccountName: sofa
+timestamps:
+  login: 1532135902998
+  lastteleport: 1532138384502
+  logout: 1532138388176
+ipAddress: 220.199.112.75
+lastlocation:
+  world: world
+  x: 2581.6027632979567
+  y: 66.0
+  z: -820.6949293549251
+  yaw: -69.20184
+  pitch: -4.4999876
+logoutlocation:
+  world: world
+  x: -2387.0744265721696
+  y: 63.875
+  z: 3715.9009030976367
+  yaw: -90.44858
+  pitch: 43.800003
+money: '6509.299999999999857'
+afk: false

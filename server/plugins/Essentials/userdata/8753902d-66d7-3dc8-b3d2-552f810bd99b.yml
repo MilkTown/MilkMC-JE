@@ -1,0 +1,30 @@
+lastAccountName: xiaomin
+timestamps:
+  login: 1525234465577
+  lastteleport: 1525236474142
+  logout: 1525236486398
+ipAddress: 120.83.73.110
+lastlocation:
+  world: world
+  x: -230.5
+  y: 72.0
+  z: -41.5
+  yaw: 315.6106
+  pitch: -16.080269
+homes:
+  home:
+    world: world
+    x: -3444.1625601878536
+    y: 68.0
+    z: 662.4639339147285
+    yaw: 289.84338
+    pitch: 50.65703
+logoutlocation:
+  world: world
+  x: -252.09836005325087
+  y: 77.0
+  z: -14.181018630660748
+  yaw: 3.4347205
+  pitch: 28.710892
+afk: false
+money: '36.9'

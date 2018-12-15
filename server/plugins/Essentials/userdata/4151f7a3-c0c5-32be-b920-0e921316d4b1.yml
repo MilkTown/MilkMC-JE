@@ -1,0 +1,29 @@
+lastAccountName: Shengfeng
+timestamps:
+  login: 1503543227190
+  lastteleport: 1503372192970
+  logout: 1503543234551
+ipAddress: 223.90.238.39
+lastlocation:
+  world: zy
+  x: -353.89217327857364
+  y: 67.0
+  z: 2069.290894759489
+  yaw: 145.45189
+  pitch: 16.649994
+money: '100.0'
+homes:
+  home:
+    world: zy
+    x: -346.50137444651574
+    y: 66.0
+    z: 2076.2684738921093
+    yaw: 104.35188
+    pitch: 35.249992
+logoutlocation:
+  world: zy
+  x: -356.69999998807907
+  y: 66.0
+  z: 2077.300000011921
+  yaw: 32.351616
+  pitch: 26.699991

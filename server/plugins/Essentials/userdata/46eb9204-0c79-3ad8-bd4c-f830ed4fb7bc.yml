@@ -1,0 +1,20 @@
+lastAccountName: caowei11
+timestamps:
+  login: 1503986221936
+  logout: 1503986245440
+ipAddress: 182.125.241.206
+lastlocation:
+  world: world
+  x: -77.20248674249387
+  y: 70.0
+  z: -302.4104191357088
+  yaw: -254.13997
+  pitch: 10.499749
+logoutlocation:
+  world: world
+  x: -178.99785389089695
+  y: 74.0
+  z: 177.87244062936426
+  yaw: 171.99614
+  pitch: 19.18059
+afk: false

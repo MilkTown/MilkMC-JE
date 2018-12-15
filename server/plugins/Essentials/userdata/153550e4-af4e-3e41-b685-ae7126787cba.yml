@@ -1,0 +1,29 @@
+lastAccountName: Howar_
+timestamps:
+  login: 1526180373500
+  lastteleport: 1526181516165
+  logout: 1526182751489
+ipAddress: 42.236.218.143
+lastlocation:
+  world: world
+  x: -225.36706876682035
+  y: 64.0625
+  z: 14.390005902505456
+  yaw: -70.201164
+  pitch: -6.000018
+homes:
+  home:
+    world: resources
+    x: 671.3558455458856
+    y: 7.0
+    z: -10.245496692730429
+    yaw: 178.9331
+    pitch: 8.550012
+money: '250'
+logoutlocation:
+  world: world
+  x: -14882.85364415543
+  y: 64.0
+  z: -33.95358269472953
+  yaw: 104.104126
+  pitch: 18.45317

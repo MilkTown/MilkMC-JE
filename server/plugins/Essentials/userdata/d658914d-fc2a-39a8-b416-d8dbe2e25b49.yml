@@ -1,0 +1,58 @@
+lastAccountName: Catwoman
+timestamps:
+  login: 1527924808198
+  logout: 1527928072708
+  lastteleport: 1527924927014
+ipAddress: 115.60.87.166
+lastlocation:
+  world: world
+  x: 704.5131869516428
+  y: 126.0
+  z: -19679.02916841674
+  yaw: -179.60416
+  pitch: 3.6000035
+logoutlocation:
+  world: world
+  x: 704.396592247991
+  y: 96.0
+  z: -19672.383430986476
+  yaw: -12.661957
+  pitch: -16.799923
+afk: false
+homes:
+  mushoak:
+    world: resources
+    x: -473.1862340142031
+    y: 78.0
+    z: 1282.9098625497604
+    yaw: -177.20703
+    pitch: 16.499928
+  v:
+    world: world
+    x: 711.9627673579889
+    y: 152.0
+    z: -19643.758919128926
+    yaw: 179.34586
+    pitch: 39.599976
+  e:
+    world: resources
+    x: 1047.0936262025014
+    y: 80.0
+    z: -9841.573853576763
+    yaw: -177.29784
+    pitch: 3.8999135
+  o:
+    world: resources
+    x: 1043.4563969013498
+    y: 7.0
+    z: -9862.785021658468
+    yaw: -179.09212
+    pitch: 11.700008
+  sand:
+    world: resources
+    x: 1160.3155054452009
+    y: 75.0
+    z: -8749.963401725316
+    yaw: 4.502426
+    pitch: -0.6000311
+money: '22155.49999999999904'

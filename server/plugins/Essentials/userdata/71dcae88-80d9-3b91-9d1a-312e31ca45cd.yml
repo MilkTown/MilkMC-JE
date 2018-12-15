@@ -1,0 +1,67 @@
+lastAccountName: BL_007
+timestamps:
+  login: 1532423329232
+  logout: 1532427089053
+  lastteleport: 1532424116415
+  jail: 0
+ipAddress: 106.8.195.111
+lastlocation:
+  world: world
+  x: -1381.8048718347654
+  y: 86.0
+  z: 2073.045569139444
+  yaw: 359.21228
+  pitch: 3.7297325
+logoutlocation:
+  world: world
+  x: 224.42796376748169
+  y: 64.0
+  z: 2180.699999988079
+  yaw: 74.41583
+  pitch: 32.940308
+afk: false
+homes:
+  xh:
+    world: world_the_end
+    x: 274.2322899717895
+    y: 60.0
+    z: 0.926742722645749
+    yaw: -89.69994
+    pitch: 70.49977
+  blh:
+    world: world
+    x: 2833.4267443251383
+    y: 63.0
+    z: -2920.812925677559
+    yaw: 58.96396
+    pitch: 27.600801
+  hys:
+    world: resources_the_end
+    x: 33.36166722469448
+    y: 102.0
+    z: -24.30000001192093
+    yaw: 1.9512024
+    pitch: 21.750229
+  md233:
+    world: resources_the_end
+    x: -2766.4125855443995
+    y: 66.0
+    z: 983.770385072472
+    yaw: 86.250275
+    pitch: 22.49984
+  cl:
+    world: world
+    x: -884.3420278595805
+    y: 72.0
+    z: -3174.3064795707974
+    yaw: 167.94275
+    pitch: 15.149977
+  md:
+    world: world_the_end
+    x: 692.6715950134359
+    y: 116.0
+    z: 14536.300000011921
+    yaw: 185.08026
+    pitch: 21.299936
+jailed: false
+money: '77798.97112460229926'

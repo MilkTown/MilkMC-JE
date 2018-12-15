@@ -1,0 +1,28 @@
+lastAccountName: Accelerator
+timestamps:
+  login: 1530941120255
+  logout: 1530942180061
+  lastteleport: 1530941239576
+ipAddress: 1.199.75.69
+lastlocation:
+  world: world
+  x: -4101.770598631748
+  y: 62.0
+  z: 1463.0935465512998
+  yaw: -250.37987
+  pitch: 28.661907
+logoutlocation:
+  world: world
+  x: -4099.26437626148
+  y: 63.0
+  z: 1467.733420345131
+  yaw: -53.85315
+  pitch: 23.014576
+homes:
+  home:
+    world: world
+    x: 6.111102859219994
+    y: 77.0
+    z: -688.4107776844855
+    yaw: -179.84424
+    pitch: 14.890695

@@ -1,0 +1,29 @@
+lastAccountName: juan_maku
+timestamps:
+  login: 1529991360821
+  lastteleport: 1529991691750
+  logout: 1529991719354
+ipAddress: 36.157.147.235
+lastlocation:
+  world: world_the_end
+  x: -11.488408632308444
+  y: 30.0
+  z: 284.8756510245757
+  yaw: 77.970894
+  pitch: 7.520002
+money: '90.0'
+logoutlocation:
+  world: world
+  x: -191.83474859830207
+  y: 75.0
+  z: 38.931120397390046
+  yaw: 342.74857
+  pitch: 3.6000016
+homes:
+  home:
+    world: world_the_end
+    x: -4.575666187175881
+    y: 30.0
+    z: 286.69999998807907
+    yaw: 311.6701
+    pitch: -2.0799925

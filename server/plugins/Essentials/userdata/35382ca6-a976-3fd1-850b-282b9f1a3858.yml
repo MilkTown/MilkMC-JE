@@ -1,0 +1,22 @@
+lastAccountName: xiye_
+timestamps:
+  login: 1528343206446
+  logout: 1528343753348
+  lastteleport: 1528343376762
+ipAddress: 113.229.53.70
+logoutlocation:
+  world: world
+  x: -2941.62610004124
+  y: 64.0
+  z: 1905.952607936314
+  yaw: -218.88354
+  pitch: 12.000053
+lastlocation:
+  world: world
+  x: -2896.705339828243
+  y: 67.0
+  z: 1925.175679531523
+  yaw: 68.24783
+  pitch: 9.150044
+money: '3400'
+afk: false

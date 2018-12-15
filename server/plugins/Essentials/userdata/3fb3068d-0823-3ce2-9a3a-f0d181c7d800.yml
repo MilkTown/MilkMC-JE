@@ -1,0 +1,20 @@
+lastAccountName: yucheng
+timestamps:
+  login: 1525083040574
+  logout: 1525084262860
+ipAddress: 112.96.196.7
+logoutlocation:
+  world: world
+  x: -271.45518991817846
+  y: 79.0
+  z: 317.6313293493049
+  yaw: 59.698616
+  pitch: -2.5499728
+lastlocation:
+  world: world
+  x: -204.88648102830084
+  y: 73.0
+  z: 85.03914177457129
+  yaw: -208.80017
+  pitch: 90.0
+afk: false

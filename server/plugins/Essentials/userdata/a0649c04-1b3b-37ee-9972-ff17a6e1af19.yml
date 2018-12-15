@@ -1,0 +1,20 @@
+lastAccountName: Camera
+timestamps:
+  login: 1531646043418
+  lastteleport: 1531646266960
+  logout: 1531646313544
+ipAddress: 59.63.203.7
+lastlocation:
+  world: resources
+  x: 607.4240741001764
+  y: 67.0
+  z: 265.8468377125779
+  yaw: 187.74333
+  pitch: 29.835606
+logoutlocation:
+  world: resources
+  x: 618.9601739633137
+  y: 66.0
+  z: 297.609708761875
+  yaw: -44.29674
+  pitch: 8.570234

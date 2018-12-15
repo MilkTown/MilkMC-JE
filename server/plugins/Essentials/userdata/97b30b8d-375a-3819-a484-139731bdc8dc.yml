@@ -1,0 +1,30 @@
+lastAccountName: ZIlaodian
+timestamps:
+  login: 1526108342712
+  logout: 1526108688287
+  lastteleport: 1526108684060
+ipAddress: 120.239.77.79
+logoutlocation:
+  world: world
+  x: 2597.5
+  y: 66.0
+  z: -828.5
+  yaw: -267.9519
+  pitch: 0.74999803
+lastlocation:
+  world: world
+  x: -3850.6401252745814
+  y: 63.0
+  z: 1536.9977315400995
+  yaw: 97.80719
+  pitch: 11.8499565
+homes:
+  home:
+    world: world
+    x: -3848.5
+    y: 63.0
+    z: 1538.5
+    yaw: 21.607164
+    pitch: 11.699951
+afk: false
+money: '126.7'

@@ -1,0 +1,29 @@
+lastAccountName: fengliao
+timestamps:
+  login: 1519120173469
+  lastteleport: 1519013677620
+  logout: 1519120177469
+ipAddress: 59.42.122.136
+lastlocation:
+  world: zy
+  x: -215.30000001192093
+  y: 7.0
+  z: 151.63582120341582
+  yaw: 16.650023
+  pitch: 3.4499717
+logoutlocation:
+  world: world
+  x: -93.15754657585937
+  y: 68.0
+  z: 296.72516932411196
+  yaw: -328.70264
+  pitch: 53.249897
+homes:
+  a:
+    world: world
+    x: -94.39256819245233
+    y: 63.0
+    z: 292.5897525211426
+    yaw: 7.4461513
+    pitch: 22.199997
+afk: false

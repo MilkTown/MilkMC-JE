@@ -1,0 +1,30 @@
+lastAccountName: little_bean
+timestamps:
+  login: 1524650369465
+  lastteleport: 1524654025816
+  logout: 1524654461876
+ipAddress: 14.153.238.9
+lastlocation:
+  world: world
+  x: 12083.784208624698
+  y: 64.0
+  z: 1442.4577602159227
+  yaw: 303.16284
+  pitch: 25.349926
+afk: false
+homes:
+  home:
+    world: world
+    x: 338.5607865518046
+    y: 70.0
+    z: -108.55502819423036
+    yaw: 90.74756
+    pitch: 28.05003
+logoutlocation:
+  world: world
+  x: 372.6560166143412
+  y: 65.0
+  z: -57.013509612726466
+  yaw: 260.39926
+  pitch: 27.900028
+money: '825.0'

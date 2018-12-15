@@ -1,0 +1,37 @@
+lastAccountName: Grasscraft
+timestamps:
+  login: 1532422994619
+  logout: 1532426018057
+  lastteleport: 1532425997699
+ipAddress: 125.79.129.168
+lastlocation:
+  world: world_nether
+  x: -145.6999999880791
+  y: 67.0
+  z: 261.30000001192093
+  yaw: -268.20004
+  pitch: 65.25
+logoutlocation:
+  world: world
+  x: -212.9438554759486
+  y: 64.0
+  z: 14.538446459540864
+  yaw: -89.551155
+  pitch: -0.900002
+money: '26633.8033223323228703'
+homes:
+  h:
+    world: world
+    x: -520.5
+    y: 66.0
+    z: 562.5
+    yaw: 90.59651
+    pitch: -1.1999935
+  sb:
+    world: world
+    x: -812.5
+    y: 5.0
+    z: 400.5
+    yaw: -298.06503
+    pitch: 15.89997
+afk: false

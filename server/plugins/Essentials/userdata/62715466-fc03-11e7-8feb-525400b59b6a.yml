@@ -1,0 +1,22 @@
+lastAccountName: strickczq
+timestamps:
+  login: 1516625778870
+  logout: 1516625821140
+  lastteleport: 1516263954287
+ipAddress: 14.18.32.2
+logoutlocation:
+  world: zc
+  x: 15.272188844666847
+  y: 68.0
+  z: -39.30000001192093
+  yaw: 257.09875
+  pitch: 23.0999
+lastlocation:
+  world: world
+  x: -184.08869877264908
+  y: 71.0
+  z: 172.77587433558782
+  yaw: 241.2001
+  pitch: 72.74999
+afk: false
+money: '100.0'

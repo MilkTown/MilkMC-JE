@@ -1,0 +1,65 @@
+lastAccountName: Smile
+timestamps:
+  login: 1530152535534
+  lastteleport: 1530153006441
+  logout: 1530153202595
+ipAddress: 119.185.140.5
+lastlocation:
+  world: world_the_end
+  x: 11.13894792476324
+  y: 65.0
+  z: 6.024578936933835
+  yaw: 88.768524
+  pitch: 5.281167
+logoutlocation:
+  world: world
+  x: 12065.573253611603
+  y: 64.0
+  z: 1448.0291921370003
+  yaw: 160.71918
+  pitch: -8.267725
+money: '146684.651000000001784'
+homes:
+  home:
+    world: world
+    x: 12078.121214532563
+    y: 65.0
+    z: 1429.7933215951666
+    yaw: 271.9631
+    pitch: 21.300089
+  modi:
+    world: resources_the_end
+    x: 30191.547456054042
+    y: 62.0
+    z: 1186.8698507592599
+    yaw: 276.4897
+    pitch: 16.199982
+  diyu:
+    world: world_nether
+    x: 1633.412140065162
+    y: 5.0
+    z: 115.89658272329656
+    yaw: 1.6138916
+    pitch: 28.529902
+  xiaobai:
+    world: world
+    x: -15056.966622632743
+    y: 33.0
+    z: -268.949608153331
+    yaw: 188.18011
+    pitch: 8.85002
+  yaosai:
+    world: world
+    x: 13915.705035798193
+    y: 14.0
+    z: 4031.7944480841893
+    yaw: 359.63312
+    pitch: 8.700167
+  mogu:
+    world: world
+    x: 10171.9087237149
+    y: 97.0
+    z: 3004.067596493911
+    yaw: 186.43245
+    pitch: 63.033573
+afk: false

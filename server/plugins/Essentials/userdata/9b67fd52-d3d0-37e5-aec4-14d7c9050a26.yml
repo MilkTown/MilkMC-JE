@@ -1,0 +1,20 @@
+lastAccountName: BATMAN
+timestamps:
+  login: 1501653910783
+  logout: 1501653919581
+ipAddress: 220.133.54.167
+lastlocation:
+  world: world
+  x: -179.52130952581004
+  y: 75.0
+  z: 176.30000001192093
+  yaw: 232.56061
+  pitch: 53.854755
+logoutlocation:
+  world: zy
+  x: -263.77182765812876
+  y: 71.0
+  z: 220.05060340864188
+  yaw: 190.82832
+  pitch: 23.044582
+money: '100.0'

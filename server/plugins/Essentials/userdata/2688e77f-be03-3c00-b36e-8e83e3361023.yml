@@ -1,0 +1,22 @@
+lastAccountName: yyh
+timestamps:
+  login: 1503194271420
+  lastteleport: 1502355688776
+  logout: 1503200353310
+ipAddress: 183.204.70.65
+lastlocation:
+  world: world
+  x: -180.02330014119065
+  y: 76.0
+  z: 173.49329652899618
+  yaw: 269.85046
+  pitch: 0.44985256
+money: '70.0'
+logoutlocation:
+  world: world
+  x: -45.67790066363566
+  y: 69.0
+  z: 195.01413653563978
+  yaw: 40.292725
+  pitch: 45.000015
+afk: false

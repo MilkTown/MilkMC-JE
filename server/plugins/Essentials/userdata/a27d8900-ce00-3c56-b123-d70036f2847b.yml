@@ -1,0 +1,30 @@
+lastAccountName: Energy_drink
+timestamps:
+  login: 1528337588226
+  lastteleport: 1528337834627
+  logout: 1528337855836
+ipAddress: 123.7.29.111
+lastlocation:
+  world: world
+  x: -223.49321921543387
+  y: 64.0625
+  z: 14.834976243299748
+  yaw: -95.551155
+  pitch: 15.149989
+afk: false
+logoutlocation:
+  world: world
+  x: -3681.093728092231
+  y: 66.0
+  z: 1624.0132056699324
+  yaw: -262.05032
+  pitch: 16.049923
+homes:
+  home:
+    world: world
+    x: -3666.9175160343602
+    y: 60.0
+    z: 1624.300000011921
+    yaw: -28.050293
+    pitch: 32.999973
+money: '706.8'
