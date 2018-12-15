@@ -1,4 +1,4 @@
--![服务器宣传图](http://flie.hailay.site/Hailaycraft-small.jpg)
+# 服务器更新1.13ing..
 
 -----------
 ### 一.简要介绍
@@ -22,14 +22,6 @@
 #### ●加入
 想与我们一起游戏,认识新朋友（大佬）；创造心中的世界和与基友（姬友）一起建筑、玩红石、挖矿种地打怪吗？快加群吧！
 QQ群：189594977
-
-![HC入群二维码](http://flie.hailay.site/Hailaycraft-QQ-QR-Code.jpg) 
-
-#### ●赞助
-支持支付宝和微信,最好微信啦
-
-![微信](http://flie.hailay.site/wechat-Hailay.jpg) 
-![支付宝](http://flie.hailay.site/Alipay-Hailay.jpg) 
 
 ### 二.入服规定
 #### ● 尊重玩家
@@ -57,72 +49,3 @@ QQ群：189594977
 + 我的世界中文论坛宣传贴: [http://www.mcbbs.net/thread-788166-1-1.html](http://www.mcbbs.net/thread-779646-1-1.html "点击进入服务器宣传贴") 
 + 服务器官网: [http://mc.hailay.site](http://mc.hailay.site "点击进入官网")(预览版)
 + 百度贴吧宣传贴：(旧)[https://tieba.baidu.com/p/5253489405](https://tieba.baidu.com/p/5253489405 "点击进入贴吧")
-
->不可预料的物品遗失/背包清空——请找管理员Grasscraft，尽量原价赔偿
-
-### 四.进服操作
-#### ●下载
-使用启动器现在最新的1.12版本
-
-#### ●环境
-1. 下载最新Java [https://www.java.com/zh_CN/download/](https://www.java.com/zh_CN/download/ "点击官网下载")
-2. 安装最新显卡驱动
-
-#### ●启动
->启动器推荐：
->
->MCCL [http://www.mcbbs.net/thread-627838-1-1.html](http://www.mcbbs.net/thread-627838-1-1.html)
->HMCL [http://www.mcbbs.net/thread-142335-1-1.html](http://www.mcbbs.net/thread-627838-1-1.html)
-
-### 五.指令帮助
-
->DeluxeMeuns - 高级菜单
-
-您可以输入/cmd打开主菜单,您可以进行进行世界传送,领取在线奖励,设置领地权限,查看指令帮助,用随身工作台.
-
->Resdence - 领地系统
-
-我们尊重你的劳动成果,你可以通过圈地来保护你的家园,圈地价格为0.35/方块,圈地工具为木棍,圈地大小及领地数量由玩家等级来决定!
-- 插件常用指令:
-- /res ? [页数] - 显示帮助
-- /res create [领地名] - 创建领地
-- /res remove [领地名] - 移除领地
-- /res removeall - 移除所有领地
-- /res info <领地名> - 得到某领地的信息
-- /res list - 显示你拥有的领地
-- /res set <领地名> - 设置领地权限
-- /res give [领地名] [玩家名] - 给予玩家领地
-- /res tp [领地名] - 传送到领地
-
->QuickShop - 快捷商店
-
-我们鼓励您和其他玩家交易,系统商店仅设置收购商店,你可以通过搜集资源用资源换取金币,建筑权限组将有建筑方块和装饰性方块商店!
-
-插件常用指令:
-- /qs - 查看帮助
-- /qs create - 创建商店
-- /qs sell - 设置商店为出售
-- /qs buy - 设置商店为收购
-
->LevelSignPlus - 等级系统
-
-通过领取定时奖励,获得经验,后进行升级增加领地数量,圈地大小,生命值和攻击加成,防止了不活越的玩家,占用大片土地圈为私自的领地!
-- 插件常用指令:
-- /level - 查看帮助
-- /level me - 查看自己等级信息
-- /level <玩家名> - 查看玩家等级信息
-
->GroupManager - 权限管理
-- 待补充
-
->TimedRewards - 定时奖励
-
->CoreProtect - 回档查询
-
->Essentials - 基础插件
-
->BBSToper - 顶贴奖励
-
->Scavenger - 死亡恢复
-
->Reports - 反馈系统
