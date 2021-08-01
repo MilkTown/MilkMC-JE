@@ -3,3 +3,7 @@ world*/
 *.gz
 *.log
 *Data/
+server/plugins/UltiTools/loginData/loginState.yml
+server/plugins/EasyBot_Reloaded/playerConfig.yml
+server/usercache.json
+server/logs/latest.log

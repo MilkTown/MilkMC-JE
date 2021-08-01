@@ -187,3 +187,12 @@
 2021年7月31日下午4:35:04    位于 me.ed333.easyBot.utils.JsonParse.getSender_group_json(JsonParse.java:48)
 2021年7月31日下午4:35:04    位于 me.ed333.easyBot.utils.JsonParse.getGroupID(JsonParse.java:75)
 2021年7月31日下午4:35:04    位于 me.ed333.easyBot.events.bot.MessageEvent.MessageEvent.getGroupId(MessageEvent.java:73)
+2021年8月1日下午7:29:29[Yum 事件监控] 插件 EasyBot_Reloaded 处理 GroupMessageReceiveEvent 事件时发生异常!
+2021年8月1日下午7:29:29异常名称: net.sf.json.JSONException
+2021年8月1日下午7:29:29异常说明: null object
+2021年8月1日下午7:29:29简易错误信息如下:
+2021年8月1日下午7:29:29    位于 net.sf.json.JSONObject.verifyIsNull(JSONObject.java:2744)
+2021年8月1日下午7:29:29    位于 net.sf.json.JSONObject.getJSONObject(JSONObject.java:2050)
+2021年8月1日下午7:29:29    位于 me.ed333.easyBot.utils.JsonParse.getSender_group_json(JsonParse.java:48)
+2021年8月1日下午7:29:29    位于 me.ed333.easyBot.utils.JsonParse.getGroupID(JsonParse.java:75)
+2021年8月1日下午7:29:29    位于 me.ed333.easyBot.events.bot.MessageEvent.MessageEvent.getGroupId(MessageEvent.java:73)

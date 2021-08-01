@@ -1,109 +1,102 @@
-[19:10:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:10:01] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:10:02] [Worker-Main-6/INFO]: Loaded 7 recipes
-[19:10:04] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[19:10:04] [Server thread/INFO]: Loading properties
-[19:10:04] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: c225bf9)
-[19:10:04] [Server thread/INFO]: Debug logging is disabled
-[19:10:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:10:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:10:04] [Server thread/INFO]: Default game type: SURVIVAL
-[19:10:04] [Server thread/INFO]: Generating keypair
-[19:10:04] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:11000
-[19:10:04] [Server thread/INFO]: Using default channel type
-[19:10:05] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:10:11] [Server thread/WARN]: Legacy plugin Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d does not specify an api-version.
-[19:10:11] [Server thread/INFO]: [Yum] Loading Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d
-[19:10:11] [Server thread/INFO]: [网络管理] 注入网络管理系统 将托管服务器网络!
-[19:10:11] [Server thread/INFO]: [EasyBot_Reloaded] Loading EasyBot_Reloaded v1.5
-[19:10:11] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
-[19:10:11] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
-[19:10:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
-[19:10:11] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
-[19:10:11] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
-[19:10:11] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
-[19:10:11] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
-[19:10:11] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
-[19:10:11] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
-[19:10:12] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[19:10:12] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
-[19:10:12] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[19:10:12] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[19:10:12] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
-[19:10:12] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
-[19:10:12] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
-[19:10:12] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
-[19:10:12] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
-[19:10:12] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
-[19:10:12] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
-[19:10:12] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
-[19:10:12] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
-[19:10:12] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
-[19:10:12] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.1
-[19:10:12] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.6-beta-02+2e45a20
-[19:10:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@585c4ad5]
-[19:10:13] [Server thread/INFO]: [UltiTools] Loading UltiCore v1.2.0
-[19:10:13] [Server thread/INFO]: [UltiTools] Loading UltiTools v5.1.1
-[19:10:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:10:13] [Server thread/INFO]: [Yum] Enabling Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d*
-[19:10:13] [Server thread/INFO]: [Yum] 服务端未注入安全拦截器 关闭功能...
-[19:10:13] [Server thread/INFO]: [Yum] 网络管理系统已启用...
-[19:10:13] [Server thread/INFO]: [Yum] 线程管理系统已启用...
-[19:10:13] [Server thread/INFO]: [Yum] 性能监控系统已启用...
-[19:10:13] [Server thread/INFO]: [Yum] I O 管理系统已启用...
-[19:10:13] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[19:10:13] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[19:10:13] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[19:10:13] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.6-beta-02+2e45a20
-[19:10:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[19:10:13] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[19:10:14] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_17_R1_2 as the Bukkit adapter
-[19:10:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:10:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:10:15] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[19:10:15] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
-[19:10:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:10:15] [Server thread/INFO]: Preparing level "world"
-[19:10:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:10:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:10:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:10:18] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:10:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:10:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:18] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:10:19] [Server thread/INFO]: Time elapsed: 2698 ms
-[19:10:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:10:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:10:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:10:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:22] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:10:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:10:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:10:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:10:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:10:24] [Server thread/INFO]: Time elapsed: 5487 ms
-[19:10:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:10:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:10:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:10:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:10:26] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:10:26] [Server thread/INFO]: Time elapsed: 1981 ms
-[19:10:26] [Server thread/INFO]: [EasyBot_Reloaded] Enabling EasyBot_Reloaded v1.5
-[19:10:26] [Server thread/WARN]: [EasyBot_Reloaded] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.10.10 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: txt
-[19:10:26] [Server thread/INFO]: BOT: 注册bot...
-[19:10:27] [Server thread/INFO]: BOT: 验证身份成功!
-[19:10:27] [Server thread/INFO]: BOT: 绑定BOT...
-[19:10:27] [Server thread/INFO]: BOT: 绑定成功!
-[19:10:27] [Server thread/INFO]: BOT: 链接服务器中...
-[19:10:27] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
-[19:10:27] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
-[19:10:27] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
-[19:10:27] [WebSocketConnectReadThread-77/INFO]: BOT: 连接成功！ 状态: Switching Protocols | 101
-[19:10:27] [WebSocketConnectReadThread-77/ERROR]: [org.java_websocket.drafts.Draft_6455] Runtime exception during onWebsocketMessage
+[20:31:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:31:49] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[20:31:49] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:31:50] [Worker-Main-6/INFO]: Loaded 7 recipes
+[20:31:52] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[20:31:52] [Server thread/INFO]: Loading properties
+[20:31:52] [Server thread/INFO]: This server is running Paper version git-Paper-118 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: c225bf9)
+[20:31:52] [Server thread/INFO]: Debug logging is disabled
+[20:31:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:31:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:31:52] [Server thread/INFO]: Default game type: SURVIVAL
+[20:31:52] [Server thread/INFO]: Generating keypair
+[20:31:52] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:11000
+[20:31:52] [Server thread/INFO]: Using default channel type
+[20:31:53] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:31:59] [Server thread/WARN]: Legacy plugin Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d does not specify an api-version.
+[20:31:59] [Server thread/INFO]: [Yum] Loading Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d
+[20:31:59] [Server thread/INFO]: [网络管理] 注入网络管理系统 将托管服务器网络!
+[20:31:59] [Server thread/INFO]: [EasyBot_Reloaded] Loading EasyBot_Reloaded v1.5
+[20:31:59] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[20:31:59] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[20:32:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[20:32:00] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[20:32:00] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[20:32:00] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[20:32:00] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[20:32:00] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[20:32:00] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[20:32:00] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[20:32:00] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
+[20:32:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:32:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:32:00] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[20:32:00] [Via-Mappingloader-1/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[20:32:00] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[20:32:00] [Via-Mappingloader-0/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[20:32:00] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[20:32:01] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[20:32:01] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[20:32:01] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[20:32:01] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[20:32:01] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.10
+[20:32:01] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.1.1
+[20:32:01] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.6-beta-02+2e45a20
+[20:32:02] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@72ab6911]
+[20:32:02] [Server thread/INFO]: [UltiTools] Loading UltiCore v1.2.0
+[20:32:02] [Server thread/INFO]: [UltiTools] Loading UltiTools v5.1.1
+[20:32:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:32:02] [Server thread/INFO]: [Yum] Enabling Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d*
+[20:32:02] [Server thread/INFO]: [Yum] 服务端未注入安全拦截器 关闭功能...
+[20:32:02] [Server thread/INFO]: [Yum] 网络管理系统已启用...
+[20:32:02] [Server thread/INFO]: [Yum] 线程管理系统已启用...
+[20:32:02] [Server thread/INFO]: [Yum] 性能监控系统已启用...
+[20:32:02] [Server thread/INFO]: [Yum] I O 管理系统已启用...
+[20:32:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[20:32:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[20:32:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[20:32:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.6-beta-02+2e45a20
+[20:32:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:32:02] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[20:32:02] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_17_R1_2 as the Bukkit adapter
+[20:32:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:32:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:32:04] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[20:32:04] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[20:32:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:32:04] [Server thread/INFO]: Preparing level "world"
+[20:32:09] [Server thread/WARN]: Unable to find spawn biome
+[20:32:10] [Server thread/WARN]: Unable to find spawn biome
+[20:32:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:32:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:32:11] [Server thread/INFO]: Time elapsed: 1108 ms
+[20:32:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:32:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:32:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:32:13] [Server thread/INFO]: Time elapsed: 1823 ms
+[20:32:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:32:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:32:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:32:14] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:32:15] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:32:15] [Server thread/INFO]: Time elapsed: 1739 ms
+[20:32:15] [Server thread/INFO]: [EasyBot_Reloaded] Enabling EasyBot_Reloaded v1.5
+[20:32:15] [Server thread/WARN]: [EasyBot_Reloaded] Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.10.10 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: txt
+[20:32:15] [Server thread/INFO]: BOT: 注册bot...
+[20:32:16] [Server thread/INFO]: BOT: 验证身份成功!
+[20:32:16] [Server thread/INFO]: BOT: 绑定BOT...
+[20:32:16] [Server thread/INFO]: BOT: 绑定成功!
+[20:32:16] [Server thread/INFO]: BOT: 链接服务器中...
+[20:32:16] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[20:32:16] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
+[20:32:16] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.10
+[20:32:16] [WebSocketConnectReadThread-75/INFO]: BOT: 连接成功！ 状态: Switching Protocols | 101
+[20:32:16] [WebSocketConnectReadThread-75/ERROR]: [org.java_websocket.drafts.Draft_6455] Runtime exception during onWebsocketMessage
 net.sf.json.JSONException: JSONObject["type"] not found.
 	at net.sf.json.JSONObject.getString(JSONObject.java:2092) ~[?:?]
 	at me.ed333.easyBot.events.bot.BotEventHandle.<init>(BotEventHandle.java:14) ~[?:?]
@@ -115,180 +108,113 @@ net.sf.json.JSONException: JSONObject["type"] not found.
 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:216) ~[?:?]
 	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:506) ~[?:?]
 	at java.lang.Thread.run(Thread.java:831) [?:?]
-[19:10:27] [WebSocketConnectReadThread-77/INFO]: BOT: 出错了！原因: JSONObject["type"] not found.
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: net.sf.json.JSONException: JSONObject["type"] not found.
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at net.sf.json.JSONObject.getString(JSONObject.java:2092)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at me.ed333.easyBot.events.bot.BotEventHandle.<init>(BotEventHandle.java:14)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at me.ed333.easyBot.Client.onMessage(Client.java:33)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.client.WebSocketClient.onWebsocketMessage(WebSocketClient.java:593)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.drafts.Draft_6455.processFrameText(Draft_6455.java:885)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.drafts.Draft_6455.processFrame(Draft_6455.java:819)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.WebSocketImpl.decodeFrames(WebSocketImpl.java:379)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:216)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:506)
-[19:10:27] [WebSocketConnectReadThread-77/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
-[19:10:27] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.viaversion.viaversion.api.type.Type from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.1
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] Unsupported plugin (ViaVersion or ProtocolSupport) detected, forcing SpigotSkinRefresher
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_17_R1, using SkinApplierBukkit.
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
-[19:10:27] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
-[19:10:27] [Server thread/INFO]: [UltiTools] Enabling UltiCore v1.2.0
-[19:10:27] [placeholderapi-io-#0/WARN]: [Yum] Loaded class me.clip.placeholderapi.expansion.manager.CloudExpansionManager from PlaceholderAPI v2.10.10 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [placeholderapi-io-#0/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [placeholderapi-io-#0/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
-[19:10:27] [Server thread/INFO]: UltiCore插件已加载！
-[19:10:27] [Server thread/INFO]: [UltiTools] Enabling UltiTools v5.1.1
-[19:10:27] [Server thread/INFO]: Could not save playerlist.yml to plugins\UltiTools\playerData\playerlist\playerlist.yml because playerlist.yml already exists.
-[19:10:27] [Server thread/INFO]: [UltiTools] 正在加载世界中...
-[19:10:27] [Server thread/INFO]: [UltiTools] 世界加载成功！
-[19:10:27] [Server thread/INFO]: [UltiTools] 基础插件已加载！
-[19:10:27] [Server thread/INFO]: [UltiTools] 作者：wisdomme
-[19:10:27] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:10:27] [Server thread/INFO]: Starting GS4 status listener
-[19:10:27] [Server thread/INFO]: Thread Query Listener started
-[19:10:27] [Server thread/INFO]: Starting remote control listener
-[19:10:27] [Query Listener #1/INFO]: Query running on 127.0.0.1:11000
-[19:10:27] [Server thread/INFO]: Thread RCON Listener started
-[19:10:27] [Server thread/INFO]: RCON running on 127.0.0.1:11001
-[19:10:27] [Server thread/INFO]: Running delayed init tasks
-[19:10:27] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
-[19:10:27] [Craft Scheduler Thread - 4/WARN]: [Yum] Loaded class com.viaversion.viaversion.update.UpdateUtil from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [Craft Scheduler Thread - 2/WARN]: [Yum] Loaded class com.ultikits.checker.UltiCoreAPIVersionChecker$1 from UltiCore v1.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [Craft Scheduler Thread - 8/WARN]: [Yum] Loaded class com.ultikits.ultitools.checker.VersionChecker$1 from UltiTools v5.1.1 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [Craft Scheduler Thread - 2/INFO]: [Yum] [Yum 网络管理] 插件 UltiCore 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 插件 UltiTools 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627816227947
-[19:10:27] [Craft Scheduler Thread - 2/INFO]: [Yum] [Yum 网络管理] 地址: https://download.ultikits.com/index.markdown
-[19:10:27] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 地址: https://download.ultikits.com/index.markdown
-[19:10:27] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spigotmc.org/legacy/update.php?resource=6245
-[19:10:27] [Craft Scheduler Thread - 3/WARN]: [Yum] Loaded class net.skinsrestorer.shared.update.UpdateCheckerGitHub from SkinsRestorer v14.1.1 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:27] [Craft Scheduler Thread - 3/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试访问网络 请注意服务器网络安全!
-[19:10:27] [Craft Scheduler Thread - 3/INFO]: [Yum] [Yum 网络管理] 地址: https://api.github.com/repos/SkinsRestorer/SkinsRestorerX/releases/latest
-[19:10:28] [Server thread/INFO]: [SkinsRestorer] Activating ViaBackwards workaround.
-[19:10:28] [Server thread/INFO]: No expansions were registered!
-[19:10:28] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[19:10:28] [Server thread/INFO]: Done (23.907s)! For help, type "help"
-[19:10:28] [Server thread/INFO]: Timings Reset
-[19:10:28] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
-[19:10:28] [Craft Scheduler Thread - 7/WARN]: [Yum] Loaded class net.milkbowl.vault.Vault from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
-[19:10:28] [Craft Scheduler Thread - 8/INFO]: [UltiTools] 正在检查更新...
-[19:10:28] [Craft Scheduler Thread - 8/INFO]: [UltiTools] 太棒了！你的插件是最新的！保持最新的版本可以为你带来最好的体验！
-[19:10:28] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 插件 Vault 尝试访问网络 请注意服务器网络安全!
-[19:10:28] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectids=33184
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     | SkinsRestorer |
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |---------------|
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     |  Bungee Mode  |
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     +===============+
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     Current version: 14.1.1
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer]     This is the latest version!
-[19:10:28] [Craft Scheduler Thread - 3/INFO]: [SkinsRestorer] ----------------------------------------------
-[19:10:28] [Craft Scheduler Thread - 1/INFO]: 仓库: Yum官方仓库 更新成功!
-[19:10:29] [Craft Scheduler Thread - 1/INFO]: 仓库: Yum代理仓库 更新成功!
-[19:10:30] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
-[19:10:30] [Craft Scheduler Thread - 1/INFO]: 仓库: Yum代理仓库 更新成功!
-[19:10:31] [Craft Scheduler Thread - 1/INFO]: 仓库: Yum源仓库 更新成功!
-[19:10:31] [Craft Scheduler Thread - 1/INFO]: 仓库: Yum收费仓库 更新成功!
-[19:10:31] [Craft Scheduler Thread - 1/INFO]: 仓库: MengCraft仓库 更新成功!
-[19:10:32] [Craft Scheduler Thread - 1/INFO]: 仓库: SUM香港仓库 更新成功!
-[19:10:32] [Craft Scheduler Thread - 1/INFO]: 仓库: ProtocolLib仓库 更新成功!
-[19:10:32] [Craft Scheduler Thread - 1/INFO]: 源: Yum中心源 更新成功!
-[19:11:10] [placeholderapi-io-#0/WARN]: [PlaceholderAPI] Failed to download expansion information
-java.net.ConnectException: Connection timed out: connect
-	at sun.nio.ch.Net.connect0(Native Method) ~[?:?]
-	at sun.nio.ch.Net.connect(Net.java:576) ~[?:?]
-	at sun.nio.ch.Net.connect(Net.java:565) ~[?:?]
-	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588) ~[?:?]
-	at java.net.Socket.connect(Socket.java:645) ~[?:?]
-	at java.net.Socket.connect(Socket.java:595) ~[?:?]
-	at sun.net.NetworkClient.doConnect(NetworkClient.java:182) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:497) ~[?:?]
-	at sun.net.www.http.HttpClient.openServer(HttpClient.java:600) ~[?:?]
-	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:743) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1676) ~[?:?]
-	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577) ~[?:?]
-	at java.net.URL.openStream(URL.java:1192) ~[?:?]
-	at com.google.common.io.Resources$UrlByteSource.openStream(Resources.java:72) ~[patched_1.17.1.jar:git-Paper-118]
-	at com.google.common.io.ByteSource$AsCharSource.openStream(ByteSource.java:456) ~[patched_1.17.1.jar:git-Paper-118]
-	at com.google.common.io.CharSource.read(CharSource.java:232) ~[patched_1.17.1.jar:git-Paper-118]
-	at com.google.common.io.Resources.toString(Resources.java:111) ~[patched_1.17.1.jar:git-Paper-118]
-	at me.clip.placeholderapi.expansion.manager.CloudExpansionManager.lambda$fetch$4(CloudExpansionManager.java:180) ~[?:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[?:?]
-	at java.lang.Thread.run(Thread.java:831) [?:?]
-[19:12:34] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 服务器貌似又崩了。。。
-[19:12:37] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: mei
-[19:12:40] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: 重启了
-[19:12:41] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: [图片]
-[19:12:52] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 没崩，重启了
-[19:12:54] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 233333
-[19:14:21] [bStats-Metrics/WARN]: [Yum] Loaded class com.sk89q.worldedit.bstats.MetricsBase from WorldEdit v7.2.6-beta-02+2e45a20 which is not a depend, softdepend or loadbefore of this plugin.
-[19:23:36] [User Authenticator #1/INFO]: UUID of player GP_Dezhao is 1214adfa-2152-313e-9a1a-22e234141ef0
-[19:23:36] [Server thread/INFO]: [HailayLin]
-[19:23:36] [Server thread/INFO]: [玩家] GP_Dezhao 已上线
-[19:23:36] [Server thread/INFO]: 欢迎新玩家 GP_Dezhao 加入服务器！
-[19:23:36] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 UltiTools 处理 PlayerJoinEvent 事件 耗时 27ms 平均耗时 27ms!
-[19:23:36] [Server thread/INFO]: GP_Dezhao[/127.0.0.1:61281] logged in with entity id 246 at ([world]146.5, 71.0, -236.5)
-[19:23:52] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 UltiTools 处理 InventoryClickEvent 事件 耗时 26ms 平均耗时 26ms!
-[19:24:31] [Server thread/INFO]: GP_Dezhao lost connection: Disconnected
-[19:24:31] [Server thread/INFO]: [玩家] GP_Dezhao 已下线
-[19:25:08] [User Authenticator #2/INFO]: UUID of player GP_Dezhao is 1214adfa-2152-313e-9a1a-22e234141ef0
-[19:25:08] [Server thread/INFO]: [玩家] GP_Dezhao 已上线
-[19:25:08] [Server thread/INFO]: GP_Dezhao[/127.0.0.1:64711] logged in with entity id 444 at ([world]137.67774494081786, 70.0, -240.07334811280234)
-[19:26:32] [Server thread/INFO]: GP_Dezhao was pricked to death
-[19:26:57] [Server thread/INFO]: GP_Dezhao lost connection: Disconnected
-[19:26:57] [Server thread/INFO]: [玩家] GP_Dezhao 已下线
-[19:27:29] [User Authenticator #3/INFO]: UUID of player HailayLin is 3c8bba07-75a6-31c0-a418-3d80014af2ca
-[19:27:29] [Server thread/INFO]: [HailayLin]
-[19:27:29] [Server thread/INFO]: [管理员] HailayLin 已上线
-[19:27:29] [Server thread/INFO]: HailayLin[/127.0.0.1:56672] logged in with entity id 823 at ([world]142.69999998807907, 75.0, -256.94192353751635)
-[19:27:29] [Craft Scheduler Thread - 11/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
-[19:27:29] [Craft Scheduler Thread - 11/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627817249790
-[19:27:49] [Server thread/INFO]: HailayLin lost connection: Disconnected
-[19:27:49] [Server thread/INFO]: [管理员] HailayLin 已下线
-[19:28:30] [User Authenticator #4/INFO]: UUID of player HailayLin is 3c8bba07-75a6-31c0-a418-3d80014af2ca
-[19:28:30] [Server thread/INFO]: [HailayLin]
-[19:28:30] [Server thread/INFO]: [管理员] HailayLin 已上线
-[19:28:30] [Server thread/INFO]: HailayLin[/127.0.0.1:56748] logged in with entity id 876 at ([world]142.69999998807907, 75.0, -256.94192353751635)
-[19:28:30] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
-[19:28:30] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627817310144
-[19:28:50] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 我怎么
-[19:29:04] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: ？
-[19:29:08] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 转到后备服务器去了。。。
-[19:29:11] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: /server
-[19:29:14] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: [图片]
-[19:29:21] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: /server milktown
-[19:29:24] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: [图片]
-[19:29:27] [WebSocketConnectReadThread-77/INFO]: [QQ群] HailayLin 说: 到这个服务器
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum] [Yum 事件监控] 插件 EasyBot_Reloaded 处理 GroupMessageReceiveEvent 事件时发生异常!
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum] 异常名称: net.sf.json.JSONException
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum] 异常说明: null object
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum] 简易错误信息如下:
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum]     位于 net.sf.json.JSONObject.verifyIsNull(JSONObject.java:2744)
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum]     位于 net.sf.json.JSONObject.getJSONObject(JSONObject.java:2050)
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum]     位于 me.ed333.easyBot.utils.JsonParse.getSender_group_json(JsonParse.java:48)
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum]     位于 me.ed333.easyBot.utils.JsonParse.getGroupID(JsonParse.java:75)
-[19:29:29] [WebSocketConnectReadThread-77/INFO]: [Yum]     位于 me.ed333.easyBot.events.bot.MessageEvent.MessageEvent.getGroupId(MessageEvent.java:73)
-[19:29:37] [User Authenticator #5/INFO]: UUID of player Eskin_ is c9105f64-138e-3c2e-b7b6-192f4a739a0a
-[19:29:40] [Server thread/INFO]: [管理员] Eskin_ 已上线
-[19:29:40] [Server thread/INFO]: Eskin_[/127.0.0.1:56819] logged in with entity id 1005 at ([world]2419.4989129440078, 98.15978120057902, 4566.834916863381)
-[19:29:40] [Craft Scheduler Thread - 14/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
-[19:29:40] [Craft Scheduler Thread - 14/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627817380246
-[19:29:56] [Server thread/INFO]: Eskin_ issued server command: /fly
-[19:30:26] [Server thread/INFO]: Eskin_ issued server command: /back
-[19:30:46] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: [图片]
-[19:30:48] [WebSocketConnectReadThread-77/INFO]: [QQ群] [未绑定的QQ] 说: 秀
-[19:33:11] [Server thread/INFO]: HailayLin was slain by Zombie
+[20:32:16] [WebSocketConnectReadThread-75/INFO]: BOT: 出错了！原因: JSONObject["type"] not found.
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: net.sf.json.JSONException: JSONObject["type"] not found.
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at net.sf.json.JSONObject.getString(JSONObject.java:2092)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at me.ed333.easyBot.events.bot.BotEventHandle.<init>(BotEventHandle.java:14)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at me.ed333.easyBot.Client.onMessage(Client.java:33)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.client.WebSocketClient.onWebsocketMessage(WebSocketClient.java:593)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.drafts.Draft_6455.processFrameText(Draft_6455.java:885)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.drafts.Draft_6455.processFrame(Draft_6455.java:819)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.WebSocketImpl.decodeFrames(WebSocketImpl.java:379)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.WebSocketImpl.decode(WebSocketImpl.java:216)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at org.java_websocket.client.WebSocketClient.run(WebSocketClient.java:506)
+[20:32:16] [WebSocketConnectReadThread-75/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:831)
+[20:32:17] [Server thread/WARN]: [PlaceholderAPI] Loaded class com.viaversion.viaversion.api.type.Type from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:17] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.1.1
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] Unsupported plugin (ViaVersion or ProtocolSupport) detected, forcing SpigotSkinRefresher
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] Using SpigotSkinRefresher
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] Detected Minecraft v1_17_R1, using SkinApplierBukkit.
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] -------------------------/Warning\-------------------------
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] This plugin is running in Bungee mode!
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] You have to do all configuration at config file
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] inside your Bungeecord server.
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] (Bungeecord-Server/plugins/SkinsRestorer/).
+[20:32:17] [Server thread/INFO]: [SkinsRestorer] -------------------------\Warning/-------------------------
+[20:32:17] [Server thread/INFO]: [UltiTools] Enabling UltiCore v1.2.0
+[20:32:17] [placeholderapi-io-#0/WARN]: [Yum] Loaded class me.clip.placeholderapi.expansion.manager.CloudExpansionManager from PlaceholderAPI v2.10.10 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:17] [placeholderapi-io-#0/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[20:32:17] [placeholderapi-io-#0/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
+[20:32:17] [Server thread/INFO]: UltiCore插件已加载！
+[20:32:17] [Server thread/INFO]: [UltiTools] Enabling UltiTools v5.1.1
+[20:32:17] [Server thread/INFO]: Could not save playerlist.yml to plugins\UltiTools\playerData\playerlist\playerlist.yml because playerlist.yml already exists.
+[20:32:17] [Server thread/INFO]: [UltiTools] 正在加载世界中...
+[20:32:17] [Server thread/INFO]: [UltiTools] 世界加载成功！
+[20:32:18] [Server thread/INFO]: [UltiTools] 基础插件已加载！
+[20:32:18] [Server thread/INFO]: [UltiTools] 作者：wisdomme
+[20:32:18] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:32:18] [Server thread/INFO]: Starting GS4 status listener
+[20:32:18] [Server thread/INFO]: Thread Query Listener started
+[20:32:18] [Server thread/INFO]: Starting remote control listener
+[20:32:18] [Query Listener #1/INFO]: Query running on 127.0.0.1:11000
+[20:32:18] [Server thread/INFO]: Thread RCON Listener started
+[20:32:18] [Server thread/INFO]: RCON running on 127.0.0.1:11001
+[20:32:18] [Server thread/INFO]: Running delayed init tasks
+[20:32:18] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[20:32:18] [Craft Scheduler Thread - 7/WARN]: [Yum] Loaded class com.ultikits.checker.UltiCoreAPIVersionChecker$1 from UltiCore v1.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:18] [Craft Scheduler Thread - 4/WARN]: [Yum] Loaded class com.viaversion.viaversion.update.UpdateUtil from ViaVersion v4.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:18] [Craft Scheduler Thread - 8/WARN]: [Yum] Loaded class com.ultikits.ultitools.checker.VersionChecker$1 from UltiTools v5.1.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:18] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[20:32:18] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 插件 UltiCore 尝试访问网络 请注意服务器网络安全!
+[20:32:18] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
+[20:32:18] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spigotmc.org/legacy/update.php?resource=6245
+[20:32:18] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 地址: https://download.ultikits.com/index.markdown
+[20:32:18] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627821138611
+[20:32:18] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 插件 UltiTools 尝试访问网络 请注意服务器网络安全!
+[20:32:18] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 地址: https://download.ultikits.com/index.markdown
+[20:32:18] [Craft Scheduler Thread - 6/WARN]: [Yum] Loaded class net.skinsrestorer.shared.update.UpdateCheckerGitHub from SkinsRestorer v14.1.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:18] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 插件 SkinsRestorer 尝试访问网络 请注意服务器网络安全!
+[20:32:18] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 地址: https://api.github.com/repos/SkinsRestorer/SkinsRestorerX/releases/latest
+[20:32:18] [Server thread/INFO]: [SkinsRestorer] Activating ViaBackwards workaround.
+[20:32:18] [Server thread/INFO]: No expansions were registered!
+[20:32:18] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[20:32:18] [Server thread/INFO]: Done (26.447s)! For help, type "help"
+[20:32:18] [Server thread/INFO]: Timings Reset
+[20:32:18] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[20:32:18] [Craft Scheduler Thread - 3/WARN]: [Yum] Loaded class net.milkbowl.vault.Vault from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: Yum官方仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: Yum代理仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: Yum代理仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: Yum源仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: Yum收费仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 8/INFO]: [UltiTools] 正在检查更新...
+[20:32:19] [Craft Scheduler Thread - 8/INFO]: [UltiTools] 太棒了！你的插件是最新的！保持最新的版本可以为你带来最好的体验！
+[20:32:19] [Craft Scheduler Thread - 3/INFO]: [Yum] [Yum 网络管理] 插件 Vault 尝试访问网络 请注意服务器网络安全!
+[20:32:19] [Craft Scheduler Thread - 3/INFO]: [Yum] [Yum 网络管理] 地址: https://servermods.forgesvc.net/servermods/files?projectids=33184
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: MengCraft仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 0/INFO]: 仓库: SUM香港仓库 更新成功!
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     +===============+
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     | SkinsRestorer |
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     |---------------|
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     |  Bungee Mode  |
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     +===============+
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     Current version: 14.1.1
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer]     This is the latest version!
+[20:32:19] [Craft Scheduler Thread - 6/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:32:20] [Craft Scheduler Thread - 0/INFO]: 仓库: ProtocolLib仓库 更新成功!
+[20:32:20] [Craft Scheduler Thread - 0/INFO]: 源: Yum中心源 更新成功!
+[20:32:21] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[20:36:59] [bStats-Metrics/WARN]: [Yum] Loaded class com.sk89q.worldedit.bstats.MetricsBase from WorldEdit v7.2.6-beta-02+2e45a20 which is not a depend, softdepend or loadbefore of this plugin.
+[20:40:14] [User Authenticator #1/INFO]: UUID of player Eskin_ is c9105f64-138e-3c2e-b7b6-192f4a739a0a
+[20:40:15] [Server thread/INFO]: [管理员] Eskin_ 已上线
+[20:40:15] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 UltiTools 处理 PlayerJoinEvent 事件 耗时 43ms 平均耗时 43ms!
+[20:40:15] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 UltiTools 处理 PlayerJoinEvent 事件 耗时 24ms 平均耗时 24ms!
+[20:40:15] [Server thread/INFO]: Eskin_[/127.0.0.1:59445] logged in with entity id 325 at ([world]-49.5, 67.0, -251.5)
+[20:40:15] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 插件 ViaVersion 尝试访问网络 请注意服务器网络安全!
+[20:40:15] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spiget.org/v2/resources/19254/versions/latest?1627821615340
+[20:40:19] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 UltiTools 处理 InventoryClickEvent 事件 耗时 30ms 平均耗时 30ms!
+[20:40:32] [Server thread/INFO]: Eskin_ issued server command: /fly
+[20:47:28] [Server thread/INFO]: Eskin_ has made the advancement [Sweet Dreams]
+[20:49:12] [Server thread/INFO]: Eskin_ issued server command: /sethome
+[20:51:42] [Server thread/INFO]: Eskin_ has made the advancement [Stone Age]
+[20:52:59] [Server thread/INFO]: Eskin_ was slain by Zombie Villager
+[20:53:20] [Server thread/INFO]: Eskin_ has made the advancement [Local Brewery]
+[20:53:56] [Server thread/INFO]: Eskin_ was slain by Zombie Villager
+[20:54:23] [Server thread/INFO]: Eskin_ has made the advancement [Monster Hunter]
+[20:55:07] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[20:56:09] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[20:57:28] [Server thread/INFO]: Eskin_ has made the advancement [Getting an Upgrade]
+[20:59:46] [Server thread/INFO]: Eskin_ issued server command: /fly
