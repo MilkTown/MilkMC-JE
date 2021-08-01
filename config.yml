@@ -24,8 +24,8 @@ plugin_directories:
 rcon:
   enable: false
   address: 127.0.0.1
-  port: 25575
-  password: password
+  port: 11001
+  password: MilkTownRCON
 check_update: true
 disable_console_thread: false
 disable_console_color: false

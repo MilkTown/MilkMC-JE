@@ -251,3 +251,136 @@ java.net.ConnectException: Connection timed out: connect
 [14:52:39] [Async Chat Thread - #0/INFO]: [world][Lv.][HailayLin] 试试能不能用we
 [14:52:50] [Server thread/INFO]: Eskin_ issued server command: /tool
 [14:54:15] [Server thread/INFO]: Eskin_ issued server command: /fly
+[14:55:12] [Server thread/INFO]: HailayLin was shot by Skeleton
+[14:55:14] [Server thread/INFO]: Eskin_ issued server command: //brush
+[14:55:22] [Server thread/WARN]: UUID of added entity already exists: EntitySheep['Sheep'/4069, uuid='3ead92f8-8e7e-417b-ab44-407882eee887', l='ServerLevel[world]', x=-39.92, y=71.00, z=-277.08, cpos=[-3, -18], tl=79238, v=false, rR=null]
+[14:55:27] [Server thread/INFO]: Eskin_ issued server command: //brush
+[14:55:31] [Server thread/INFO]: HailayLin issued server command: /sethome
+[14:55:33] [Server thread/INFO]: HailayLin issued server command: /home
+[14:55:46] [Server thread/INFO]: HailayLin issued server command: /gamemode 1
+[14:55:50] [Server thread/INFO]: HailayLin issued server command: /gamemode creative
+[14:55:50] [Server thread/INFO]: [HailayLin: Set own game mode to Creative Mode]
+[14:55:54] [Server thread/INFO]: Eskin_ issued server command: //brush air
+[14:56:01] [Server thread/INFO]: HailayLin issued server command: //set 1
+[14:56:05] [Server thread/INFO]: HailayLin issued server command: //undo
+[14:56:22] [Server thread/INFO]: Eskin_ issued server command: //brush snow cuboid
+[14:56:23] [Async Chat Thread - #1/INFO]: [world][Lv.][HailayLin] we可以用了，小木斧
+[14:56:37] [WebSocketConnectReadThread-71/INFO]: [QQ群] [未绑定的QQ] 说:  ok
+[14:57:08] [WebSocketConnectReadThread-71/INFO]: [QQ群] [未绑定的QQ] 说: 好耶！
+[14:58:39] [Server thread/INFO]: Eskin_ issued server command: //wand
+[14:59:37] [Server thread/INFO]: Eskin_ issued server command: //copy
+[14:59:49] [Server thread/INFO]: HailayLin lost connection: Disconnected
+[14:59:49] [Server thread/INFO]: [管理员] HailayLin 已下线
+[14:59:55] [Server thread/INFO]: Eskin_ issued server command: //paste
+[15:00:20] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:00:54] [Server thread/INFO]: Eskin_ issued server command: //copy
+[15:01:02] [Server thread/INFO]: Eskin_ issued server command: //paste
+[15:01:12] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:01:39] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:01:52] [Server thread/INFO]: Eskin_ issued server command: //copy
+[15:01:58] [Server thread/INFO]: Eskin_ issued server command: //paste
+[15:02:12] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:02:19] [Server thread/INFO]: Eskin_ issued server command: //paste
+[15:02:24] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:02:32] [Server thread/INFO]: Eskin_ issued server command: //copy
+[15:02:37] [Server thread/INFO]: Eskin_ issued server command: //paste
+[15:02:48] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:02:54] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:03:36] [Server thread/INFO]: Eskin_ issued server command: //replacenear air
+[15:03:48] [Server thread/INFO]: Eskin_ issued server command: //undp
+[15:03:52] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:05:08] [Server thread/INFO]: Eskin_ issued server command: //replace #air acacia_leaves
+[15:05:36] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:05:53] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:06:05] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:06:24] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:07:11] [Server thread/INFO]: Eskin_ issued server command: /weather thunder
+[15:07:11] [Server thread/INFO]: [Eskin_: Set the weather to rain & thunder]
+[15:07:41] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:07:56] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:08:39] [Server thread/INFO]: Eskin_ issued server command: /time set day
+[15:08:39] [Server thread/INFO]: [Eskin_: Set the time to 1000]
+[15:09:06] [Server thread/INFO]: Eskin_ was shot by Skeleton
+[15:09:15] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:09:27] [Server thread/INFO]: Eskin_ issued server command: /fly
+[15:10:06] [Server thread/INFO]: Villager EntityVillager['Farmer'/615, uuid='ac593f75-bb6d-4ca6-a09d-286abec9e5cd', l='ServerLevel[world]', x=1277.72, y=68.94, z=-3419.06, cpos=[79, -214], tl=131579, v=true, rR=null] died, message: 'Farmer was slain by Zombie'
+[15:10:17] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:10:29] [Server thread/INFO]: Villager EntityVillager['Villager'/606, uuid='09a2878a-4bdd-421b-aa97-85017b7d70e5', l='ServerLevel[world]', x=1291.11, y=69.00, z=-3405.01, cpos=[80, -213], tl=128736, v=true, rR=null] died, message: 'Villager was slain by Zombie'
+[15:10:49] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:12:04] [Server thread/INFO]: Eskin_ issued server command: /back Hailay
+[15:12:29] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:12:52] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:13:13] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:13:39] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:13:41] [WebSocketConnectReadThread-71/INFO]: [QQ群] [未绑定的QQ] 说: 好耶！
+[15:13:47] [Server thread/INFO]: Eskin_ was shot by Skeleton
+[15:13:56] [Server thread/INFO]: Eskin_ issued server command: /fly
+[15:15:10] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:16:12] [Server thread/INFO]: Eskin_ issued server command: //replacenear air
+[15:16:30] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:17:11] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:18:07] [Server thread/INFO]: Eskin_ issued server command: //forest shortjungle
+[15:19:20] [Server thread/INFO]: Eskin_ issued server command: //replace air
+[15:20:25] [Server thread/INFO]: Eskin_ issued server command: //replace grass_block
+[15:21:53] [Server thread/INFO]: Eskin_ issued server command: //replace grass_blcok
+[15:22:13] [Server thread/INFO]: Eskin_ lost connection: Disconnected
+[15:22:13] [Server thread/INFO]: [管理员] Eskin_ 已下线
+[15:22:30] [WebSocketConnectReadThread-71/INFO]: [QQ群] [未绑定的QQ] 说: 好耶！
+[15:34:12] [User Authenticator #3/INFO]: UUID of player Eskin_ is c9105f64-138e-3c2e-b7b6-192f4a739a0a
+[15:34:13] [Server thread/INFO]: [管理员] Eskin_ 已上线
+[15:34:13] [Server thread/INFO]: Eskin_[/127.0.0.1:49957] logged in with entity id 9264 at ([world]1112.3809243956646, 105.22619807446924, -3386.5718334805515)
+[15:34:32] [Server thread/INFO]: Eskin_ fell from a high place
+[15:34:47] [Server thread/INFO]: Eskin_ issued server command: /kill
+[15:34:47] [Server thread/INFO]: Eskin_ fell out of the world
+[15:34:47] [Server thread/INFO]: [Eskin_: Killed Eskin_]
+[15:34:59] [Server thread/INFO]: Eskin_ issued server command: /fly
+[15:35:25] [Server thread/INFO]: Eskin_ issued server command: /createbag
+[15:40:16] [Server thread/INFO]: Eskin_ issued server command: /back 735 54 -297
+[15:40:58] [Server thread/INFO]: Eskin_ issued server command: /removebelow
+[15:41:23] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:41:37] [Server thread/INFO]: Eskin_ issued server command: //removeabove
+[15:41:52] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:42:01] [Server thread/INFO]: Eskin_ issued server command: //removenear
+[15:42:10] [Server thread/INFO]: Eskin_ issued server command: //removenear air
+[15:42:21] [Server thread/INFO]: Eskin_ issued server command: //undo
+[15:42:31] [Server thread/INFO]: Eskin_ issued server command: /kill
+[15:42:31] [Server thread/INFO]: Eskin_ fell out of the world
+[15:42:31] [Server thread/INFO]: [Eskin_: Killed Eskin_]
+[15:42:41] [Server thread/INFO]: Eskin_ issued server command: /fly
+[15:45:27] [WebSocketConnectReadThread-71/INFO]: [QQ群] HailayLin 说: 先关个服，开个蹦极
+[15:45:37] [Server thread/INFO]: Stopping the server
+[15:45:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:45:37] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:45:37] [Server thread/INFO]: Stopping server
+[15:45:37] [Server thread/INFO]: [UltiTools] Disabling UltiTools v5.1.1
+[15:45:37] [Server thread/INFO]: [UltiTools] 基础插件已卸载！
+[15:45:37] [Server thread/INFO]: [UltiTools] Disabling UltiCore v1.2.0
+[15:45:37] [Server thread/INFO]: UltiCore插件已卸载！
+[15:45:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.6-beta-02+2e45a20
+[15:45:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[15:45:37] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.10
+[15:45:37] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[15:45:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.1.1
+[15:45:37] [Server thread/INFO]: [EasyBot_Reloaded] Disabling EasyBot_Reloaded v1.5
+[15:45:37] [Server thread/INFO]: BOT: 关闭并保存数据中...
+[15:45:37] [Server thread/INFO]: BOT: 释放session...
+[15:45:37] [WebSocketConnectReadThread-71/INFO]: BOT: 从服务器断开连接! 可能是服务器关闭或者禁用了BOT！
+[15:45:37] [Server thread/INFO]: BOT: 释放完成
+[15:45:37] [Server thread/INFO]: BOT: 数据保存完毕！再见，感谢使用 EasyBot.
+[15:45:37] [Server thread/INFO]: [Yum] Disabling Yum v2.9.1-git-129f8543820c25645f6f3d2c7ce115d4ea03ab6d
+[15:45:42] [Server thread/ERROR]: Nag author: 'HelpChat' of 'PlaceholderAPI' about the following: This plugin is not properly shutting down its async tasks when it is being shut down. This task may throw errors during the final shutdown logs and might not complete before process dies.
+[15:45:42] [Server thread/ERROR]: Nag author: 'wisdomme' of 'UltiTools' about the following: This plugin is not properly shutting down its async tasks when it is being shut down. This task may throw errors during the final shutdown logs and might not complete before process dies.
+[15:45:42] [Server thread/INFO]: Saving players
+[15:45:42] [Server thread/INFO]: Eskin_ lost connection: Server closed
+[15:45:42] [Server thread/INFO]: Eskin_ left the game
+[15:45:42] [Server thread/INFO]: Saving worlds
+[15:45:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:45:43] [Server thread/INFO]: Flushing Chunk IO
+[15:45:43] [Server thread/INFO]: Closing Thread Pool
+[15:45:43] [Server thread/INFO]: Closing Server
