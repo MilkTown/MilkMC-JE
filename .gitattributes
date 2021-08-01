@@ -1,0 +1,2 @@
+server/cache/patched_1.17.1.jar filter=lfs diff=lfs merge=lfs -text
+server/paper-1.17.1-118.jar filter=lfs diff=lfs merge=lfs -text

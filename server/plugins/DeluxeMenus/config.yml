@@ -1,9 +1,0 @@
-debug: false
-check_updates: true
-gui_menus:
-  main:
-    file: main.yml
-  worlds:
-    file: worlds.yml
-  commands:
-    file: commands.yml

@@ -1,0 +1,18 @@
+# 确保 mirai 安装了 mirai-api-http
+# 
+# api-http 的地址
+host: 10.0.0.103:25500
+Key: ASDF23RFdsf
+botID: 3234531562
+groupID: 189594977
+enable_Bot: true
+time: 5
+delay: 1
+codeLength: 6
+regex: '[1-9][0-9]{8,10}'
+DEBUG: false
+catch:
+  type: multi
+  text: true
+  img: true
+  at: true

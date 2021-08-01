@@ -1,4 +1,0 @@
-BanList:
-  woshixxpp:
-    uuid: !!java.util.UUID '3cdf7a63-a4ed-3a89-878f-b92640316737'
-    reason: '你使用 Speed 被服务器封禁 '
