@@ -2,7 +2,7 @@
 config_version: 1.0
 
 # 侧边栏标题
-scoreBoardTitle: 欢迎加入服务器
+scoreBoardTitle: MilkTown 4rd
 
 # 以下配置填写PAPI变量，需要在config.yml中打开使用PAPI变量（enable_papi: true)
 # 玩家名变量

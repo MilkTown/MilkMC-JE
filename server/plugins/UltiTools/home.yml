@@ -2,13 +2,13 @@
 config_version: 1.0
 
 # 普通玩家可以设置的最大家数量
-home_normal: 3
+home_normal: 5
 
 # 中级玩家可以设置的最大家数量，权限：ultikits.tools.level1
-home_pro: 5
+home_pro: 10
 
 # 高级玩家可以设置的最大家数量，权限：ultikits.tools.level2
-home_ultimate: 10
+home_ultimate: 20
 
 # 家传送前摇
 home_tpwait: 3

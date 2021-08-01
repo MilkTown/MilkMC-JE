@@ -117,7 +117,7 @@ enable_tpback_command: true
 enable_first_join_broadcast: true
 
 '注释42请勿修改': '(头衔) 自定义头顶显示前缀'
-name_prefix: '§e[§dLv.%player_level%§e]'
+name_prefix: '' #'§e[§dLv.%player_level%§e]'
 
 '注释44请勿修改': '(头衔) 自定义头顶显示后缀'
-name_suffix: '§e[§c%player_health_rounded%§e/§c%player_max_health_rounded%§e]'
+name_suffix: '' #'§e[§c%player_health_rounded%§e/§c%player_max_health_rounded%§e]'
